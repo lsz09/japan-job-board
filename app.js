@@ -84,6 +84,7 @@ let applications = new Map();
 let calendarMonth = dayFormatter.format(new Date()).slice(0, 7);
 let view = "daily";
 let activeType = "";
+const expandedCompanies = new Set();
 
 function jobIndustry(job) {
   const industry = dailyScan.companies?.[job.company]?.industry ?? job.industry;
@@ -464,12 +465,16 @@ function render() {
       grouped.get(company).push(entry);
     }
     for (const [company, entries] of grouped) {
-      const section = element("section", "company-group");
-      const header = element("div", "company-heading");
-      const title = element("div", "company-heading-title");
-      title.append(element("h3", "", company), element("span", "", `${entries.length}건`));
-      header.append(title, renderCompanyInfo(entries[0].job));
-      section.append(header);
+      const section = element("details", "company-group");
+      section.open = expandedCompanies.has(company);
+      section.addEventListener("toggle", () => {
+        if (!section.isConnected) return;
+        if (section.open) expandedCompanies.add(company);
+        else expandedCompanies.delete(company);
+      });
+      const header = element("summary", "company-heading");
+      header.append(element("h3", "", company), element("span", "company-job-count", `${entries.length}건`));
+      section.append(header, renderCompanyInfo(entries[0].job));
       for (const { job, deadline } of entries) section.append(renderJob(job, deadline <= now, { companyLayout: true }));
       deadlines.append(section);
     }

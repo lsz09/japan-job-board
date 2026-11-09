@@ -118,11 +118,17 @@ h2 { font-size: clamp(1.45rem, 3.3vw, 1.93rem); letter-spacing: -.06em; margin-t
 .result-bar { display: flex; align-items: center; justify-content: space-between; gap: 9px; margin-top: 16px; }
 .result-count { font-size: .82rem; font-weight: 700; color: var(--muted); }
 .company-group { background: var(--white); border: 1px solid var(--line); border-radius: var(--radius); margin-top: 12px; overflow: hidden; }
-.company-heading { padding: 12px 15px; background: #eeede5; overflow-wrap: anywhere; }
-.company-heading-title { display: flex; justify-content: space-between; align-items: baseline; gap: 8px; }
+.company-heading { display: flex; align-items: center; gap: 10px; padding: 12px 15px; background: #eeede5; cursor: pointer; overflow-wrap: anywhere; }
+.company-heading::-webkit-details-marker { display: none; }
+.company-heading:hover { background: #e5e8df; }
+.company-heading:focus-visible { outline: 2px solid var(--rust); outline-offset: -3px; }
+.company-heading::after { content: ""; flex: none; width: 8px; height: 8px; border: solid var(--green); border-width: 0 2px 2px 0; transform: rotate(45deg) translateY(-2px); }
+.company-group[open] > .company-heading::after { transform: rotate(225deg) translateY(-2px); }
+.company-heading h3 { flex: 1; min-width: 0; }
 .company-heading h3, .job-company-name { font-size: 1rem; }
-.company-heading-title span { flex: none; color: var(--muted); font-size: .75rem; }
+.company-job-count { flex: none; color: var(--muted); font-size: .75rem; }
 .company-info { display: grid; gap: 5px; margin-top: 6px; }
+.company-group > .company-info { margin-top: 0; padding: 0 15px 12px; background: #eeede5; }
 .company-facts, .job-description { display: grid; gap: 4px; margin: 0; color: var(--muted); font-size: .78rem; line-height: 1.55; }
 .company-facts > div, .job-description > div { display: grid; grid-template-columns: 5.1em minmax(0, 1fr); gap: 5px; }
 .company-facts dt, .job-description dt { color: var(--ink); font-weight: 700; }
