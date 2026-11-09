@@ -1,0 +1,160 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="일본 취업 공고를 찾고 지원 마감일을 관리하는 개인 보드">
+  <meta name="theme-color" content="#f7f6f1">
+  <title>일본 취업 마감보드</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="daily-data.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <svg class="symbols" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+    <symbol id="i-calendar" viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="16" rx="3"/><path d="M3 10h18M8 3v4m8-4v4m-8 8h2m4 0h2"/></symbol>
+    <symbol id="i-out" viewBox="0 0 24 24"><path d="M6 18 18 6M8 6h10v10"/></symbol>
+    <symbol id="i-search" viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6"/><path d="m15 15 4 4"/></symbol>
+    <symbol id="i-down" viewBox="0 0 24 24"><path d="M12 5v14m-5-5 5 5 5-5"/></symbol>
+  </svg>
+  <a class="skip" href="#board">공고 목록으로 건너뛰기</a>
+  <header class="topbar" id="top">
+    <div class="wrap header-inner">
+      <a class="brand" href="#top"><span class="brand-mark"><svg class="icon"><use href="#i-calendar"/></svg></span> 취업 마감보드</a>
+      <nav aria-label="페이지 이동"><a href="#sources">공고 찾기</a><a href="#board">마감 일정</a></nav>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="hero-copy">
+        <p class="eyebrow"><span></span> JAPAN JOB SEARCH</p>
+        <h1 id="hero-title">일본 취업,<br>마감일을 <em>한눈에.</em></h1>
+        <p>네 곳의 채용 사이트에서 찾은 28졸 IT 엔지니어 공고를<br class="wide-only"> 지역과 지원 마감일별로 살펴보세요.</p>
+        <a class="hero-link" href="#board">마감 일정 보기 <svg class="icon"><use href="#i-down"/></svg></a>
+      </div>
+      <div class="hero-art" aria-hidden="true">
+        <div class="art-grid"></div>
+        <div class="art-sun"></div>
+        <div class="art-sheet">
+          <span class="binding binding-one"></span><span class="binding binding-two"></span>
+          <span class="art-label">DEADLINE BOARD</span>
+          <div class="art-date"><strong id="art-day">08</strong><span id="art-month">NOV<br>JST</span></div>
+          <div class="art-line"></div>
+          <div class="art-dots"><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div>
+        </div>
+        <span class="art-caption">日本で働く <span></span> 東京時間</span>
+      </div>
+    </section>
+
+    <section class="sources" id="sources" aria-labelledby="sources-title">
+      <div class="section-heading">
+        <div><p class="eyebrow">01 / SOURCES</p><h2 id="sources-title">채용 사이트 바로가기</h2></div>
+        <p class="section-aside">공식 페이지가 새 탭에서 열려요</p>
+      </div>
+      <div class="source-grid">
+        <article class="source-card mynavi">
+          <div class="source-identity"><span class="source-icon" aria-hidden="true">M</span><div><h3>마이나비</h3><p lang="ja">マイナビ</p></div></div>
+          <div class="source-links">
+            <a href="https://job.mynavi.jp/" target="_blank" rel="noopener noreferrer">졸업연도별 입구 <svg class="icon"><use href="#i-out"/></svg></a>
+            <a href="https://job.mynavi.jp/28/pc/corpinfo/displayCorpSearchByIs/index" target="_blank" rel="noopener noreferrer">28졸 인턴십 <svg class="icon"><use href="#i-out"/></svg></a>
+            <a href="https://job.mynavi.jp/28/pc/search/is_it3.html" target="_blank" rel="noopener noreferrer">오픈 컴퍼니·설명회 <svg class="icon"><use href="#i-out"/></svg></a>
+          </div>
+        </article>
+        <article class="source-card rikunabi">
+          <div class="source-identity"><span class="source-icon" aria-hidden="true">R</span><div><h3>리쿠나비</h3><p lang="ja">リクナビ</p></div></div>
+          <div class="source-links"><a href="https://job.rikunabi.com/" target="_blank" rel="noopener noreferrer">기업·공고 검색 <svg class="icon"><use href="#i-out"/></svg></a><a href="https://job.rikunabi.com/job_search/indu2-2204/" target="_blank" rel="noopener noreferrer">소프트웨어 개발 <svg class="icon"><use href="#i-out"/></svg></a></div>
+        </article>
+        <article class="source-card onecareer">
+          <div class="source-identity"><span class="source-icon" aria-hidden="true">O</span><div><h3>원커리어</h3><p lang="ja">ワンキャリア</p></div></div>
+          <div class="source-links">
+            <a href="https://www.onecareer.jp/events/internship" target="_blank" rel="noopener noreferrer">인턴십 <svg class="icon"><use href="#i-out"/></svg></a>
+            <a href="https://www.onecareer.jp/events/seminar" target="_blank" rel="noopener noreferrer">설명회 <svg class="icon"><use href="#i-out"/></svg></a>
+            <a href="https://www.onecareer.jp/events/selection" target="_blank" rel="noopener noreferrer">선고 <svg class="icon"><use href="#i-out"/></svg></a>
+            <a href="https://www.onecareer.jp/engineer/jobs" target="_blank" rel="noopener noreferrer">엔지니어 공고 <svg class="icon"><use href="#i-out"/></svg></a>
+          </div>
+        </article>
+        <article class="source-card gaishi">
+          <div class="source-identity"><span class="source-icon" aria-hidden="true">G</span><div><h3>외자취활</h3><p lang="ja">外資就活ドットコム</p></div></div>
+          <div class="source-links"><a href="https://gaishishukatsu.com/recruiting_info" target="_blank" rel="noopener noreferrer">모집 공고·마감일 <svg class="icon"><use href="#i-out"/></svg></a><a href="https://gaishishukatsu.com/engineer/recruiting_info" target="_blank" rel="noopener noreferrer">엔지니어 공고 <svg class="icon"><use href="#i-out"/></svg></a></div>
+        </article>
+      </div>
+    </section>
+
+    <section class="board" id="board" aria-labelledby="board-title">
+      <div class="section-heading">
+        <div><p class="eyebrow">02 / DEADLINES</p><h2 id="board-title">조건별 공고 보기</h2></div>
+        <p class="section-aside"><svg class="icon"><use href="#i-calendar"/></svg> 일본 시간 기준 · JST</p>
+      </div>
+      <nav class="view-switch" aria-label="마감보드 페이지">
+        <a href="#board" data-view="daily" aria-current="page">매일 확인한 공고</a>
+        <a href="#applied" data-view="applied">지원한 공고</a>
+        <a href="#calendar" data-view="calendar">캘린더</a>
+      </nav>
+      <p class="application-status" id="application-status" role="status"></p>
+      <div id="daily">
+        <div class="toolbar">
+          <label class="search"><svg class="icon"><use href="#i-search"/></svg><span class="sr-only">기업명 또는 공고명 검색</span><input type="search" id="query" placeholder="기업명, 공고명 검색"></label>
+          <label class="source-filter"><span class="sr-only">출처 필터</span><select id="source-filter"><option value="">모든 출처</option><option value="mynavi">마이나비</option><option value="rikunabi">리쿠나비</option><option value="onecareer">원커리어</option><option value="gaishi">외자취활</option></select></label>
+        </div>
+        <div class="filter-panel">
+          <div class="types" role="group" aria-label="공고 유형 필터">
+            <button type="button" data-type="" aria-pressed="true">전체</button>
+            <button type="button" data-type="internship" aria-pressed="false">인턴십</button>
+            <button type="button" data-type="briefing" aria-pressed="false">회사설명회</button>
+            <button type="button" data-type="early" aria-pressed="false">조기선고</button>
+            <button type="button" data-type="main" aria-pressed="false">본선고</button>
+          </div>
+          <div class="daily-filters" id="daily-filters">
+            <label>업계<select id="industry-filter"><option value="">모든 업계</option></select></label>
+            <label>지역<select id="region-filter"><option value="">모든 지역</option></select></label>
+            <label>참가 형식<select id="format-filter"><option value="">모든 형식</option><option value="online">온라인 가능</option><option value="onsite">현장 참가 가능</option></select></label>
+            <label>기업 규모<select id="size-filter"><option value="">300명 이상 (전체)</option><option value="1000">1,000명 이상</option><option value="3000">3,000명 이상</option><option value="5000">5,000명 이상</option><option value="10000">10,000명 이상</option></select></label>
+            <label>마감 기간<select id="deadline-filter"><option value="">모든 마감일</option><option value="7">7일 이내</option><option value="30">30일 이내</option><option value="later">30일 초과</option><option value="unknown">날짜 미정·수시 모집</option></select></label>
+            <label>기업<select id="company-filter"><option value="">모든 기업</option></select></label>
+          </div>
+          <div class="board-controls">
+            <label class="include-closed"><input type="checkbox" id="include-closed"> 마감된 공고 포함</label>
+            <button class="reset-filters" type="button" id="reset-filters">조건 초기화</button>
+          </div>
+        </div>
+        <p class="board-note" id="board-note"></p>
+        <ul class="scan-sources" id="scan-sources" aria-label="출처별 목록 확인 범위"></ul>
+        <details class="scan-coverage" id="scan-coverage" hidden>
+          <summary>목록 확인 기록</summary>
+          <p>목록 페이지를 열어 본 범위입니다. 각 공고의 자격과 마감일은 상세 페이지에서 따로 확인합니다.</p>
+          <ul id="scan-tracks"></ul>
+        </details>
+        <div class="result-bar">
+          <p class="result-count" id="result-count" role="status"></p>
+          <label class="source-filter" id="layout-control"><span class="sr-only">보기 방식</span><select id="layout-filter"><option value="company">기업별 보기</option><option value="date">마감일별 보기</option></select></label>
+        </div>
+        <div id="deadlines"></div>
+      </div>
+      <section class="personal-view" id="applied" aria-labelledby="applied-title" hidden>
+        <h3 id="applied-title" tabindex="-1">지원 기록</h3>
+        <p class="view-description" id="applied-count"></p>
+        <div id="applied-jobs"></div>
+      </section>
+      <section class="personal-view" id="calendar" aria-labelledby="calendar-title" hidden>
+        <h3 id="calendar-title">지원한 공고의 마감일</h3>
+        <div class="calendar-toolbar">
+          <button type="button" id="calendar-prev" aria-label="이전 달">‹</button>
+          <h4 id="calendar-month" aria-live="polite"></h4>
+          <button type="button" id="calendar-next" aria-label="다음 달">›</button>
+          <button type="button" id="calendar-today">이번 달</button>
+        </div>
+        <table class="calendar-grid" aria-labelledby="calendar-month">
+          <thead><tr><th scope="col">일</th><th scope="col">월</th><th scope="col">화</th><th scope="col">수</th><th scope="col">목</th><th scope="col">금</th><th scope="col">토</th></tr></thead>
+          <tbody id="calendar-days"></tbody>
+        </table>
+        <div class="calendar-agenda" id="calendar-agenda"></div>
+      </section>
+      <noscript>마감 보드를 사용하려면 브라우저에서 JavaScript를 켜주세요.</noscript>
+    </section>
+
+    <footer><span>일본 취업 마감보드</span><span>지원 전, 정확한 마감 시간과 지원 자격을 원문에서 확인하세요.</span><a href="#top">맨 위로 ↑</a></footer>
+  </main>
+
+</body>
+</html>
