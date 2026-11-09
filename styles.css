@@ -217,7 +217,7 @@ footer a { margin-left: auto; white-space: nowrap; }
   .source-links { gap: 3px 8px; }
   .toolbar { flex-wrap: wrap; }
   .daily-filters { grid-template-columns: repeat(2, minmax(0, 1fr)); }
-  .view-switch { width: 100%; }
+  .view-switch { width: 100%; flex-wrap: wrap; }
   .view-switch a { flex: 1; padding-inline: 6px; text-align: center; }
   .search { flex: 1; min-width: 0; }
   .search input { width: 100%; }

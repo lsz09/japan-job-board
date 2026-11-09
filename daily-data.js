@@ -1,5 +1,5 @@
 window.dailyScan = {
-  "checkedAt": "2026-11-09T14:37:37.765Z",
+  "checkedAt": "2026-11-09T15:58:52.227Z",
   "sources": {
     "mynavi": "partial",
     "rikunabi": "partial",
@@ -1900,6 +1900,405 @@ window.dailyScan = {
       "verifiedOn": "2026-11-09",
       "employeeCount": 3084,
       "companySizeUrl": "https://www.nintendo.co.jp/corporate/outline/index.html"
+    },
+    {
+      "id": "onecareer-95344-20261112",
+      "company": "테라스카이",
+      "title": "28졸 Salesforce 클라우드 개발 체험 (11/12)",
+      "type": "internship",
+      "source": "onecareer",
+      "date": "2026-11-11",
+      "time": "13:59",
+      "regions": [
+        "online"
+      ],
+      "location": "온라인",
+      "url": "https://www.onecareer.jp/events/seminar/95344",
+      "employeeCount": 816,
+      "companySizeUrl": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=5010001125410",
+      "verifiedOn": "2026-11-10",
+      "audience": "2028년 졸업 예정자. 프로그래밍 경험이 없어도 참가할 수 있습니다.",
+      "summary": "클라우드 플랫폼 Salesforce와 엔지니어 역할을 소개한 뒤 약 2시간 반 동안 Salesforce 개발을 직접 실습합니다."
+    },
+    {
+      "id": "onecareer-95344-20261120",
+      "company": "테라스카이",
+      "title": "28졸 Salesforce 클라우드 개발 체험 (11/20)",
+      "type": "internship",
+      "source": "onecareer",
+      "date": "2026-11-19",
+      "time": "13:59",
+      "regions": [
+        "online"
+      ],
+      "location": "온라인",
+      "url": "https://www.onecareer.jp/events/seminar/95344",
+      "employeeCount": 816,
+      "companySizeUrl": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=5010001125410",
+      "verifiedOn": "2026-11-10",
+      "audience": "2028년 졸업 예정자. 프로그래밍 경험이 없어도 참가할 수 있습니다.",
+      "summary": "클라우드 플랫폼 Salesforce와 엔지니어 역할을 소개한 뒤 약 2시간 반 동안 Salesforce 개발을 직접 실습합니다."
+    },
+    {
+      "id": "onecareer-95344-20261124",
+      "company": "테라스카이",
+      "title": "28졸 Salesforce 클라우드 개발 체험 (11/24)",
+      "type": "internship",
+      "source": "onecareer",
+      "date": "2026-11-23",
+      "time": "13:59",
+      "regions": [
+        "online"
+      ],
+      "location": "온라인",
+      "url": "https://www.onecareer.jp/events/seminar/95344",
+      "employeeCount": 816,
+      "companySizeUrl": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=5010001125410",
+      "verifiedOn": "2026-11-10",
+      "audience": "2028년 졸업 예정자. 프로그래밍 경험이 없어도 참가할 수 있습니다.",
+      "summary": "클라우드 플랫폼 Salesforce와 엔지니어 역할을 소개한 뒤 약 2시간 반 동안 Salesforce 개발을 직접 실습합니다."
+    },
+    {
+      "id": "onecareer-95344-20261202",
+      "company": "테라스카이",
+      "title": "28졸 Salesforce 클라우드 개발 체험 (12/2)",
+      "type": "internship",
+      "source": "onecareer",
+      "date": "2026-12-01",
+      "time": "13:59",
+      "regions": [
+        "online"
+      ],
+      "location": "온라인",
+      "url": "https://www.onecareer.jp/events/seminar/95344",
+      "employeeCount": 816,
+      "companySizeUrl": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=5010001125410",
+      "verifiedOn": "2026-11-10",
+      "audience": "2028년 졸업 예정자. 프로그래밍 경험이 없어도 참가할 수 있습니다.",
+      "summary": "클라우드 플랫폼 Salesforce와 엔지니어 역할을 소개한 뒤 약 2시간 반 동안 Salesforce 개발을 직접 실습합니다."
+    },
+    {
+      "id": "onecareer-95344-20261210",
+      "company": "테라스카이",
+      "title": "28졸 Salesforce 클라우드 개발 체험 (12/10)",
+      "type": "internship",
+      "source": "onecareer",
+      "date": "2026-12-09",
+      "time": "13:59",
+      "regions": [
+        "online"
+      ],
+      "location": "온라인",
+      "url": "https://www.onecareer.jp/events/seminar/95344",
+      "employeeCount": 816,
+      "companySizeUrl": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=5010001125410",
+      "verifiedOn": "2026-11-10",
+      "audience": "2028년 졸업 예정자. 프로그래밍 경험이 없어도 참가할 수 있습니다.",
+      "summary": "클라우드 플랫폼 Salesforce와 엔지니어 역할을 소개한 뒤 약 2시간 반 동안 Salesforce 개발을 직접 실습합니다."
+    },
+    {
+      "id": "onecareer-95344-20261218",
+      "company": "테라스카이",
+      "title": "28졸 Salesforce 클라우드 개발 체험 (12/18)",
+      "type": "internship",
+      "source": "onecareer",
+      "date": "2026-12-17",
+      "time": "13:59",
+      "regions": [
+        "online"
+      ],
+      "location": "온라인",
+      "url": "https://www.onecareer.jp/events/seminar/95344",
+      "employeeCount": 816,
+      "companySizeUrl": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=5010001125410",
+      "verifiedOn": "2026-11-10",
+      "audience": "2028년 졸업 예정자. 프로그래밍 경험이 없어도 참가할 수 있습니다.",
+      "summary": "클라우드 플랫폼 Salesforce와 엔지니어 역할을 소개한 뒤 약 2시간 반 동안 Salesforce 개발을 직접 실습합니다."
+    },
+    {
+      "id": "onecareer-95344-20261222",
+      "company": "테라스카이",
+      "title": "28졸 Salesforce 클라우드 개발 체험 (12/22)",
+      "type": "internship",
+      "source": "onecareer",
+      "date": "2026-12-21",
+      "time": "13:59",
+      "regions": [
+        "online"
+      ],
+      "location": "온라인",
+      "url": "https://www.onecareer.jp/events/seminar/95344",
+      "employeeCount": 816,
+      "companySizeUrl": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=5010001125410",
+      "verifiedOn": "2026-11-10",
+      "audience": "2028년 졸업 예정자. 프로그래밍 경험이 없어도 참가할 수 있습니다.",
+      "summary": "클라우드 플랫폼 Salesforce와 엔지니어 역할을 소개한 뒤 약 2시간 반 동안 Salesforce 개발을 직접 실습합니다."
+    },
+    {
+      "id": "onecareer-95345-20261111",
+      "company": "테라스카이",
+      "title": "28졸 클라우드·Salesforce 엔지니어 설명회 (11/11)",
+      "type": "briefing",
+      "source": "onecareer",
+      "date": "2026-11-10",
+      "time": "13:59",
+      "regions": [
+        "online"
+      ],
+      "location": "온라인",
+      "url": "https://www.onecareer.jp/events/selection/95345",
+      "employeeCount": 816,
+      "companySizeUrl": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=5010001125410",
+      "verifiedOn": "2026-11-10",
+      "audience": "2028년 졸업 예정자. 문·이과 및 클라우드 경험 무관.",
+      "summary": "사전 영상과 현직자 좌담회로 클라우드의 기초, Salesforce 개발 흐름과 실제 고객 프로젝트를 살펴봅니다. 조기선고 안내가 있습니다."
+    },
+    {
+      "id": "onecareer-95345-20261117",
+      "company": "테라스카이",
+      "title": "28졸 클라우드·Salesforce 엔지니어 설명회 (11/17)",
+      "type": "briefing",
+      "source": "onecareer",
+      "date": "2026-11-16",
+      "time": "13:59",
+      "regions": [
+        "online"
+      ],
+      "location": "온라인",
+      "url": "https://www.onecareer.jp/events/selection/95345",
+      "employeeCount": 816,
+      "companySizeUrl": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=5010001125410",
+      "verifiedOn": "2026-11-10",
+      "audience": "2028년 졸업 예정자. 문·이과 및 클라우드 경험 무관.",
+      "summary": "사전 영상과 현직자 좌담회로 클라우드의 기초, Salesforce 개발 흐름과 실제 고객 프로젝트를 살펴봅니다. 조기선고 안내가 있습니다."
+    },
+    {
+      "id": "onecareer-95345-20261119",
+      "company": "테라스카이",
+      "title": "28졸 클라우드·Salesforce 엔지니어 설명회 (11/19)",
+      "type": "briefing",
+      "source": "onecareer",
+      "date": "2026-11-18",
+      "time": "13:59",
+      "regions": [
+        "online"
+      ],
+      "location": "온라인",
+      "url": "https://www.onecareer.jp/events/selection/95345",
+      "employeeCount": 816,
+      "companySizeUrl": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=5010001125410",
+      "verifiedOn": "2026-11-10",
+      "audience": "2028년 졸업 예정자. 문·이과 및 클라우드 경험 무관.",
+      "summary": "사전 영상과 현직자 좌담회로 클라우드의 기초, Salesforce 개발 흐름과 실제 고객 프로젝트를 살펴봅니다. 조기선고 안내가 있습니다."
+    },
+    {
+      "id": "onecareer-95345-20261125",
+      "company": "테라스카이",
+      "title": "28졸 클라우드·Salesforce 엔지니어 설명회 (11/25)",
+      "type": "briefing",
+      "source": "onecareer",
+      "date": "2026-11-24",
+      "time": "13:59",
+      "regions": [
+        "online"
+      ],
+      "location": "온라인",
+      "url": "https://www.onecareer.jp/events/selection/95345",
+      "employeeCount": 816,
+      "companySizeUrl": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=5010001125410",
+      "verifiedOn": "2026-11-10",
+      "audience": "2028년 졸업 예정자. 문·이과 및 클라우드 경험 무관.",
+      "summary": "사전 영상과 현직자 좌담회로 클라우드의 기초, Salesforce 개발 흐름과 실제 고객 프로젝트를 살펴봅니다. 조기선고 안내가 있습니다."
+    },
+    {
+      "id": "onecareer-95345-20261201",
+      "company": "테라스카이",
+      "title": "28졸 클라우드·Salesforce 엔지니어 설명회 (12/1)",
+      "type": "briefing",
+      "source": "onecareer",
+      "date": "2026-11-30",
+      "time": "13:59",
+      "regions": [
+        "online"
+      ],
+      "location": "온라인",
+      "url": "https://www.onecareer.jp/events/selection/95345",
+      "employeeCount": 816,
+      "companySizeUrl": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=5010001125410",
+      "verifiedOn": "2026-11-10",
+      "audience": "2028년 졸업 예정자. 문·이과 및 클라우드 경험 무관.",
+      "summary": "사전 영상과 현직자 좌담회로 클라우드의 기초, Salesforce 개발 흐름과 실제 고객 프로젝트를 살펴봅니다. 조기선고 안내가 있습니다."
+    },
+    {
+      "id": "onecareer-95345-20261203",
+      "company": "테라스카이",
+      "title": "28졸 클라우드·Salesforce 엔지니어 설명회 (12/3)",
+      "type": "briefing",
+      "source": "onecareer",
+      "date": "2026-12-02",
+      "time": "13:59",
+      "regions": [
+        "online"
+      ],
+      "location": "온라인",
+      "url": "https://www.onecareer.jp/events/selection/95345",
+      "employeeCount": 816,
+      "companySizeUrl": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=5010001125410",
+      "verifiedOn": "2026-11-10",
+      "audience": "2028년 졸업 예정자. 문·이과 및 클라우드 경험 무관.",
+      "summary": "사전 영상과 현직자 좌담회로 클라우드의 기초, Salesforce 개발 흐름과 실제 고객 프로젝트를 살펴봅니다. 조기선고 안내가 있습니다."
+    },
+    {
+      "id": "onecareer-95345-20261207",
+      "company": "테라스카이",
+      "title": "28졸 클라우드·Salesforce 엔지니어 설명회 (12/7)",
+      "type": "briefing",
+      "source": "onecareer",
+      "date": "2026-12-06",
+      "time": "13:59",
+      "regions": [
+        "online"
+      ],
+      "location": "온라인",
+      "url": "https://www.onecareer.jp/events/selection/95345",
+      "employeeCount": 816,
+      "companySizeUrl": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=5010001125410",
+      "verifiedOn": "2026-11-10",
+      "audience": "2028년 졸업 예정자. 문·이과 및 클라우드 경험 무관.",
+      "summary": "사전 영상과 현직자 좌담회로 클라우드의 기초, Salesforce 개발 흐름과 실제 고객 프로젝트를 살펴봅니다. 조기선고 안내가 있습니다."
+    },
+    {
+      "id": "onecareer-95345-20261211",
+      "company": "테라스카이",
+      "title": "28졸 클라우드·Salesforce 엔지니어 설명회 (12/11)",
+      "type": "briefing",
+      "source": "onecareer",
+      "date": "2026-12-10",
+      "time": "13:59",
+      "regions": [
+        "online"
+      ],
+      "location": "온라인",
+      "url": "https://www.onecareer.jp/events/selection/95345",
+      "employeeCount": 816,
+      "companySizeUrl": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=5010001125410",
+      "verifiedOn": "2026-11-10",
+      "audience": "2028년 졸업 예정자. 문·이과 및 클라우드 경험 무관.",
+      "summary": "사전 영상과 현직자 좌담회로 클라우드의 기초, Salesforce 개발 흐름과 실제 고객 프로젝트를 살펴봅니다. 조기선고 안내가 있습니다."
+    },
+    {
+      "id": "onecareer-95345-20261216",
+      "company": "테라스카이",
+      "title": "28졸 클라우드·Salesforce 엔지니어 설명회 (12/16)",
+      "type": "briefing",
+      "source": "onecareer",
+      "date": "2026-12-15",
+      "time": "13:59",
+      "regions": [
+        "online"
+      ],
+      "location": "온라인",
+      "url": "https://www.onecareer.jp/events/selection/95345",
+      "employeeCount": 816,
+      "companySizeUrl": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=5010001125410",
+      "verifiedOn": "2026-11-10",
+      "audience": "2028년 졸업 예정자. 문·이과 및 클라우드 경험 무관.",
+      "summary": "사전 영상과 현직자 좌담회로 클라우드의 기초, Salesforce 개발 흐름과 실제 고객 프로젝트를 살펴봅니다. 조기선고 안내가 있습니다."
+    },
+    {
+      "id": "onecareer-95345-20261217",
+      "company": "테라스카이",
+      "title": "28졸 클라우드·Salesforce 엔지니어 설명회 (12/17)",
+      "type": "briefing",
+      "source": "onecareer",
+      "date": "2026-12-16",
+      "time": "13:59",
+      "regions": [
+        "online"
+      ],
+      "location": "온라인",
+      "url": "https://www.onecareer.jp/events/selection/95345",
+      "employeeCount": 816,
+      "companySizeUrl": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=5010001125410",
+      "verifiedOn": "2026-11-10",
+      "audience": "2028년 졸업 예정자. 문·이과 및 클라우드 경험 무관.",
+      "summary": "사전 영상과 현직자 좌담회로 클라우드의 기초, Salesforce 개발 흐름과 실제 고객 프로젝트를 살펴봅니다. 조기선고 안내가 있습니다."
+    },
+    {
+      "id": "onecareer-97922",
+      "company": "TISI",
+      "title": "28졸 AWS 퍼블릭 클라우드 인프라 구축 1일 체험",
+      "type": "internship",
+      "source": "onecareer",
+      "date": "2026-11-13",
+      "time": "23:59",
+      "regions": [
+        "kanto"
+      ],
+      "location": "도쿄도 고토구 도요스",
+      "url": "https://www.onecareer.jp/events/internship/97922",
+      "employeeCount": 6066,
+      "companySizeUrl": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2010001134133",
+      "verifiedOn": "2026-11-10",
+      "audience": "2028년 졸업 예정자로 클라우드 플랫폼 개발에 관심 있는 사람.",
+      "summary": "AWS 환경에서 팀으로 시스템 인프라를 구축하고 현직 엔지니어의 피드백을 받습니다. 개최일은 11월 15일, 12월 12일, 1월 16일로 안내돼 있으며 원커리어 신청 마감은 11월 13일입니다."
+    },
+    {
+      "id": "mynavi-66479-GtKCz",
+      "company": "마이나비",
+      "title": "28졸 AWS 클라우드 엔지니어 2일 체험",
+      "type": "internship",
+      "source": "mynavi",
+      "date": "2026-11-19",
+      "time": "17:00",
+      "regions": [
+        "online"
+      ],
+      "location": "온라인",
+      "url": "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?corpId=66479&optNo=GtKCz",
+      "employeeCount": 8070,
+      "companySizeUrl": "https://www.mynavi.jp/recruit/it/wp-content/uploads/2026/03/companyinformation.pdf",
+      "verifiedOn": "2026-11-10",
+      "audience": "28졸을 포함한 대학·대학원 재학생. 클라우드 경험이 없어도 지원할 수 있습니다.",
+      "summary": "클라우드와 AWS 기초를 배우고 장애 원인을 찾아 해결하는 실습을 합니다. 엔트리시트 제출 마감은 11월 19일 17:00 JST입니다."
+    },
+    {
+      "id": "official-classmethod-2028-engineer",
+      "company": "클래스메소드",
+      "title": "28졸 AWS·클라우드 엔지니어 본선고",
+      "type": "main",
+      "source": "official",
+      "date": "",
+      "time": "",
+      "regions": [
+        "kanto"
+      ],
+      "location": "도쿄도 미나토구 히비야 본사",
+      "url": "https://careers.classmethod.jp/requirements/new-graduate2028-engineer/",
+      "employeeCount": 621,
+      "companySizeUrl": "https://classmethod.jp/company/finance/",
+      "verifiedOn": "2026-11-10",
+      "audience": "2028년 3월 대학·단기대학·전문학교 등 졸업 예정자. 전공 무관이며 프로그래밍 학습·언어 사용 경험과 Git 등 버전 관리 도구의 기본 경험이 필요합니다.",
+      "summary": "AWS 등 클라우드 환경의 인프라를 설계·구축·운영하고 웹 앱 개발과 고객 요구사항 정의에도 참여합니다. 공개 채용 페이지에 신청 마감일은 표시되지 않습니다."
+    },
+    {
+      "id": "official-serverworks-2028-briefing",
+      "company": "서버웍스",
+      "title": "28졸 AWS 클라우드 엔지니어 채용 설명회",
+      "type": "briefing",
+      "source": "official",
+      "date": "",
+      "time": "",
+      "regions": [
+        "online"
+      ],
+      "location": "온라인",
+      "url": "https://www.serverworks.co.jp/recruit/guideline-newgraduate/",
+      "employeeCount": 367,
+      "companySizeUrl": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100Y5TF.pdf",
+      "verifiedOn": "2026-11-10",
+      "audience": "2028년 4월 정규직 입사가 가능하고 단기대학 졸업에 상응하는 학력 이상인 사람. 고등전문학교 본과와 2년제 전문학교를 포함하며 전공 무관입니다.",
+      "summary": "AWS 설계·구축·운영 직무를 포함한 신입 채용 온라인 설명회입니다. 공개 페이지에서 11~12월 개최일을 안내하며 신청 마감일은 표시하지 않습니다. 설명회 후 선고에 진입할 수 있습니다."
     }
   ],
   "companies": {
@@ -2127,6 +2526,36 @@ window.dailyScan = {
       "address": "京都市南区上鳥羽鉾立町11-1",
       "business": "게임기와 게임 소프트웨어를 개발·판매하고 온라인 게임 서비스와 디지털 유통을 운영합니다.",
       "url": "https://www.nintendo.co.jp/corporate/outline/index.html"
+    },
+    "테라스카이": {
+      "industry": "it",
+      "address": "東京都中央区日本橋2-11-2 太陽生命日本橋ビル",
+      "business": "Salesforce 기반 클라우드 시스템을 도입·개발하고 자체 클라우드 제품을 개발·판매합니다.",
+      "url": "https://newgrad.terrasky.co.jp/aboutus"
+    },
+    "TISI": {
+      "industry": "it",
+      "address": "東京都新宿区西新宿8-17-1",
+      "business": "금융·산업·공공 분야의 업무 시스템과 플랫폼을 구축하고 IT 컨설팅, 소프트웨어 개발, 시스템 운영을 제공합니다.",
+      "url": "https://www.tisi.jp/company/information/"
+    },
+    "마이나비": {
+      "industry": "media",
+      "address": "東京都千代田区一ツ橋1-1-1 パレスサイドビル",
+      "business": "채용·취업 정보와 인재 서비스를 운영하고 자사 디지털 플랫폼을 개발합니다.",
+      "url": "https://www.mynavi.jp/company/overview/"
+    },
+    "클래스메소드": {
+      "industry": "it",
+      "address": "東京都港区西新橋1-1-1 日比谷フォートタワー26階",
+      "business": "AWS를 중심으로 클라우드 전환, 인프라 구축·운영, 데이터 기반 및 생성형 AI 도입을 지원합니다.",
+      "url": "https://classmethod.jp/company/overview/"
+    },
+    "서버웍스": {
+      "industry": "it",
+      "address": "東京都新宿区揚場町1-21 飯田橋升本ビル2階",
+      "business": "기업의 AWS 도입·이전, 클라우드 네이티브 시스템 구축, 운영·모니터링을 지원합니다.",
+      "url": "https://www.serverworks.co.jp/corporate/"
     }
   },
   "coverage": {
@@ -2772,7 +3201,6 @@ window.dailyScan = {
           "https://www.onecareer.jp/events/seminar/100870",
           "https://www.onecareer.jp/events/seminar/91820",
           "https://www.onecareer.jp/events/seminar/96529",
-          "https://www.onecareer.jp/events/seminar/95344",
           "https://www.onecareer.jp/events/seminar/81926",
           "https://www.onecareer.jp/events/seminar/95499",
           "https://www.onecareer.jp/events/seminar/95504",
@@ -2870,7 +3298,6 @@ window.dailyScan = {
           "https://www.onecareer.jp/events/selection/100241",
           "https://www.onecareer.jp/events/selection/103069",
           "https://www.onecareer.jp/events/selection/76856",
-          "https://www.onecareer.jp/events/selection/95345",
           "https://www.onecareer.jp/events/selection/101334",
           "https://www.onecareer.jp/events/selection/97104",
           "https://www.onecareer.jp/events/selection/89312",

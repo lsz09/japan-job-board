@@ -6,9 +6,9 @@
   <meta name="description" content="일본 취업 공고를 찾고 지원 마감일을 관리하는 개인 보드">
   <meta name="theme-color" content="#f7f6f1">
   <title>일본 취업 마감보드</title>
-  <link rel="stylesheet" href="styles.css?v=company-disclosure">
-  <script src="daily-data.js" defer></script>
-  <script src="app.js?v=company-disclosure" defer></script>
+  <link rel="stylesheet" href="styles.css?v=cloud-view">
+  <script src="daily-data.js?v=cloud-view" defer></script>
+  <script src="app.js?v=cloud-view" defer></script>
 </head>
 <body>
   <svg class="symbols" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
@@ -88,14 +88,16 @@
       </div>
       <nav class="view-switch" aria-label="마감보드 페이지">
         <a href="#board" data-view="daily" aria-current="page">매일 확인한 공고</a>
+        <a href="#cloud" data-view="cloud">클라우드 관련</a>
         <a href="#applied" data-view="applied">지원한 공고</a>
         <a href="#calendar" data-view="calendar">캘린더</a>
       </nav>
       <p class="application-status" id="application-status" role="status"></p>
       <div id="daily">
+        <p id="cloud-description" class="view-description" hidden>클라우드 인프라, 플랫폼 개발·운영, 클라우드 기술을 다루는 28졸 엔지니어 공고를 모았습니다.</p>
         <div class="toolbar">
           <label class="search"><svg class="icon"><use href="#i-search"/></svg><span class="sr-only">기업명 또는 공고명 검색</span><input type="search" id="query" placeholder="기업명, 공고명 검색"></label>
-          <label class="source-filter"><span class="sr-only">출처 필터</span><select id="source-filter"><option value="">모든 출처</option><option value="mynavi">마이나비</option><option value="rikunabi">리쿠나비</option><option value="onecareer">원커리어</option><option value="gaishi">외자취활</option></select></label>
+          <label class="source-filter"><span class="sr-only">출처 필터</span><select id="source-filter"><option value="">모든 출처</option><option value="mynavi">마이나비</option><option value="rikunabi">리쿠나비</option><option value="onecareer">원커리어</option><option value="gaishi">외자취활</option><option value="official">기업 공식 채용</option></select></label>
         </div>
         <div class="filter-panel">
           <div class="types" role="group" aria-label="공고 유형 필터">

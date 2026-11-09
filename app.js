@@ -1,7 +1,7 @@
 "use strict";
 
 const types = { internship: "인턴십", briefing: "회사설명회", early: "조기선고", main: "본선고" };
-const sources = { mynavi: "마이나비", rikunabi: "리쿠나비", onecareer: "원커리어", gaishi: "외자취활" };
+const sources = { mynavi: "마이나비", rikunabi: "리쿠나비", onecareer: "원커리어", gaishi: "외자취활", official: "기업 공식 채용" };
 const regions = {
   hokkaido: "홋카이도", tohoku: "도호쿠", kanto: "간토", chubu: "주부", kinki: "긴키·간사이",
   chugoku: "주고쿠", shikoku: "시코쿠", kyushu: "규슈·오키나와", nationwide: "전국",
@@ -68,12 +68,19 @@ function validBoardJob(job) {
   if (!validJob(job)) return false;
   const hostname = new URL(job.url).hostname;
   const domain = sourceDomains[job.source];
-  return (hostname === domain || hostname === `www.${domain}`) &&
+  const companyUrl = httpUrl(dailyScan.companies?.[job.company]?.url);
+  const companyDomain = companyUrl ? new URL(companyUrl).hostname.replace(/^www\./, "") : "";
+  const matchesSource = job.source === "official"
+    ? companyDomain && (hostname === companyDomain || hostname.endsWith(`.${companyDomain}`))
+    : hostname === domain || hostname === `www.${domain}`;
+  return matchesSource &&
     Number.isInteger(job.employeeCount) && job.employeeCount >= 300 && httpUrl(job.companySizeUrl) &&
     Array.isArray(job.regions) && job.regions.length > 0 && job.regions.every(region => Object.hasOwn(regions, region));
 }
 
 const dailyJobs = (Array.isArray(dailyScan.jobs) ? dailyScan.jobs : []).filter(validBoardJob);
+const cloudJobs = dailyJobs.filter(job =>
+  /클라우드|\b(?:AWS|Azure|GCP|Google Cloud|Salesforce)\b/i.test(`${job.title} ${job.summary ?? ""}`));
 const currentJobs = new Map(dailyJobs.map(job => [job.id, job]));
 const applicationPrefix = "japan-job-board:applied:";
 const applicationStatus = document.querySelector("#application-status");
@@ -197,7 +204,8 @@ function renderDailyStatus(today) {
   const trackList = document.querySelector("#scan-tracks");
   statusList.replaceChildren();
   trackList.replaceChildren();
-  for (const [key, name] of Object.entries(sources)) {
+  for (const key of Object.keys(sourceDomains)) {
+    const name = sources[key];
     const status = dailyScan.sources?.[key];
     const validStatus = Object.hasOwn(statusLabels, status);
     const tracks = dailyScan.coverage?.[key] ?? [];
@@ -427,7 +435,10 @@ function render() {
     if (link.dataset.view === view) link.setAttribute("aria-current", "page");
     else link.removeAttribute("aria-current");
   }
-  for (const name of ["daily", "applied", "calendar"]) document.getElementById(name).hidden = name !== view;
+  const cloudView = view === "cloud";
+  document.getElementById("daily").hidden = view !== "daily" && !cloudView;
+  document.getElementById("cloud-description").hidden = !cloudView;
+  for (const name of ["applied", "calendar"]) document.getElementById(name).hidden = name !== view;
   if (view === "applied") {
     renderApplied(now);
     return;
@@ -440,7 +451,8 @@ function render() {
   typeButtons.forEach(button => button.setAttribute("aria-pressed", button.dataset.type === activeType));
   renderDailyStatus(today);
   const keyword = query.value.trim().normalize("NFKC").toLowerCase();
-  const visible = dailyJobs.map(job => ({ job, deadline: deadlineTime(job) }))
+  const jobs = cloudView ? cloudJobs : dailyJobs;
+  const visible = jobs.map(job => ({ job, deadline: deadlineTime(job) }))
     .filter(({ job, deadline }) => (includeClosed.checked || deadline > now) &&
       (!activeType || job.type === activeType) && (!sourceFilter.value || job.source === sourceFilter.value) &&
       matchesDailyFilters(job, deadline, now, today) &&
@@ -453,7 +465,7 @@ function render() {
   document.querySelector("#result-count").textContent = `기업 ${companyCount}곳 · 공고 일정 ${visible.length}건 · ${order}`;
   deadlines.replaceChildren();
   if (!visible.length) {
-    renderEmpty(dailyJobs.length > 0);
+    renderEmpty(jobs.length > 0);
     return;
   }
 
@@ -506,8 +518,8 @@ function render() {
 }
 
 function openView() {
-  const hash = window.location.hash;
-  view = hash === "#applied" ? "applied" : hash === "#calendar" ? "calendar" : "daily";
+  const requestedView = window.location.hash.slice(1);
+  view = ["cloud", "applied", "calendar"].includes(requestedView) ? requestedView : "daily";
   render();
   if (view !== "daily") document.querySelector("#board").scrollIntoView();
 }
@@ -539,7 +551,7 @@ typeButtons.forEach(button => button.addEventListener("click", () => {
 }));
 
 function applyFilters() {
-  if (view === "daily") rememberFilters();
+  if (view === "daily" || view === "cloud") rememberFilters();
   render();
 }
 
