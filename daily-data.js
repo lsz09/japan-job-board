@@ -1,5 +1,5 @@
 window.dailyScan = {
-  "checkedAt": "2026-11-09T15:58:52.227Z",
+  "checkedAt": "2026-11-10T00:05:06.028Z",
   "sources": {
     "mynavi": "partial",
     "rikunabi": "partial",
@@ -2299,6 +2299,101 @@ window.dailyScan = {
       "verifiedOn": "2026-11-10",
       "audience": "2028년 4월 정규직 입사가 가능하고 단기대학 졸업에 상응하는 학력 이상인 사람. 고등전문학교 본과와 2년제 전문학교를 포함하며 전공 무관입니다.",
       "summary": "AWS 설계·구축·운영 직무를 포함한 신입 채용 온라인 설명회입니다. 공개 페이지에서 11~12월 개최일을 안내하며 신청 마감일은 표시하지 않습니다. 설명회 후 선고에 진입할 수 있습니다."
+    },
+    {
+      "id": "mynavi-111418-bij7B",
+      "company": "NX 정보시스템",
+      "title": "28졸 시스템 개발 요구사항 정의 체험 (온라인)",
+      "type": "internship",
+      "source": "mynavi",
+      "date": "2026-11-13",
+      "time": "",
+      "regions": [
+        "online"
+      ],
+      "location": "온라인",
+      "url": "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=bij7B&corpId=111418",
+      "employeeCount": 664,
+      "companySizeUrl": "https://www.nx-infosys.com/recruit/company/profile/",
+      "audience": "2028년 졸업 예정자를 포함한 대학 재학생 중 시스템 엔지니어 지망자.",
+      "summary": "고객 요구를 듣고 필요한 기능을 정의하는 팀 과제로 물류 IT 프로젝트의 상류 개발 업무를 체험합니다.",
+      "verifiedOn": "2026-11-10"
+    },
+    {
+      "id": "mynavi-111418-mRtYs",
+      "company": "NX 정보시스템",
+      "title": "28졸 시스템 개발 요구사항 정의 체험 (도쿄도)",
+      "type": "internship",
+      "source": "mynavi",
+      "date": "2026-11-13",
+      "time": "",
+      "regions": [
+        "kanto"
+      ],
+      "location": "도쿄도",
+      "url": "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=mRtYs&corpId=111418",
+      "employeeCount": 664,
+      "companySizeUrl": "https://www.nx-infosys.com/recruit/company/profile/",
+      "audience": "2028년 졸업 예정자를 포함한 대학 재학생 중 시스템 엔지니어 지망자.",
+      "summary": "고객 요구를 듣고 필요한 기능을 정의하는 팀 과제로 물류 IT 프로젝트의 상류 개발 업무를 체험합니다.",
+      "verifiedOn": "2026-11-10"
+    },
+    {
+      "id": "rikunabi-30f42feea8577a96",
+      "company": "일본 IBM 디지털 서비스",
+      "title": "28졸 생성형 AI 시스템 개발 3일 체험 (도쿄)",
+      "type": "internship",
+      "source": "rikunabi",
+      "date": "2026-11-17",
+      "time": "12:00",
+      "regions": [
+        "kanto"
+      ],
+      "location": "도쿄",
+      "url": "https://job.rikunabi.com/job_descriptions/30f42feea8577a96/",
+      "employeeCount": 4177,
+      "companySizeUrl": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=3010601042627",
+      "audience": "2028년 졸업 예정인 대학·대학원·단기대학·고등전문학교·전문학교 학생. 문·이과 모두 지원할 수 있습니다.",
+      "summary": "IBM Bob 등 생성형 AI 도구로 팀별 요구사항을 정리하고 시제품 설계·구현·테스트를 진행합니다. 엔트리시트는 11월 17일 정오, 웹 테스트는 11월 19일 정오까지입니다.",
+      "verifiedOn": "2026-11-10"
+    },
+    {
+      "id": "rikunabi-f2c1564b110680e2",
+      "company": "일본 IBM 디지털 서비스",
+      "title": "28졸 생성형 AI 시스템 개발 3일 체험 (오사카)",
+      "type": "internship",
+      "source": "rikunabi",
+      "date": "2026-11-17",
+      "time": "12:00",
+      "regions": [
+        "kinki"
+      ],
+      "location": "오사카",
+      "url": "https://job.rikunabi.com/job_descriptions/f2c1564b110680e2/",
+      "employeeCount": 4177,
+      "companySizeUrl": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=3010601042627",
+      "audience": "2028년 졸업 예정인 대학·대학원·단기대학·고등전문학교·전문학교 학생. 문·이과 모두 지원할 수 있습니다.",
+      "summary": "IBM Bob 등 생성형 AI 도구로 팀별 요구사항을 정리하고 시제품 설계·구현·테스트를 진행합니다. 엔트리시트는 11월 17일 정오, 웹 테스트는 11월 19일 정오까지입니다.",
+      "verifiedOn": "2026-11-10"
+    },
+    {
+      "id": "gaishi-15456",
+      "company": "Speee",
+      "title": "28졸 신규 사업 개발 엔지니어 본선고",
+      "type": "main",
+      "source": "gaishi",
+      "date": "2026-11-30",
+      "time": "23:59",
+      "regions": [
+        "unknown"
+      ],
+      "location": "근무지 공고 미기재",
+      "url": "https://gaishishukatsu.com/recruiting_info/view/15456",
+      "employeeCount": 601,
+      "companySizeUrl": "https://info.gbiz.go.jp/hojin/edinetDownload?docId=S100XC4C",
+      "audience": "2028년 3월 대학·대학원·고등전문학교·전문학교 졸업 예정자. 수업 외 개발 산출물 경험 우대.",
+      "summary": "부동산 등 기존 산업의 문제를 해결하는 신규 제품과 기능을 소규모 팀에서 개발합니다. AWS, Terraform, Kubernetes, Rails, React 등을 사용합니다.",
+      "verifiedOn": "2026-11-10"
     }
   ],
   "companies": {
@@ -2556,6 +2651,18 @@ window.dailyScan = {
       "address": "東京都新宿区揚場町1-21 飯田橋升本ビル2階",
       "business": "기업의 AWS 도입·이전, 클라우드 네이티브 시스템 구축, 운영·모니터링을 지원합니다.",
       "url": "https://www.serverworks.co.jp/corporate/"
+    },
+    "NX 정보시스템": {
+      "industry": "it",
+      "address": "東京都千代田区神田和泉町2番地 ＮＸグループビル",
+      "business": "NX 그룹의 물류·업무 시스템을 기획하고 개발하며 인프라 구축과 시스템 운영·보수를 지원합니다.",
+      "url": "https://www.nx-infosys.com/recruit/company/profile/"
+    },
+    "Speee": {
+      "industry": "it",
+      "address": "東京都港区六本木3-2-1 六本木グランドタワー35階・39階",
+      "business": "금융과 부동산 등 산업의 디지털 전환 서비스와 DX 컨설팅을 제공합니다.",
+      "url": "https://speee.jp/company"
     }
   },
   "coverage": {
@@ -2565,7 +2672,7 @@ window.dailyScan = {
         "label": "28졸 IT 계열 인턴십·직무 체험",
         "startUrl": "https://job.mynavi.jp/28/pc/corpinfo/displayCorpSearchByIs/doSearchOther?isCourseOccupationCd=9",
         "status": "partial",
-        "checkedOn": "2026-11-09",
+        "checkedOn": "2026-11-10",
         "pages": [
           {
             "url": "https://job.mynavi.jp/28/pc/corpinfo/displayCorpSearchByIs/doSearchOther?isCourseOccupationCd=9",
@@ -2586,6 +2693,10 @@ window.dailyScan = {
           {
             "url": "https://job.mynavi.jp/28/pc/corpinfo/displayCorpSearchByIs/doSearchOther?isCourseOccupationCd=9",
             "label": "IT 계열 체험 5페이지 (목록에서 이동)"
+          },
+          {
+            "url": "https://job.mynavi.jp/28/pc/corpinfo/displayCorpSearchByIs/doSearchOther?isCourseOccupationCd=9",
+            "label": "IT 계열 체험 6페이지 (목록에서 이동)"
           }
         ],
         "pending": [
@@ -2605,8 +2716,6 @@ window.dailyScan = {
           "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=sw81-&corpId=288042",
           "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=NjoEl&corpId=288042",
           "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=lE6Np&corpId=288042",
-          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=bij7B&corpId=111418",
-          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=mRtYs&corpId=111418",
           "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=ZYW9X&corpId=112325",
           "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=ihVYV&corpId=99702",
           "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=IC8Vo&corpId=63177",
@@ -2765,10 +2874,39 @@ window.dailyScan = {
           "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=B2Xm4&corpId=72837",
           "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=e0cDp&corpId=83953",
           "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=2e083&corpId=83953",
-          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=ns1Jv&corpId=83953"
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=ns1Jv&corpId=83953",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=72dDq&corpId=205232",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=p3MY3&corpId=71121",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=dpJhY&corpId=50898",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=YBWOB&corpId=64952",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=G5Yaa&corpId=64952",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=2Dv8B&corpId=64952",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=pRQIf&corpId=276077",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=FZbG1&corpId=276077",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=eVFEW&corpId=276077",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=fC7ay&corpId=73015",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=7I-tQ&corpId=73015",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=OMAnz&corpId=72008",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=slb9W&corpId=75894",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=EG8Qh&corpId=52460",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=jPjrh&corpId=75962",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=vvuXW&corpId=75962",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=e4c2h&corpId=40321",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=gmjU2&corpId=40321",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=S02O2&corpId=222674",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=NCI7-&corpId=265834",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=nFR4p&corpId=3723",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=sWcU0&corpId=91778",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=t85Ld&corpId=111135",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=8nw-O&corpId=68490",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=6lzwa&corpId=106810",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=fOjhX&corpId=106810",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=Up5if&corpId=106810",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=GbK12&corpId=267916",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=A-NQ3&corpId=267916"
         ],
         "nextUrl": "",
-        "note": "IT 직무 체험 목록 2~5페이지의 새 결과를 확인했습니다. 후보는 원문 확인 대기에 저장했습니다. 같은 검색 목록을 열어 6페이지부터 이어갑니다."
+        "note": "1페이지를 다시 살피고 6페이지에서 모집 결과 변경을 확인했습니다. 다음에는 같은 목록의 7페이지부터 확인합니다."
       },
       {
         "id": "it-research",
@@ -3047,11 +3185,15 @@ window.dailyScan = {
         "label": "소프트웨어 개발 업종 모집",
         "startUrl": "https://job.rikunabi.com/job_search/indu2-2204/",
         "status": "partial",
-        "checkedOn": "2026-11-09",
+        "checkedOn": "2026-11-10",
         "pages": [
           {
             "url": "https://job.rikunabi.com/job_search/indu2-2204/",
             "label": "1페이지 (1~100번째 결과)"
+          },
+          {
+            "url": "https://job.rikunabi.com/job_search/indu2-2204/?cursor=AGQAAQBkAAAAAAAAAAAAAAACZyt%2FNwECARQqC1M3jl6%2F%2BAg7Ev0ACaeBjMORcNOSiUABc91KhJMLev2QGDnGU2r9xb0MmWVj19BO1tc5NL9CFKt9zheqOGSY9kg2t1adnmeCJ2X4cOWEpR2kvP2OkGa%2Fo%2BfS4JbIy5kvLcKMR24VKk6c48n2t0NaQ2G86Lk%3D",
+            "label": "2페이지 (101~200번째 결과)"
           }
         ],
         "pending": [
@@ -3061,11 +3203,160 @@ window.dailyScan = {
           "https://job.rikunabi.com/job_descriptions/6b2593aa08a109fb/",
           "https://job.rikunabi.com/job_descriptions/b112e0c968e2981c/",
           "https://job.rikunabi.com/job_descriptions/70ad061dd137c95a/",
-          "https://job.rikunabi.com/job_descriptions/f2c1564b110680e2/",
-          "https://job.rikunabi.com/job_descriptions/60794e0e9c0bf31d/"
+          "https://job.rikunabi.com/job_descriptions/60794e0e9c0bf31d/",
+          "https://job.rikunabi.com/job_descriptions/d6ae917181486bca/",
+          "https://job.rikunabi.com/job_descriptions/d2abf8f4a6428f8b/",
+          "https://job.rikunabi.com/job_descriptions/05965da375584249/",
+          "https://job.rikunabi.com/job_descriptions/8140fcdb4da093d9/",
+          "https://job.rikunabi.com/job_descriptions/9216e459ac46fb20/",
+          "https://job.rikunabi.com/job_descriptions/8b63bcca057f2c59/",
+          "https://job.rikunabi.com/job_descriptions/6235c780d8c78831/",
+          "https://job.rikunabi.com/job_descriptions/0f2f67d3e9143613/",
+          "https://job.rikunabi.com/job_descriptions/c5025821ed0f18aa/",
+          "https://job.rikunabi.com/job_descriptions/adcf0dd1fd0031cc/",
+          "https://job.rikunabi.com/job_descriptions/02ff58f8ad17619b/",
+          "https://job.rikunabi.com/job_descriptions/92b47f2f6f32c2be/",
+          "https://job.rikunabi.com/job_descriptions/542c11d55dda14d2/",
+          "https://job.rikunabi.com/job_descriptions/3fdf2af5ecbd45d2/",
+          "https://job.rikunabi.com/job_descriptions/fe6363e5694b3aca/",
+          "https://job.rikunabi.com/job_descriptions/0f41fe3fdd13bb3c/",
+          "https://job.rikunabi.com/job_descriptions/c4fcfe7cd4f76790/",
+          "https://job.rikunabi.com/job_descriptions/edefda6ecfaedde1/",
+          "https://job.rikunabi.com/job_descriptions/b6389bfc68f8de78/",
+          "https://job.rikunabi.com/job_descriptions/8f00d9978c82060d/",
+          "https://job.rikunabi.com/job_descriptions/87a32b39dcdfbd5f/",
+          "https://job.rikunabi.com/job_descriptions/392f36b460a4c728/",
+          "https://job.rikunabi.com/job_descriptions/f58c39fdec5bf63b/",
+          "https://job.rikunabi.com/job_descriptions/7c7550a60b28e15d/",
+          "https://job.rikunabi.com/job_descriptions/d3b37e9ea14b8328/",
+          "https://job.rikunabi.com/job_descriptions/fae0dabea8af710c/",
+          "https://job.rikunabi.com/job_descriptions/3ab5c940cc9ff3cf/",
+          "https://job.rikunabi.com/job_descriptions/133125ebacab62de/",
+          "https://job.rikunabi.com/job_descriptions/219d81d305f8b009/",
+          "https://job.rikunabi.com/job_descriptions/cfa993e96352c43c/",
+          "https://job.rikunabi.com/job_descriptions/c50d2ffe6ee179d5/",
+          "https://job.rikunabi.com/job_descriptions/2e63418b975d87d4/",
+          "https://job.rikunabi.com/job_descriptions/a9b0885c170a2769/",
+          "https://job.rikunabi.com/job_descriptions/4ad9c2ec2c30af48/",
+          "https://job.rikunabi.com/job_descriptions/64866ff690771927/",
+          "https://job.rikunabi.com/job_descriptions/30f93d3b920c7432/",
+          "https://job.rikunabi.com/job_descriptions/9423e8577669fd63/",
+          "https://job.rikunabi.com/job_descriptions/9a62f0ee79384fdd/",
+          "https://job.rikunabi.com/job_descriptions/a967b207f347b0e5/",
+          "https://job.rikunabi.com/job_descriptions/34a5c258bf409715/",
+          "https://job.rikunabi.com/job_descriptions/090c815d5a89bc00/",
+          "https://job.rikunabi.com/job_descriptions/cab825bac4d07c17/",
+          "https://job.rikunabi.com/job_descriptions/c4723595eca9e9c7/",
+          "https://job.rikunabi.com/job_descriptions/f4b253b90a611810/",
+          "https://job.rikunabi.com/job_descriptions/75fd0f6ecf87674d/",
+          "https://job.rikunabi.com/job_descriptions/4a182fec3b44540a/",
+          "https://job.rikunabi.com/job_descriptions/c130f66c221f356d/",
+          "https://job.rikunabi.com/job_descriptions/8765d0d8f6e9ecdb/",
+          "https://job.rikunabi.com/job_descriptions/7ce0f9be3a07d491/",
+          "https://job.rikunabi.com/job_descriptions/3b0b711a8f70adef/",
+          "https://job.rikunabi.com/job_descriptions/77f899fda9518aac/",
+          "https://job.rikunabi.com/job_descriptions/8dd92e23a763fd12/",
+          "https://job.rikunabi.com/job_descriptions/1472260252c8cef2/",
+          "https://job.rikunabi.com/job_descriptions/d02326120e6f238c/",
+          "https://job.rikunabi.com/job_descriptions/518777d29a078515/",
+          "https://job.rikunabi.com/job_descriptions/903481bc4fd78838/",
+          "https://job.rikunabi.com/job_descriptions/d0fe984cc8abb363/",
+          "https://job.rikunabi.com/job_descriptions/929a58467f2b51e9/",
+          "https://job.rikunabi.com/job_descriptions/5ed7c8944046523c/",
+          "https://job.rikunabi.com/job_descriptions/df6e00d4ebd41008/",
+          "https://job.rikunabi.com/job_descriptions/3f6621e9968f0660/",
+          "https://job.rikunabi.com/job_descriptions/cf2b3094d7c496e1/",
+          "https://job.rikunabi.com/job_descriptions/81542d482569e62d/",
+          "https://job.rikunabi.com/job_descriptions/4d897631e6d87343/",
+          "https://job.rikunabi.com/job_descriptions/09dc9b5e2837948e/",
+          "https://job.rikunabi.com/job_descriptions/0538d0af5578c788/",
+          "https://job.rikunabi.com/job_descriptions/bbea1be252fa4139/",
+          "https://job.rikunabi.com/job_descriptions/426952e8aaf1d77f/",
+          "https://job.rikunabi.com/job_descriptions/6fe48ce4c395fa88/",
+          "https://job.rikunabi.com/job_descriptions/4408dd1ec4111b57/",
+          "https://job.rikunabi.com/job_descriptions/64bf5b5b95f40737/",
+          "https://job.rikunabi.com/job_descriptions/31feea10e75b82f9/",
+          "https://job.rikunabi.com/job_descriptions/0d2ffae5ca347660/",
+          "https://job.rikunabi.com/job_descriptions/622b55aa5697e162/",
+          "https://job.rikunabi.com/job_descriptions/acae7df13f7d0fa7/",
+          "https://job.rikunabi.com/job_descriptions/05764d9567bf121f/",
+          "https://job.rikunabi.com/job_descriptions/aa49b3c1035fc0f9/",
+          "https://job.rikunabi.com/job_descriptions/569f11092f9a4c31/",
+          "https://job.rikunabi.com/job_descriptions/b0f206b48d531710/",
+          "https://job.rikunabi.com/job_descriptions/0a2bec2b7e450d11/",
+          "https://job.rikunabi.com/job_descriptions/8cc3588c3e8dacc6/",
+          "https://job.rikunabi.com/job_descriptions/c1031703233ef27f/",
+          "https://job.rikunabi.com/job_descriptions/c0919c650c4b597f/",
+          "https://job.rikunabi.com/job_descriptions/0f938234bb8887d6/",
+          "https://job.rikunabi.com/job_descriptions/98b81a7d69bfefb5/",
+          "https://job.rikunabi.com/job_descriptions/a29c3a3699bbce9c/",
+          "https://job.rikunabi.com/job_descriptions/6d8f887ce735e8ce/",
+          "https://job.rikunabi.com/job_descriptions/2a643e1aa4c791d0/",
+          "https://job.rikunabi.com/job_descriptions/4cc959e919b74320/",
+          "https://job.rikunabi.com/job_descriptions/100b4d44c53db4dc/",
+          "https://job.rikunabi.com/job_descriptions/25692dd6ae200cc8/",
+          "https://job.rikunabi.com/job_descriptions/4ed838abb890443d/",
+          "https://job.rikunabi.com/job_descriptions/4e62f3cc67dc6113/",
+          "https://job.rikunabi.com/job_descriptions/105e296fa86f1b1f/",
+          "https://job.rikunabi.com/job_descriptions/273c763f05385c79/",
+          "https://job.rikunabi.com/job_descriptions/d44c9d5285fc163c/",
+          "https://job.rikunabi.com/job_descriptions/ca2a9393aebbe4b6/",
+          "https://job.rikunabi.com/job_descriptions/9bc57bbdde0cdfc7/",
+          "https://job.rikunabi.com/job_descriptions/676466008ef5b3ca/",
+          "https://job.rikunabi.com/job_descriptions/ab8c04f186c7a3ad/",
+          "https://job.rikunabi.com/job_descriptions/094e8e2e9d35b531/",
+          "https://job.rikunabi.com/job_descriptions/b78b10925169d237/",
+          "https://job.rikunabi.com/job_descriptions/596c00144e968e0b/",
+          "https://job.rikunabi.com/job_descriptions/bd40ab85be2bbf2f/",
+          "https://job.rikunabi.com/job_descriptions/05e2071c221eacb6/",
+          "https://job.rikunabi.com/job_descriptions/f4f0cde1f6473294/",
+          "https://job.rikunabi.com/job_descriptions/834fb5361693d961/",
+          "https://job.rikunabi.com/job_descriptions/651f6f3534f5d442/",
+          "https://job.rikunabi.com/job_descriptions/8782197ec7f89327/",
+          "https://job.rikunabi.com/job_descriptions/e9d2fe2faf03ebd7/",
+          "https://job.rikunabi.com/job_descriptions/ac817859200c6c31/",
+          "https://job.rikunabi.com/job_descriptions/ed2354f6fe5b4845/",
+          "https://job.rikunabi.com/job_descriptions/99a27e38a709428f/",
+          "https://job.rikunabi.com/job_descriptions/b46473c5c7deef34/",
+          "https://job.rikunabi.com/job_descriptions/18493caf3092463c/",
+          "https://job.rikunabi.com/job_descriptions/4800da073b6c8b2f/",
+          "https://job.rikunabi.com/job_descriptions/b8ad2ff4c91ff945/",
+          "https://job.rikunabi.com/job_descriptions/d9baad2ec3b99975/",
+          "https://job.rikunabi.com/job_descriptions/3a190cf3491f8f54/",
+          "https://job.rikunabi.com/job_descriptions/36db4807648ff4ea/",
+          "https://job.rikunabi.com/job_descriptions/086e37bdb68155c3/",
+          "https://job.rikunabi.com/job_descriptions/da9bd44a8ceae5e9/",
+          "https://job.rikunabi.com/job_descriptions/d6efe62ad1741ca5/",
+          "https://job.rikunabi.com/job_descriptions/55d2a158a19c44bc/",
+          "https://job.rikunabi.com/job_descriptions/c31358e045b0125f/",
+          "https://job.rikunabi.com/job_descriptions/eeeeb2e33fcd21e3/",
+          "https://job.rikunabi.com/job_descriptions/f638cab7795fd689/",
+          "https://job.rikunabi.com/job_descriptions/da9b0b60eebeee92/",
+          "https://job.rikunabi.com/job_descriptions/646691e92a27849d/",
+          "https://job.rikunabi.com/job_descriptions/5ba8fbf7667eae75/",
+          "https://job.rikunabi.com/job_descriptions/17fafa7a79c1b720/",
+          "https://job.rikunabi.com/job_descriptions/6b8ad187d16dc4a0/",
+          "https://job.rikunabi.com/job_descriptions/9afeb6841a284091/",
+          "https://job.rikunabi.com/job_descriptions/e1d6a5e901eb4d66/",
+          "https://job.rikunabi.com/job_descriptions/62e40003220e1117/",
+          "https://job.rikunabi.com/job_descriptions/dc0eb3a4d55044ae/",
+          "https://job.rikunabi.com/job_descriptions/e773677539b1611c/",
+          "https://job.rikunabi.com/job_descriptions/44d924dcb93a491a/",
+          "https://job.rikunabi.com/job_descriptions/a7a10656187a3dfe/",
+          "https://job.rikunabi.com/job_descriptions/4f641cd4f01febf4/",
+          "https://job.rikunabi.com/job_descriptions/1f9344d551c74207/",
+          "https://job.rikunabi.com/job_descriptions/d6055d6fb00c168f/",
+          "https://job.rikunabi.com/job_descriptions/fca5b9fd9cae5626/",
+          "https://job.rikunabi.com/job_descriptions/c29fd40453fe57f6/",
+          "https://job.rikunabi.com/job_descriptions/3a0b6b52264cbe3c/",
+          "https://job.rikunabi.com/job_descriptions/9df234e84c7c2cc7/",
+          "https://job.rikunabi.com/job_descriptions/c67e61b039a447cd/",
+          "https://job.rikunabi.com/job_descriptions/95c259b6fd311973/",
+          "https://job.rikunabi.com/job_descriptions/bcb70a4f8a5dc85f/",
+          "https://job.rikunabi.com/job_descriptions/2267e43a6581081f/"
         ],
-        "nextUrl": "https://job.rikunabi.com/job_search/indu2-2204/?cursor=AGQAAQBkAAAAAAAAAAAAAAACZp2WuAECARImDRRVrP1W%2F59HRea%2BlIGn99CtWNVHRg2n7bZ5lEJWg%2BXNDpAIelOLNTJ17CuN5qxVvYNMysWBDnoexWFnITyfNyoWbeg8rCnJ092Vx8htDzGP0mQQTU0LWlpJcnbz%2F1z5QtObEbvJA6qryLyAxONAPGvM8qosdro%2B14Z9RhLJdHB4w%2FG7",
-        "note": "1페이지를 다시 확인했습니다. 개정 약관 동의 창이 공개 브라우저의 다음 페이지 이동을 막습니다. 추가 열람은 0페이지이며 공개 회사 목록·개별 공고에서 별도로 보완했습니다. 저장된 위치는 2페이지입니다."
+        "nextUrl": "https://job.rikunabi.com/job_search/indu2-2204/?cursor=AGQAAgDIAAAAAAAAAAAAAAACZyt%2FNwEDASlUBg4Ofg36%2B2cOxibCKSVXHVjyqNdshl37bABgYuwNPeGCHYKVGHUy90WKwoLUtSTlTrO3%2Biz7pj9aP2Mk6L3qhN7xU%2Bx%2FDBJAuLPiaWGaXxyC%2FqU4oEg4AxPL0zVZBQTgzQJZhAKxD0RsBnHlALeiAZ%2BL0Z2dKfjuiUYr7CZrlDcYv8l%2FzbmuZ7j%2BivuO5o4R1u51EqDiCN%2FV8UI%2BG48%3D",
+        "note": "28졸 소프트웨어 검색의 1페이지를 재확인했고 공개 화면의 다음 링크로 2페이지(101~200번째 결과)를 열었습니다. 다음은 3페이지입니다."
       }
     ],
     "onecareer": [
@@ -3242,7 +3533,7 @@ window.dailyScan = {
         "label": "28졸 엔지니어 키워드 본선고·조기선고",
         "startUrl": "https://www.onecareer.jp/events/selection?internalJobCategoryIds=107%2C109%2C110%2C111%2C112%2C113%2C114%2C115%2C117&employeeCountRanges=gte_300_lt_500%2Cgte_500_lt_1000%2Cgte_1000_lt_3000%2Cgte_3000_lt_5000%2Cgte_5000&lowestRating=0&highestRating=5&searchByCurrentUserGraduateYear=false&sort=time_limit_at&page=1&per=30&companiesToFollow=false&prefectures=%7B%22online%22%3Afalse%2C%22prefecture_ids%22%3A%5B%5D%7D&isOnecareerHostingEvent=false&upperLimitOfCompanyReview=5&lowerLimitOfCompanyReview=0&search_query=%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2&graduates=28%E5%B9%B4%E5%8D%92",
         "status": "partial",
-        "checkedOn": "2026-11-09",
+        "checkedOn": "2026-11-10",
         "pages": [
           {
             "url": "https://www.onecareer.jp/events/selection?internalJobCategoryIds=107%2C109%2C110%2C111%2C112%2C113%2C114%2C115%2C117&employeeCountRanges=gte_300_lt_500%2Cgte_500_lt_1000%2Cgte_1000_lt_3000%2Cgte_3000_lt_5000%2Cgte_5000&lowestRating=0&highestRating=5&searchByCurrentUserGraduateYear=false&sort=time_limit_at&page=1&per=30&companiesToFollow=false&prefectures=%7B%22online%22%3Afalse%2C%22prefecture_ids%22%3A%5B%5D%7D&isOnecareerHostingEvent=false&upperLimitOfCompanyReview=5&lowerLimitOfCompanyReview=0&search_query=%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2&graduates=28%E5%B9%B4%E5%8D%92",
@@ -3263,6 +3554,10 @@ window.dailyScan = {
           {
             "url": "https://www.onecareer.jp/events/selection?internalJobCategoryIds=107%2C109%2C110%2C111%2C112%2C113%2C114%2C115%2C117&employeeCountRanges=gte_300_lt_500%2Cgte_500_lt_1000%2Cgte_1000_lt_3000%2Cgte_3000_lt_5000%2Cgte_5000&lowestRating=0&highestRating=5&searchByCurrentUserGraduateYear=false&sort=time_limit_at&page=5&per=30&companiesToFollow=false&prefectures=%7B%22online%22%3Afalse%2C%22prefecture_ids%22%3A%5B%5D%7D&isOnecareerHostingEvent=false&upperLimitOfCompanyReview=5&lowerLimitOfCompanyReview=0&search_query=%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2&graduates=28%E5%B9%B4%E5%8D%92",
             "label": "키워드 검색 5페이지"
+          },
+          {
+            "url": "https://www.onecareer.jp/events/selection?internalJobCategoryIds=107%2C109%2C110%2C111%2C112%2C113%2C114%2C115%2C117&employeeCountRanges=gte_300_lt_500%2Cgte_500_lt_1000%2Cgte_1000_lt_3000%2Cgte_3000_lt_5000%2Cgte_5000&lowestRating=0&highestRating=5&searchByCurrentUserGraduateYear=false&sort=time_limit_at&page=6&per=30&companiesToFollow=false&prefectures=%7B%22online%22%3Afalse%2C%22prefecture_ids%22%3A%5B%5D%7D&isOnecareerHostingEvent=false&upperLimitOfCompanyReview=5&lowerLimitOfCompanyReview=0&search_query=%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2&graduates=28%E5%B9%B4%E5%8D%92",
+            "label": "키워드 검색 6페이지"
           }
         ],
         "pending": [
@@ -3350,10 +3645,38 @@ window.dailyScan = {
           "https://www.onecareer.jp/events/selection/102587",
           "https://www.onecareer.jp/events/selection/98371",
           "https://www.onecareer.jp/events/selection/92864",
-          "https://www.onecareer.jp/events/selection/90258"
+          "https://www.onecareer.jp/events/selection/90258",
+          "https://www.onecareer.jp/events/selection/96834",
+          "https://www.onecareer.jp/events/selection/102716",
+          "https://www.onecareer.jp/events/selection/102973",
+          "https://www.onecareer.jp/events/selection/103399",
+          "https://www.onecareer.jp/events/selection/101218",
+          "https://www.onecareer.jp/events/selection/101028",
+          "https://www.onecareer.jp/events/selection/89068",
+          "https://www.onecareer.jp/events/selection/98885",
+          "https://www.onecareer.jp/events/selection/99033",
+          "https://www.onecareer.jp/events/selection/100017",
+          "https://www.onecareer.jp/events/selection/103282",
+          "https://www.onecareer.jp/events/selection/96637",
+          "https://www.onecareer.jp/events/selection/85641",
+          "https://www.onecareer.jp/events/selection/86236",
+          "https://www.onecareer.jp/events/selection/96137",
+          "https://www.onecareer.jp/events/selection/98898",
+          "https://www.onecareer.jp/events/selection/100477",
+          "https://www.onecareer.jp/events/selection/101692",
+          "https://www.onecareer.jp/events/selection/102882",
+          "https://www.onecareer.jp/events/selection/102883",
+          "https://www.onecareer.jp/events/selection/102028",
+          "https://www.onecareer.jp/events/selection/95532",
+          "https://www.onecareer.jp/events/selection/96705",
+          "https://www.onecareer.jp/events/selection/101704",
+          "https://www.onecareer.jp/events/selection/100033",
+          "https://www.onecareer.jp/events/selection/100059",
+          "https://www.onecareer.jp/events/selection/102779",
+          "https://www.onecareer.jp/events/selection/87441"
         ],
-        "nextUrl": "https://www.onecareer.jp/events/selection?internalJobCategoryIds=107%2C109%2C110%2C111%2C112%2C113%2C114%2C115%2C117&employeeCountRanges=gte_300_lt_500%2Cgte_500_lt_1000%2Cgte_1000_lt_3000%2Cgte_3000_lt_5000%2Cgte_5000&lowestRating=0&highestRating=5&searchByCurrentUserGraduateYear=false&sort=time_limit_at&page=6&per=30&companiesToFollow=false&prefectures=%7B%22online%22%3Afalse%2C%22prefecture_ids%22%3A%5B%5D%7D&isOnecareerHostingEvent=false&upperLimitOfCompanyReview=5&lowerLimitOfCompanyReview=0&search_query=%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2&graduates=28%E5%B9%B4%E5%8D%92",
-        "note": "28졸 엔지니어 선고 검색 2~5페이지를 추가 확인했습니다. 설명회와 선고가 섞여 있어 원문으로 분류합니다. 6페이지부터 이어갑니다."
+        "nextUrl": "https://www.onecareer.jp/events/selection?internalJobCategoryIds=107%2C109%2C110%2C111%2C112%2C113%2C114%2C115%2C117&employeeCountRanges=gte_300_lt_500%2Cgte_500_lt_1000%2Cgte_1000_lt_3000%2Cgte_3000_lt_5000%2Cgte_5000&lowestRating=0&highestRating=5&searchByCurrentUserGraduateYear=false&sort=time_limit_at&page=7&per=30&companiesToFollow=false&prefectures=%7B%22online%22%3Afalse%2C%22prefecture_ids%22%3A%5B%5D%7D&isOnecareerHostingEvent=false&upperLimitOfCompanyReview=5&lowerLimitOfCompanyReview=0&search_query=%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2&graduates=28%E5%B9%B4%E5%8D%92",
+        "note": "1페이지를 다시 살피고 선고 검색 6페이지의 다른 모집 결과를 열었습니다. 다음에는 7페이지와 원문 대기를 확인합니다."
       }
     ],
     "gaishi": [
@@ -3362,7 +3685,7 @@ window.dailyScan = {
         "label": "28졸 IT 엔지니어·시스템 엔지니어",
         "startUrl": "https://gaishishukatsu.com/recruiting_info?order=recommend&groupedJobTypeIDs=5&groupedJobTypeIDs=4&gy=2028&allgy=false&page=1&eventStart=&eventEnd=&entryStart=&entryEnd=",
         "status": "partial",
-        "checkedOn": "2026-11-09",
+        "checkedOn": "2026-11-10",
         "pages": [
           {
             "url": "https://gaishishukatsu.com/recruiting_info?allgy=true&groupedJobTypeIDs=5&order=recommend",
@@ -3383,7 +3706,6 @@ window.dailyScan = {
         ],
         "pending": [
           "https://gaishishukatsu.com/recruiting_info/view/15288",
-          "https://gaishishukatsu.com/recruiting_info/view/15456",
           "https://gaishishukatsu.com/recruiting_info/view/15371",
           "https://gaishishukatsu.com/recruiting_info/view/15439",
           "https://gaishishukatsu.com/recruiting_info/view/15438",
@@ -3425,10 +3747,14 @@ window.dailyScan = {
           "https://gaishishukatsu.com/recruiting_info/archives/97067",
           "https://gaishishukatsu.com/recruiting_info/archives/97063",
           "https://gaishishukatsu.com/recruiting_info/archives/97049",
-          "https://gaishishukatsu.com/recruiting_info/archives/97091"
+          "https://gaishishukatsu.com/recruiting_info/archives/97091",
+          "https://gaishishukatsu.com/recruiting_info/view/15449",
+          "https://gaishishukatsu.com/recruiting_info/view/15451",
+          "https://gaishishukatsu.com/recruiting_info/view/15450",
+          "https://gaishishukatsu.com/recruiting_info/view/15004"
         ],
         "nextUrl": "",
-        "note": "같은 조건의 2~3페이지를 추가 열람했습니다. 정규 모집 카드가 2페이지 24건, 마지막 3페이지 1건이며, 별도 안내 링크도 일부 확인했습니다. 다음에는 대기 원문 검토를 이어갑니다."
+        "note": "28졸 IT·시스템 엔지니어 검색 1페이지의 최신 모집 결과를 재확인했습니다. 앞서 확인한 마지막 페이지의 상세 대기도 이어서 검토합니다."
       },
       {
         "id": "engineer-featured",
