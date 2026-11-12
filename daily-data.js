@@ -1,5 +1,5 @@
 window.dailyScan = {
-  "checkedAt": "2026-11-11T03:42:30.643Z",
+  "checkedAt": "2026-11-12T04:39:21.039Z",
   "sources": {
     "mynavi": "partial",
     "rikunabi": "partial",
@@ -113,7 +113,7 @@ window.dailyScan = {
       "url": "https://onecareer.jp/events/internship/97112",
       "employeeCount": 4020,
       "companySizeUrl": "https://www.nttdata-with.com/company/outline.html",
-      "verifiedOn": "2026-11-09",
+      "verifiedOn": "2026-11-12",
       "audience": "IT·DX 엔지니어 직무를 알아보려는 28졸 학생.",
       "summary": "온라인 1일 프로그램입니다. 시스템 도입을 원하는 고객의 요구사항을 정리해 제안하고, 발표와 인사 담당자 질의응답을 진행합니다."
     },
@@ -150,7 +150,7 @@ window.dailyScan = {
       "url": "https://onecareer.jp/events/internship/97112",
       "employeeCount": 4020,
       "companySizeUrl": "https://www.nttdata-with.com/company/outline.html",
-      "verifiedOn": "2026-11-09",
+      "verifiedOn": "2026-11-12",
       "audience": "IT·DX 엔지니어 직무를 알아보려는 28졸 학생.",
       "summary": "온라인 1일 프로그램입니다. 시스템 도입을 원하는 고객의 요구사항을 정리해 제안하고, 발표와 인사 담당자 질의응답을 진행합니다."
     },
@@ -312,7 +312,7 @@ window.dailyScan = {
       "url": "https://onecareer.jp/events/internship/97112",
       "employeeCount": 4020,
       "companySizeUrl": "https://www.nttdata-with.com/company/outline.html",
-      "verifiedOn": "2026-11-09",
+      "verifiedOn": "2026-11-12",
       "audience": "IT·DX 엔지니어 직무를 알아보려는 28졸 학생.",
       "summary": "도쿄 대면 1일 프로그램입니다. 고객사의 시스템 도입을 가정해 요구사항을 정의하고, 발표 후 피드백을 받습니다. 대면 회차에서는 현직 선배와도 이야기할 수 있습니다."
     },
@@ -834,7 +834,7 @@ window.dailyScan = {
       "title": "28졸 IT 인프라 설계 직무 체험 2일",
       "type": "internship",
       "source": "rikunabi",
-      "date": "2027-02-28",
+      "date": "2026-12-10",
       "time": "",
       "regions": [
         "chubu"
@@ -843,7 +843,7 @@ window.dailyScan = {
       "url": "https://job.rikunabi.com/job_descriptions/209591f1e6e7656a/",
       "employeeCount": 3549,
       "companySizeUrl": "https://www.toyotasystems.com/company/outline/",
-      "verifiedOn": "2026-11-09",
+      "verifiedOn": "2026-11-12",
       "audience": "IT 업계와 시스템 엔지니어 업무에 관심 있는 28졸 고등전문학교·대학·대학원 학생. 문·이과 모두 지원할 수 있습니다.",
       "summary": "토요타 그룹의 네트워크·플랫폼·보안을 소개하고, 인프라 설계 문제를 푸는 팀 과제와 현직 엔지니어 좌담회를 진행합니다."
     },
@@ -1754,7 +1754,7 @@ window.dailyScan = {
       "url": "https://gaishishukatsu.com/recruiting_info/view/15477",
       "audience": "2028년 3월 졸업 예정으로 일본 거주 중이며 정규직 이력 없이 개발·프로그래밍 경험이 있는 사람. 외국인은 일본 유학 재류자격과 자격외활동 허가가 필요하며, 업무에 필요한 일본어와 기초 영어를 요구합니다.",
       "summary": "2027년 2월 또는 3월 중 10일간 멘토와 함께 실제 제품의 백엔드·프런트엔드·모바일·인프라 개발을 맡는 유급 프로그램입니다. 본선고와 연계됩니다.",
-      "verifiedOn": "2026-11-09",
+      "verifiedOn": "2026-11-12",
       "employeeCount": 1707,
       "companySizeUrl": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=6011101063359"
     },
@@ -1776,7 +1776,7 @@ window.dailyScan = {
       "url": "https://gaishishukatsu.com/recruiting_info/view/15477",
       "audience": "2028년 3월 졸업 예정으로 일본 거주 중이며 정규직 이력 없이 개발·프로그래밍 경험이 있는 사람. 외국인은 일본 유학 재류자격과 자격외활동 허가가 필요하며, 업무에 필요한 일본어와 기초 영어를 요구합니다.",
       "summary": "2027년 2월 또는 3월 중 10일간 멘토와 함께 실제 제품의 백엔드·프런트엔드·모바일·인프라 개발을 맡는 유급 프로그램입니다. 본선고와 연계됩니다.",
-      "verifiedOn": "2026-11-09",
+      "verifiedOn": "2026-11-12",
       "employeeCount": 1707,
       "companySizeUrl": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=6011101063359"
     },
@@ -1798,7 +1798,7 @@ window.dailyScan = {
       "url": "https://gaishishukatsu.com/recruiting_info/view/15477",
       "audience": "2028년 3월 졸업 예정으로 일본 거주 중이며 정규직 이력 없이 개발·프로그래밍 경험이 있는 사람. 외국인은 일본 유학 재류자격과 자격외활동 허가가 필요하며, 업무에 필요한 일본어와 기초 영어를 요구합니다.",
       "summary": "2027년 2월 또는 3월 중 10일간 멘토와 함께 실제 제품의 백엔드·프런트엔드·모바일·인프라 개발을 맡는 유급 프로그램입니다. 본선고와 연계됩니다.",
-      "verifiedOn": "2026-11-09",
+      "verifiedOn": "2026-11-12",
       "employeeCount": 1707,
       "companySizeUrl": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=6011101063359"
     },
@@ -2277,7 +2277,7 @@ window.dailyScan = {
       "url": "https://careers.classmethod.jp/requirements/new-graduate2028-engineer/",
       "employeeCount": 621,
       "companySizeUrl": "https://classmethod.jp/company/finance/",
-      "verifiedOn": "2026-11-11",
+      "verifiedOn": "2026-11-12",
       "audience": "2028년 3월 대학·단기대학·전문학교 등 졸업 예정자. 전공 무관이며 프로그래밍 학습·언어 사용 경험과 Git 등 버전 관리 도구의 기본 경험이 필요합니다.",
       "summary": "AWS 등 클라우드 환경의 인프라를 설계·구축·운영하고 웹 앱 개발과 고객 요구사항 정의에도 참여합니다. 공개 채용 페이지에 신청 마감일은 표시되지 않습니다."
     },
@@ -2296,7 +2296,7 @@ window.dailyScan = {
       "url": "https://www.serverworks.co.jp/recruit/guideline-newgraduate/",
       "employeeCount": 367,
       "companySizeUrl": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100Y5TF.pdf",
-      "verifiedOn": "2026-11-11",
+      "verifiedOn": "2026-11-12",
       "audience": "2028년 4월 정규직 입사가 가능하고 단기대학 졸업에 상응하는 학력 이상인 사람. 고등전문학교 본과와 2년제 전문학교를 포함하며 전공 무관입니다.",
       "summary": "AWS 설계·구축·운영 직무를 포함한 신입 채용 온라인 설명회입니다. 공개 페이지에서 11~12월 개최일을 안내하며 신청 마감일은 표시하지 않습니다. 설명회 후 선고에 진입할 수 있습니다."
     },
@@ -2489,6 +2489,82 @@ window.dailyScan = {
       "verifiedOn": "2026-11-11",
       "audience": "2028년 4월 또는 2027년 10월 입사가 가능하고, 기술로 서비스를 만들며 팀과 협업하는 데 관심 있는 지원자.",
       "summary": "소프트웨어·인프라·보안·MLOps·데이터·게임 클라이언트 엔지니어를 모집합니다. 표시된 마감은 외자취활 접수 기준입니다."
+    },
+    {
+      "id": "rikunabi-9216e459ac46fb20",
+      "company": "NTT 도코모 솔루션즈",
+      "title": "28졸 데이터 사이언스 3일 직무 체험",
+      "type": "internship",
+      "source": "rikunabi",
+      "date": "2026-11-30",
+      "time": "",
+      "regions": [
+        "kanto"
+      ],
+      "location": "도쿄",
+      "url": "https://job.rikunabi.com/job_descriptions/9216e459ac46fb20/",
+      "employeeCount": 4962,
+      "companySizeUrl": "https://www.docomosolutions.co.jp/corporate/outline/",
+      "audience": "28졸 대학생·대학원생. 전공 무관이며 Excel·PowerPoint·Word 사용 경험과 코스별 요건이 필요합니다.",
+      "summary": "12월 2~4일 도쿄에서 진행합니다. 원문이 예시로 공개한 전년도 프로그램은 현업 멘토와 고객 과제를 분석하고, 실제 데이터 분석 및 결과 발표를 하는 구성입니다.",
+      "verifiedOn": "2026-11-12"
+    },
+    {
+      "id": "onecareer-102210-20261118",
+      "company": "피에스시(PSC)",
+      "title": "28졸 IT 엔지니어 온라인 설명회 (11/18)",
+      "type": "briefing",
+      "source": "onecareer",
+      "date": "2026-11-17",
+      "time": "12:00",
+      "regions": [
+        "online"
+      ],
+      "location": "온라인",
+      "url": "https://www.onecareer.jp/events/internship/102210",
+      "employeeCount": 803,
+      "companySizeUrl": "https://www.psc-inc.co.jp/uploads/%E3%80%90%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%92%E3%82%9A%E3%83%BC%E3%82%A8%E3%82%B9%E3%82%B7%E3%83%BC%E3%80%91%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85_v20260421.pdf",
+      "audience": "IT 엔지니어 직무에 관심 있는 28졸 학생. 문·이과 모두 참여할 수 있습니다.",
+      "summary": "Microsoft 365 활용 지원, 클라우드 인프라, 보안·네트워크, 시스템 개발 직무와 배치를 설명합니다. 희망자는 참석 후 조기선고 1차 면접을 볼 수 있습니다.",
+      "verifiedOn": "2026-11-12"
+    },
+    {
+      "id": "onecareer-102210-20261202",
+      "company": "피에스시(PSC)",
+      "title": "28졸 IT 엔지니어 온라인 설명회 (12/02)",
+      "type": "briefing",
+      "source": "onecareer",
+      "date": "2026-12-01",
+      "time": "12:00",
+      "regions": [
+        "online"
+      ],
+      "location": "온라인",
+      "url": "https://www.onecareer.jp/events/internship/102210",
+      "employeeCount": 803,
+      "companySizeUrl": "https://www.psc-inc.co.jp/uploads/%E3%80%90%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%92%E3%82%9A%E3%83%BC%E3%82%A8%E3%82%B9%E3%82%B7%E3%83%BC%E3%80%91%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85_v20260421.pdf",
+      "audience": "IT 엔지니어 직무에 관심 있는 28졸 학생. 문·이과 모두 참여할 수 있습니다.",
+      "summary": "Microsoft 365 활용 지원, 클라우드 인프라, 보안·네트워크, 시스템 개발 직무와 배치를 설명합니다. 희망자는 참석 후 조기선고 1차 면접을 볼 수 있습니다.",
+      "verifiedOn": "2026-11-12"
+    },
+    {
+      "id": "onecareer-102210-20261217",
+      "company": "피에스시(PSC)",
+      "title": "28졸 IT 엔지니어 온라인 설명회 (12/17)",
+      "type": "briefing",
+      "source": "onecareer",
+      "date": "2026-12-16",
+      "time": "12:00",
+      "regions": [
+        "online"
+      ],
+      "location": "온라인",
+      "url": "https://www.onecareer.jp/events/internship/102210",
+      "employeeCount": 803,
+      "companySizeUrl": "https://www.psc-inc.co.jp/uploads/%E3%80%90%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%92%E3%82%9A%E3%83%BC%E3%82%A8%E3%82%B9%E3%82%B7%E3%83%BC%E3%80%91%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85_v20260421.pdf",
+      "audience": "IT 엔지니어 직무에 관심 있는 28졸 학생. 문·이과 모두 참여할 수 있습니다.",
+      "summary": "Microsoft 365 활용 지원, 클라우드 인프라, 보안·네트워크, 시스템 개발 직무와 배치를 설명합니다. 희망자는 참석 후 조기선고 1차 면접을 볼 수 있습니다.",
+      "verifiedOn": "2026-11-12"
     }
   ],
   "companies": {
@@ -2782,6 +2858,12 @@ window.dailyScan = {
       "address": "東京都渋谷区渋谷2-24-12 渋谷スクランブルスクエア",
       "business": "모바일 게임과 라이브 방송을 운영하며 스포츠·헬스케어 분야에서도 디지털 서비스를 개발합니다.",
       "url": "https://dena.com/jp/company/overview.html"
+    },
+    "피에스시(PSC)": {
+      "industry": "it",
+      "address": "東京都港区浜松町2-4-1 世界貿易センタービル南館25階",
+      "business": "기업의 Microsoft 365 도입과 클라우드·네트워크 구축, 보안, 시스템 개발 및 운영을 지원합니다.",
+      "url": "https://www.psc-inc.co.jp/about/company/outline/"
     }
   },
   "coverage": {
@@ -2791,7 +2873,7 @@ window.dailyScan = {
         "label": "28졸 IT 계열 인턴십·직무 체험",
         "startUrl": "https://job.mynavi.jp/28/pc/corpinfo/displayCorpSearchByIs/doSearchOther?isCourseOccupationCd=9",
         "status": "partial",
-        "checkedOn": "2026-11-11",
+        "checkedOn": "2026-11-12",
         "pages": [
           {
             "url": "https://job.mynavi.jp/28/pc/corpinfo/displayCorpSearchByIs/doSearchOther?isCourseOccupationCd=9",
@@ -3069,10 +3151,11 @@ window.dailyScan = {
           "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=KMNUq&corpId=113088",
           "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=bjdwQ&corpId=204681",
           "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=aQsrB&corpId=242763",
-          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=dXNTs&corpId=103824"
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=dXNTs&corpId=103824",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?corpId=222674&optNo=Z5TXp"
         ],
         "nextUrl": "https://job.mynavi.jp/28/pc/corpinfo/displayCorpSearchByIs/doSearchOther?isCourseOccupationCd=9",
-        "note": "11월 11일 1페이지 재확인, 공개 목록에서 7페이지까지 이동해 다른 모집 결과를 확인했습니다. 다음은 목록의 8페이지와 대기 후보입니다."
+        "note": "11월 12일 공개 검색 첫 페이지의 IT 계열 공고를 일부 검토했습니다. 브라우저 연결이 끊겨 페이지 번호를 조작하지 못했습니다. 다음 실행에서 첫 페이지의 나머지 후보와 8페이지를 확인합니다."
       },
       {
         "id": "it-research",
@@ -3351,7 +3434,7 @@ window.dailyScan = {
         "label": "소프트웨어 개발 업종 모집",
         "startUrl": "https://job.rikunabi.com/job_search/indu2-2204/",
         "status": "partial",
-        "checkedOn": "2026-11-11",
+        "checkedOn": "2026-11-12",
         "pages": [
           {
             "url": "https://job.rikunabi.com/job_search/indu2-2204/",
@@ -3367,7 +3450,6 @@ window.dailyScan = {
           }
         ],
         "pending": [
-          "https://job.rikunabi.com/job_descriptions/a3548e96d21f72ef/",
           "https://job.rikunabi.com/job_descriptions/8941298a821ac975/",
           "https://job.rikunabi.com/job_descriptions/b133d8b53306a33e/",
           "https://job.rikunabi.com/job_descriptions/6b2593aa08a109fb/",
@@ -3378,7 +3460,6 @@ window.dailyScan = {
           "https://job.rikunabi.com/job_descriptions/d2abf8f4a6428f8b/",
           "https://job.rikunabi.com/job_descriptions/05965da375584249/",
           "https://job.rikunabi.com/job_descriptions/8140fcdb4da093d9/",
-          "https://job.rikunabi.com/job_descriptions/9216e459ac46fb20/",
           "https://job.rikunabi.com/job_descriptions/8b63bcca057f2c59/",
           "https://job.rikunabi.com/job_descriptions/6235c780d8c78831/",
           "https://job.rikunabi.com/job_descriptions/0f2f67d3e9143613/",
@@ -3661,7 +3742,7 @@ window.dailyScan = {
           "https://job.rikunabi.com/job_descriptions/badc8d94fdc36ac8/"
         ],
         "nextUrl": "https://job.rikunabi.com/job_search/indu2-2204/?cursor=AGQAAwEsAAAAAAAAAAAAAAACZzotMQEDASRKDyAKAqCgpxm3f1dvq4n4LPawJgQxUVbGP07tRR3vcDd86kMvGDqVH3Xc9Rcnxi2XPYhJWDVIQAdjzTgGxN2O1OqxUteAiSWKqM9vJabLvJXjd9%2Bc%2BFQ8oNG6KazlDBfqtDUlv9O7pf8tLP8HVQiXkSYpRNTY6Iz2Uc4XNxs8Na7lPmbAolotfYMypWk%3D",
-        "note": "11월 11일 1~3페이지 확인. 목록의 다음 버튼이 새 페이지 주소를 표시했습니다. 다음은 4페이지와 대기 후보이며, 1~2페이지의 새 후보도 추가 확인이 필요합니다."
+        "note": "11월 12일 공개 검색 첫 페이지의 일부 후보를 확인했습니다. 기존 및 공개 페이지의 4페이지 링크에서 결과를 가져오지 못했습니다. 다음 실행에서 첫 페이지부터 공개 다음 버튼으로 4페이지를 다시 찾고, 첫 페이지 나머지 후보 및 대기 링크를 확인합니다. CTC 2일 과정은 게시된 개최 기간이 지나 신규 등록하지 않았습니다."
       }
     ],
     "onecareer": [
@@ -3670,7 +3751,7 @@ window.dailyScan = {
         "label": "엔지니어 공개 모집",
         "startUrl": "https://www.onecareer.jp/engineer/jobs",
         "status": "partial",
-        "checkedOn": "2026-11-09",
+        "checkedOn": "2026-11-12",
         "pages": [
           {
             "url": "https://www.onecareer.jp/engineer/jobs",
@@ -3678,10 +3759,16 @@ window.dailyScan = {
           }
         ],
         "pending": [
-          "https://onecareer.jp/events/selection/97188"
+          "https://onecareer.jp/events/selection/97188",
+          "https://www.onecareer.jp/events/selection/98344",
+          "https://www.onecareer.jp/events/selection/97741",
+          "https://www.onecareer.jp/events/selection/97742",
+          "https://www.onecareer.jp/events/internship/81783",
+          "https://www.onecareer.jp/events/internship/103865",
+          "https://www.onecareer.jp/events/seminar/98210"
         ],
         "nextUrl": "",
-        "note": "엔지니어 목록과 PCA 추가 18회차를 확인했습니다. 추가 회차는 모두 마감됐습니다. 원커리어 자체 엔지니어 채용은 법인 사원 수 자료 기준이 달라 재확인 대기로 남겼습니다."
+        "note": "11월 12일 공개 엔지니어 목록에서 첫 화면에 표시된 공고를 재확인했습니다. 상세 정보가 남은 후보는 대기 목록으로 이어갑니다."
       },
       {
         "id": "28-internship",
@@ -3838,7 +3925,7 @@ window.dailyScan = {
         "label": "28졸 엔지니어 키워드 본선고·조기선고",
         "startUrl": "https://www.onecareer.jp/events/selection?internalJobCategoryIds=107%2C109%2C110%2C111%2C112%2C113%2C114%2C115%2C117&employeeCountRanges=gte_300_lt_500%2Cgte_500_lt_1000%2Cgte_1000_lt_3000%2Cgte_3000_lt_5000%2Cgte_5000&lowestRating=0&highestRating=5&searchByCurrentUserGraduateYear=false&sort=time_limit_at&page=1&per=30&companiesToFollow=false&prefectures=%7B%22online%22%3Afalse%2C%22prefecture_ids%22%3A%5B%5D%7D&isOnecareerHostingEvent=false&upperLimitOfCompanyReview=5&lowerLimitOfCompanyReview=0&search_query=%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2&graduates=28%E5%B9%B4%E5%8D%92",
         "status": "partial",
-        "checkedOn": "2026-11-11",
+        "checkedOn": "2026-11-12",
         "pages": [
           {
             "url": "https://www.onecareer.jp/events/selection?internalJobCategoryIds=107%2C109%2C110%2C111%2C112%2C113%2C114%2C115%2C117&employeeCountRanges=gte_300_lt_500%2Cgte_500_lt_1000%2Cgte_1000_lt_3000%2Cgte_3000_lt_5000%2Cgte_5000&lowestRating=0&highestRating=5&searchByCurrentUserGraduateYear=false&sort=time_limit_at&page=1&per=30&companiesToFollow=false&prefectures=%7B%22online%22%3Afalse%2C%22prefecture_ids%22%3A%5B%5D%7D&isOnecareerHostingEvent=false&upperLimitOfCompanyReview=5&lowerLimitOfCompanyReview=0&search_query=%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2&graduates=28%E5%B9%B4%E5%8D%92",
@@ -4027,7 +4114,7 @@ window.dailyScan = {
           "https://www.onecareer.jp/events/selection/99443"
         ],
         "nextUrl": "https://www.onecareer.jp/events/selection?internalJobCategoryIds=107%2C109%2C110%2C111%2C112%2C113%2C114%2C115%2C117&employeeCountRanges=gte_300_lt_500%2Cgte_500_lt_1000%2Cgte_1000_lt_3000%2Cgte_3000_lt_5000%2Cgte_5000&lowestRating=0&highestRating=5&searchByCurrentUserGraduateYear=false&sort=time_limit_at&page=8&per=30&companiesToFollow=false&prefectures=%7B%22online%22%3Afalse%2C%22prefecture_ids%22%3A%5B%5D%7D&isOnecareerHostingEvent=false&upperLimitOfCompanyReview=5&lowerLimitOfCompanyReview=0&search_query=%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2&graduates=28%E5%B9%B4%E5%8D%92",
-        "note": "11월 11일 1페이지 재확인 및 키워드 검색 7페이지 확인. 다음은 8페이지와 대기 후보입니다."
+        "note": "11월 12일 브라우저 연결 문제로 조건 검색 첫 페이지와 8페이지의 결과를 확인하지 못했습니다. 다음 실행에서 같은 조건으로 두 페이지와 대기 후보를 확인합니다."
       }
     ],
     "gaishi": [
@@ -4036,7 +4123,7 @@ window.dailyScan = {
         "label": "28졸 IT 엔지니어·시스템 엔지니어",
         "startUrl": "https://gaishishukatsu.com/recruiting_info?order=recommend&groupedJobTypeIDs=5&groupedJobTypeIDs=4&gy=2028&allgy=false&page=1&eventStart=&eventEnd=&entryStart=&entryEnd=",
         "status": "partial",
-        "checkedOn": "2026-11-11",
+        "checkedOn": "2026-11-12",
         "pages": [
           {
             "url": "https://gaishishukatsu.com/recruiting_info?allgy=true&groupedJobTypeIDs=5&order=recommend",
@@ -4104,7 +4191,7 @@ window.dailyScan = {
           "https://gaishishukatsu.com/recruiting_info/view/15004"
         ],
         "nextUrl": "",
-        "note": "11월 11일 시스템 엔지니어·IT 엔지니어 28졸 공개 검색 1페이지 30건 재확인. 이전 순회에서 확인한 3페이지가 마지막이며 대기 후보의 상세 확인을 이어갑니다."
+        "note": "11월 12일 브라우저 연결 문제로 필터 목록 결과를 불러오지 못했습니다. 대체 검색으로 Money Forward의 세 마감을 원문에서 재확인했습니다. 다음 실행에서 필터 목록 1페이지와 대기 후보를 확인합니다."
       },
       {
         "id": "engineer-featured",
