@@ -1,5 +1,5 @@
 window.dailyScan = {
-  "checkedAt": "2026-11-14T03:17:06.164Z",
+  "checkedAt": "2026-11-15T06:22:16.637Z",
   "sources": {
     "mynavi": "partial",
     "rikunabi": "partial",
@@ -2277,7 +2277,7 @@ window.dailyScan = {
       "url": "https://careers.classmethod.jp/requirements/new-graduate2028-engineer/",
       "employeeCount": 621,
       "companySizeUrl": "https://classmethod.jp/company/finance/",
-      "verifiedOn": "2026-11-14",
+      "verifiedOn": "2026-11-15",
       "audience": "2028년 3월 대학·단기대학·전문학교 등 졸업 예정자. 전공 무관이며 프로그래밍 학습·언어 사용 경험과 Git 등 버전 관리 도구의 기본 경험이 필요합니다.",
       "summary": "AWS 등 클라우드 환경의 인프라를 설계·구축·운영하고 웹 앱 개발과 고객 요구사항 정의에도 참여합니다. 공개 채용 페이지에 신청 마감일은 표시되지 않습니다."
     },
@@ -2641,6 +2641,25 @@ window.dailyScan = {
       "audience": "IT 업계와 직무에 관심 있는 28졸 학생. 문·이과 모두 참여할 수 있습니다.",
       "summary": "2시간 동안 IT 업계 구조와 료비 시스템즈의 업무를 설명하고, 현직자 좌담회와 자기분석 안내를 진행합니다. 접수 후 회사 마이페이지에서 회차를 예약합니다.",
       "verifiedOn": "2026-11-14"
+    },
+    {
+      "id": "onecareer-103665-osaka-20261203",
+      "company": "다이와보 정보시스템",
+      "title": "28졸 Power Apps 노코드 개발 1일 해커톤",
+      "type": "internship",
+      "source": "onecareer",
+      "date": "2026-11-18",
+      "time": "12:00",
+      "regions": [
+        "kinki"
+      ],
+      "location": "오사카",
+      "url": "https://www.onecareer.jp/events/internship/103665",
+      "employeeCount": 2007,
+      "companySizeUrl": "https://www.daiwabo-holdings.com/ja/group/group_joho.html",
+      "verifiedOn": "2026-11-15",
+      "audience": "2028년 졸업 예정자로 기술직과 업무용 앱 개발에 관심 있는 학생.",
+      "summary": "12월 3일 오사카에서 Microsoft Power Apps로 팀별 업무 개선 앱을 기획하고 제작합니다. 기업 마이페이지 예약은 11월 18일 정오, 적성검사는 같은 날 23시 59분까지입니다."
     }
   ],
   "companies": {
@@ -2952,6 +2971,12 @@ window.dailyScan = {
       "address": "岡山県岡山市北区下石井二丁目10番12号 杜の街グレース オフィススクエア4階",
       "business": "지자체·의료기관과 일반 기업의 시스템을 개발하고, 데이터센터와 네트워크 구축·보안 서비스를 운영합니다.",
       "url": "https://www.ryobi.co.jp/company/corporate_outline"
+    },
+    "다이와보 정보시스템": {
+      "industry": "it",
+      "address": "大阪府大阪市北区中之島3-2-4 中之島フェスティバルタワー・ウエスト10F",
+      "business": "PC·주변기기와 소프트웨어를 유통하는 IT 전문 상사로, 기업의 IT 인프라 도입을 지원합니다.",
+      "url": "https://www.pc-daiwabo.co.jp/corporate/profile.html"
     }
   },
   "coverage": {
@@ -2961,7 +2986,7 @@ window.dailyScan = {
         "label": "28졸 IT 계열 인턴십·직무 체험",
         "startUrl": "https://job.mynavi.jp/28/pc/corpinfo/displayCorpSearchByIs/doSearchOther?isCourseOccupationCd=9",
         "status": "partial",
-        "checkedOn": "2026-11-14",
+        "checkedOn": "2026-11-15",
         "pages": [
           {
             "url": "https://job.mynavi.jp/28/pc/corpinfo/displayCorpSearchByIs/doSearchOther?isCourseOccupationCd=9",
@@ -3322,7 +3347,7 @@ window.dailyScan = {
           "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?corpId=89051&optNo=R1jrt"
         ],
         "nextUrl": "https://job.mynavi.jp/28/pc/corpinfo/displayCorpSearchByIs/doSearchOther?isCourseOccupationCd=9",
-        "note": "11월 14일 첫 페이지 및 다른 모집 결과가 표시된 9페이지를 확인했습니다. 다음은 10페이지와 대기 후보입니다."
+        "note": "11월 15일 공개 첫 페이지와 ALSOK 대기 원문을 일부 검토했습니다. 검색 도구에서는 페이지 번호를 조작할 수 없어 다음 실행에서 10페이지로 이동합니다."
       },
       {
         "id": "it-research",
@@ -3601,7 +3626,7 @@ window.dailyScan = {
         "label": "소프트웨어 개발 업종 모집",
         "startUrl": "https://job.rikunabi.com/job_search/indu2-2204/",
         "status": "partial",
-        "checkedOn": "2026-11-14",
+        "checkedOn": "2026-11-15",
         "pages": [
           {
             "url": "https://job.rikunabi.com/job_search/indu2-2204/",
@@ -4030,7 +4055,7 @@ window.dailyScan = {
           "https://job.rikunabi.com/job_descriptions/cfa8a95af1204768/"
         ],
         "nextUrl": "",
-        "note": "11월 14일 첫 페이지에서 표시된 5번으로 이동해 401~403번째 결과를 확인했습니다. 2~4페이지 변경분과 대기 후보의 상세 확인을 이어갑니다."
+        "note": "11월 15일 공개 검색 첫 페이지를 확인했습니다. 대기 원문 6b2593aa08a109fb는 검색 도구에서 열리지 않아 다음 실행에 다시 확인합니다. 2~4페이지 변경분 검토도 남았습니다."
       }
     ],
     "onecareer": [
@@ -4039,7 +4064,7 @@ window.dailyScan = {
         "label": "엔지니어 공개 모집",
         "startUrl": "https://www.onecareer.jp/engineer/jobs",
         "status": "partial",
-        "checkedOn": "2026-11-12",
+        "checkedOn": "2026-11-15",
         "pages": [
           {
             "url": "https://www.onecareer.jp/engineer/jobs",
@@ -4053,10 +4078,12 @@ window.dailyScan = {
           "https://www.onecareer.jp/events/selection/97742",
           "https://www.onecareer.jp/events/internship/81783",
           "https://www.onecareer.jp/events/internship/103865",
-          "https://www.onecareer.jp/events/seminar/98210"
+          "https://www.onecareer.jp/events/seminar/98210",
+          "https://www.onecareer.jp/events/internship/89090",
+          "https://www.onecareer.jp/events/internship/92634"
         ],
         "nextUrl": "",
-        "note": "11월 12일 공개 엔지니어 목록에서 첫 화면에 표시된 공고를 재확인했습니다. 상세 정보가 남은 후보는 대기 목록으로 이어갑니다."
+        "note": "11월 15일 공개 엔지니어 목록과 97188 원문을 확인했습니다. 97188의 법인 단독 인원은 자료별 집계 기준이 달라 추가 확인이 필요합니다. 별도 도메인 검색으로 기술직 체험 공고를 확인했습니다."
       },
       {
         "id": "28-internship",
@@ -4475,7 +4502,7 @@ window.dailyScan = {
         "label": "28졸 IT 엔지니어·시스템 엔지니어",
         "startUrl": "https://gaishishukatsu.com/recruiting_info?order=recommend&groupedJobTypeIDs=5&groupedJobTypeIDs=4&gy=2028&allgy=false&page=1&eventStart=&eventEnd=&entryStart=&entryEnd=",
         "status": "partial",
-        "checkedOn": "2026-11-14",
+        "checkedOn": "2026-11-15",
         "pages": [
           {
             "url": "https://gaishishukatsu.com/recruiting_info?allgy=true&groupedJobTypeIDs=5&order=recommend",
@@ -4544,10 +4571,12 @@ window.dailyScan = {
           "https://gaishishukatsu.com/recruiting_info/view/15505",
           "https://gaishishukatsu.com/recruiting_info/view/15425",
           "https://gaishishukatsu.com/recruiting_info/view/15507",
-          "https://gaishishukatsu.com/recruiting_info/view/15480"
+          "https://gaishishukatsu.com/recruiting_info/view/15480",
+          "https://gaishishukatsu.com/recruiting_info/view/15290",
+          "https://gaishishukatsu.com/recruiting_info/view/15265"
         ],
         "nextUrl": "",
-        "note": "11월 14일 28졸·두 직종 목록 첫 페이지와 이전 순회의 마지막인 3페이지 결과를 확인했습니다. 3페이지 3건 중 채용 공고 여부를 확인 중인 원문은 대기 목록에 남겼습니다. 다음은 2페이지 및 대기 후보 확인입니다."
+        "note": "11월 15일 두 직종 필터 목록과 15288 원문을 검색 도구에서 불러오지 못했습니다. 공개 도메인 검색으로 보완했으며 다음은 목록 2페이지와 대기 후보입니다."
       },
       {
         "id": "engineer-featured",
