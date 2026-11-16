@@ -92,6 +92,7 @@ let calendarMonth = dayFormatter.format(new Date()).slice(0, 7);
 let view = "daily";
 let activeType = "";
 const expandedCompanies = new Set();
+const expandedAppliedCompanies = new Set();
 
 function jobIndustry(job) {
   const industry = dailyScan.companies?.[job.company]?.industry ?? job.industry;
@@ -143,10 +144,11 @@ function updateApplication(job, company, button, remove) {
   }
   applicationStatus.textContent = remove ? "지원 기록에서 삭제했어요." : "지원한 공고와 캘린더에 저장했어요.";
   if (view === "applied") {
-    const index = [...appliedJobs.querySelectorAll(".application-button")].indexOf(button);
+    const focusable = () => [...appliedJobs.querySelectorAll("summary, .application-button")].filter(item => item.getClientRects().length);
+    const index = focusable().indexOf(button);
     renderApplied(new Date());
-    const buttons = appliedJobs.querySelectorAll(".application-button");
-    (buttons[Math.min(index, buttons.length - 1)] ?? document.querySelector("#applied-title")).focus();
+    const items = focusable();
+    (items[Math.min(index, items.length - 1)] ?? document.querySelector("#applied-title")).focus();
   } else {
     const visibleButtons = () => [...deadlines.querySelectorAll(".application-button")].filter(item => item.getClientRects().length);
     const index = visibleButtons().indexOf(button);
@@ -346,10 +348,34 @@ function renderJob(job, closed, { companyLayout = false, showDate = companyLayou
   return card;
 }
 
+function renderCompanyGroups(jobs, now, expanded) {
+  const grouped = new Map();
+  for (const entry of jobs) {
+    const company = entry.job.company;
+    if (!grouped.has(company)) grouped.set(company, []);
+    grouped.get(company).push(entry);
+  }
+  return [...grouped].map(([company, entries]) => {
+    const section = element("details", "company-group");
+    section.open = expanded.has(company);
+    section.addEventListener("toggle", () => {
+      if (!section.isConnected) return;
+      if (section.open) expanded.add(company);
+      else expanded.delete(company);
+    });
+    const header = element("summary", "company-heading");
+    header.append(element("h3", "", company), element("span", "company-job-count", `${entries.length}건`));
+    section.append(header, renderCompanyInfo(entries[0].job, entries[0].company));
+    for (const { job, deadline } of entries) section.append(renderJob(job, deadline <= now, { companyLayout: true }));
+    return section;
+  });
+}
+
 function renderApplied(now) {
   const saved = savedApplications();
   document.querySelector("#applied-count").textContent = `${saved.length}건 · 마감이 지난 공고도 이곳에 남아요.`;
-  appliedJobs.replaceChildren(...saved.map(({ job, company }) => renderJob(job, deadlineTime(job) <= now, { showDate: true, company })));
+  const entries = saved.map(record => ({ ...record, deadline: deadlineTime(record.job) }));
+  appliedJobs.replaceChildren(...renderCompanyGroups(entries, now, expandedAppliedCompanies));
   if (!saved.length) {
     appliedJobs.append(element("p", "empty", "아직 지원 기록이 없어요. 공고에서 ‘지원한 공고’를 누르면 여기에 저장됩니다."));
   }
@@ -473,26 +499,7 @@ function render() {
   }
 
   if (companyLayout) {
-    const grouped = new Map();
-    for (const entry of visible) {
-      const company = entry.job.company;
-      if (!grouped.has(company)) grouped.set(company, []);
-      grouped.get(company).push(entry);
-    }
-    for (const [company, entries] of grouped) {
-      const section = element("details", "company-group");
-      section.open = expandedCompanies.has(company);
-      section.addEventListener("toggle", () => {
-        if (!section.isConnected) return;
-        if (section.open) expandedCompanies.add(company);
-        else expandedCompanies.delete(company);
-      });
-      const header = element("summary", "company-heading");
-      header.append(element("h3", "", company), element("span", "company-job-count", `${entries.length}건`));
-      section.append(header, renderCompanyInfo(entries[0].job));
-      for (const { job, deadline } of entries) section.append(renderJob(job, deadline <= now, { companyLayout: true }));
-      deadlines.append(section);
-    }
+    deadlines.append(...renderCompanyGroups(visible, now, expandedCompanies));
     return;
   }
 
