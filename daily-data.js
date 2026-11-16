@@ -1,5 +1,5 @@
 window.dailyScan = {
-  "checkedAt": "2026-11-15T06:22:16.637Z",
+  "checkedAt": "2026-11-16T03:43:21.138Z",
   "sources": {
     "mynavi": "partial",
     "rikunabi": "partial",
@@ -2277,7 +2277,7 @@ window.dailyScan = {
       "url": "https://careers.classmethod.jp/requirements/new-graduate2028-engineer/",
       "employeeCount": 621,
       "companySizeUrl": "https://classmethod.jp/company/finance/",
-      "verifiedOn": "2026-11-15",
+      "verifiedOn": "2026-11-16",
       "audience": "2028년 3월 대학·단기대학·전문학교 등 졸업 예정자. 전공 무관이며 프로그래밍 학습·언어 사용 경험과 Git 등 버전 관리 도구의 기본 경험이 필요합니다.",
       "summary": "AWS 등 클라우드 환경의 인프라를 설계·구축·운영하고 웹 앱 개발과 고객 요구사항 정의에도 참여합니다. 공개 채용 페이지에 신청 마감일은 표시되지 않습니다."
     },
@@ -2296,7 +2296,7 @@ window.dailyScan = {
       "url": "https://www.serverworks.co.jp/recruit/guideline-newgraduate/",
       "employeeCount": 367,
       "companySizeUrl": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100Y5TF.pdf",
-      "verifiedOn": "2026-11-14",
+      "verifiedOn": "2026-11-16",
       "audience": "2028년 4월 정규직 입사가 가능하고 단기대학 졸업에 상응하는 학력 이상인 사람. 고등전문학교 본과와 2년제 전문학교를 포함하며 전공 무관입니다.",
       "summary": "AWS 설계·구축·운영 직무를 포함한 신입 채용 온라인 설명회입니다. 공개 페이지에서 11~12월 개최일을 안내하며 신청 마감일은 표시하지 않습니다. 설명회 후 선고에 진입할 수 있습니다."
     },
@@ -2660,6 +2660,120 @@ window.dailyScan = {
       "verifiedOn": "2026-11-15",
       "audience": "2028년 졸업 예정자로 기술직과 업무용 앱 개발에 관심 있는 학생.",
       "summary": "12월 3일 오사카에서 Microsoft Power Apps로 팀별 업무 개선 앱을 기획하고 제작합니다. 기업 마이페이지 예약은 11월 18일 정오, 적성검사는 같은 날 23시 59분까지입니다."
+    },
+    {
+      "id": "gaishi-15284-term8",
+      "company": "Money Forward",
+      "title": "28졸 엔지니어 온라인 회사설명회·좌담회 8회차",
+      "type": "briefing",
+      "source": "gaishi",
+      "date": "2026-11-18",
+      "time": "23:59",
+      "regions": [
+        "online"
+      ],
+      "location": "온라인(Zoom)",
+      "url": "https://www.gaishishukatsu.com/recruiting_info/view/15284",
+      "employeeCount": 1707,
+      "companySizeUrl": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=6011101063359",
+      "verifiedOn": "2026-11-16",
+      "audience": "Money Forward의 개발 직무와 신졸 채용에 관심 있는 28졸 학생. 해외 대학 재학생도 참가할 수 있습니다.",
+      "summary": "약 1시간 동안 회사와 엔지니어 직무를 소개합니다. 신졸로 입사한 엔지니어와 채용 담당자가 개발 업무, 근무 환경 및 선고 관련 질문에 답합니다."
+    },
+    {
+      "id": "gaishi-15284-term9",
+      "company": "Money Forward",
+      "title": "28졸 엔지니어 온라인 회사설명회·좌담회 9회차",
+      "type": "briefing",
+      "source": "gaishi",
+      "date": "2026-11-23",
+      "time": "23:59",
+      "regions": [
+        "online"
+      ],
+      "location": "온라인(Zoom)",
+      "url": "https://www.gaishishukatsu.com/recruiting_info/view/15284",
+      "employeeCount": 1707,
+      "companySizeUrl": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=6011101063359",
+      "verifiedOn": "2026-11-16",
+      "audience": "Money Forward의 개발 직무와 신졸 채용에 관심 있는 28졸 학생. 해외 대학 재학생도 참가할 수 있습니다.",
+      "summary": "약 1시간 동안 회사와 엔지니어 직무를 소개합니다. 신졸로 입사한 엔지니어와 채용 담당자가 개발 업무, 근무 환경 및 선고 관련 질문에 답합니다."
+    },
+    {
+      "id": "gaishi-15284-term10",
+      "company": "Money Forward",
+      "title": "28졸 엔지니어 온라인 회사설명회·좌담회 10회차",
+      "type": "briefing",
+      "source": "gaishi",
+      "date": "2026-12-03",
+      "time": "23:59",
+      "regions": [
+        "online"
+      ],
+      "location": "온라인(Zoom)",
+      "url": "https://www.gaishishukatsu.com/recruiting_info/view/15284",
+      "employeeCount": 1707,
+      "companySizeUrl": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=6011101063359",
+      "verifiedOn": "2026-11-16",
+      "audience": "Money Forward의 개발 직무와 신졸 채용에 관심 있는 28졸 학생. 해외 대학 재학생도 참가할 수 있습니다.",
+      "summary": "약 1시간 동안 회사와 엔지니어 직무를 소개합니다. 신졸로 입사한 엔지니어와 채용 담당자가 개발 업무, 근무 환경 및 선고 관련 질문에 답합니다."
+    },
+    {
+      "id": "gaishi-15284-term11",
+      "company": "Money Forward",
+      "title": "28졸 엔지니어 온라인 회사설명회·좌담회 11회차",
+      "type": "briefing",
+      "source": "gaishi",
+      "date": "2026-12-15",
+      "time": "23:59",
+      "regions": [
+        "online"
+      ],
+      "location": "온라인(Zoom)",
+      "url": "https://www.gaishishukatsu.com/recruiting_info/view/15284",
+      "employeeCount": 1707,
+      "companySizeUrl": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=6011101063359",
+      "verifiedOn": "2026-11-16",
+      "audience": "Money Forward의 개발 직무와 신졸 채용에 관심 있는 28졸 학생. 해외 대학 재학생도 참가할 수 있습니다.",
+      "summary": "약 1시간 동안 회사와 엔지니어 직무를 소개합니다. 신졸로 입사한 엔지니어와 채용 담당자가 개발 업무, 근무 환경 및 선고 관련 질문에 답합니다."
+    },
+    {
+      "id": "gaishi-15284-term12",
+      "company": "Money Forward",
+      "title": "28졸 엔지니어 온라인 회사설명회·좌담회 12회차",
+      "type": "briefing",
+      "source": "gaishi",
+      "date": "2026-12-21",
+      "time": "23:59",
+      "regions": [
+        "online"
+      ],
+      "location": "온라인(Zoom)",
+      "url": "https://www.gaishishukatsu.com/recruiting_info/view/15284",
+      "employeeCount": 1707,
+      "companySizeUrl": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=6011101063359",
+      "verifiedOn": "2026-11-16",
+      "audience": "Money Forward의 개발 직무와 신졸 채용에 관심 있는 28졸 학생. 해외 대학 재학생도 참가할 수 있습니다.",
+      "summary": "약 1시간 동안 회사와 엔지니어 직무를 소개합니다. 신졸로 입사한 엔지니어와 채용 담당자가 개발 업무, 근무 환경 및 선고 관련 질문에 답합니다."
+    },
+    {
+      "id": "gaishi-15284-term13",
+      "company": "Money Forward",
+      "title": "28졸 엔지니어 온라인 회사설명회·좌담회 13회차",
+      "type": "briefing",
+      "source": "gaishi",
+      "date": "2027-01-06",
+      "time": "23:59",
+      "regions": [
+        "online"
+      ],
+      "location": "온라인(Zoom)",
+      "url": "https://www.gaishishukatsu.com/recruiting_info/view/15284",
+      "employeeCount": 1707,
+      "companySizeUrl": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=6011101063359",
+      "verifiedOn": "2026-11-16",
+      "audience": "Money Forward의 개발 직무와 신졸 채용에 관심 있는 28졸 학생. 해외 대학 재학생도 참가할 수 있습니다.",
+      "summary": "약 1시간 동안 회사와 엔지니어 직무를 소개합니다. 신졸로 입사한 엔지니어와 채용 담당자가 개발 업무, 근무 환경 및 선고 관련 질문에 답합니다."
     }
   ],
   "companies": {
@@ -2986,7 +3100,7 @@ window.dailyScan = {
         "label": "28졸 IT 계열 인턴십·직무 체험",
         "startUrl": "https://job.mynavi.jp/28/pc/corpinfo/displayCorpSearchByIs/doSearchOther?isCourseOccupationCd=9",
         "status": "partial",
-        "checkedOn": "2026-11-15",
+        "checkedOn": "2026-11-16",
         "pages": [
           {
             "url": "https://job.mynavi.jp/28/pc/corpinfo/displayCorpSearchByIs/doSearchOther?isCourseOccupationCd=9",
@@ -3347,7 +3461,7 @@ window.dailyScan = {
           "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?corpId=89051&optNo=R1jrt"
         ],
         "nextUrl": "https://job.mynavi.jp/28/pc/corpinfo/displayCorpSearchByIs/doSearchOther?isCourseOccupationCd=9",
-        "note": "11월 15일 공개 첫 페이지와 ALSOK 대기 원문을 일부 검토했습니다. 검색 도구에서는 페이지 번호를 조작할 수 없어 다음 실행에서 10페이지로 이동합니다."
+        "note": "11월 16일 첫 페이지와 ALSOK 대기 후보의 직무 내용을 다시 확인했습니다. 10페이지는 공개 페이지 버튼을 이용할 수 있는 환경에서 이어갑니다."
       },
       {
         "id": "it-research",
@@ -3626,7 +3740,7 @@ window.dailyScan = {
         "label": "소프트웨어 개발 업종 모집",
         "startUrl": "https://job.rikunabi.com/job_search/indu2-2204/",
         "status": "partial",
-        "checkedOn": "2026-11-15",
+        "checkedOn": "2026-11-16",
         "pages": [
           {
             "url": "https://job.rikunabi.com/job_search/indu2-2204/",
@@ -4055,7 +4169,7 @@ window.dailyScan = {
           "https://job.rikunabi.com/job_descriptions/cfa8a95af1204768/"
         ],
         "nextUrl": "",
-        "note": "11월 15일 공개 검색 첫 페이지를 확인했습니다. 대기 원문 6b2593aa08a109fb는 검색 도구에서 열리지 않아 다음 실행에 다시 확인합니다. 2~4페이지 변경분 검토도 남았습니다."
+        "note": "11월 16일 공개 첫 페이지를 확인했습니다. 후보 6b2593aa08a109fb는 검색 도구에서 열리지 않았습니다. 2~4페이지 변경분과 상세 후보를 이어갑니다."
       }
     ],
     "onecareer": [
@@ -4064,7 +4178,7 @@ window.dailyScan = {
         "label": "엔지니어 공개 모집",
         "startUrl": "https://www.onecareer.jp/engineer/jobs",
         "status": "partial",
-        "checkedOn": "2026-11-15",
+        "checkedOn": "2026-11-16",
         "pages": [
           {
             "url": "https://www.onecareer.jp/engineer/jobs",
@@ -4079,11 +4193,10 @@ window.dailyScan = {
           "https://www.onecareer.jp/events/internship/81783",
           "https://www.onecareer.jp/events/internship/103865",
           "https://www.onecareer.jp/events/seminar/98210",
-          "https://www.onecareer.jp/events/internship/89090",
-          "https://www.onecareer.jp/events/internship/92634"
+          "https://www.onecareer.jp/events/internship/89090"
         ],
         "nextUrl": "",
-        "note": "11월 15일 공개 엔지니어 목록과 97188 원문을 확인했습니다. 97188의 법인 단독 인원은 자료별 집계 기준이 달라 추가 확인이 필요합니다. 별도 도메인 검색으로 기술직 체험 공고를 확인했습니다."
+        "note": "11월 16일 공개 목록을 확인했습니다. 97188의 단독 종업원 수에 관한 추가 확인이 남았습니다. 92634는 현재 확인되는 일정이 종료되었습니다."
       },
       {
         "id": "28-internship",
@@ -4240,7 +4353,7 @@ window.dailyScan = {
         "label": "28졸 엔지니어 키워드 본선고·조기선고",
         "startUrl": "https://www.onecareer.jp/events/selection?internalJobCategoryIds=107%2C109%2C110%2C111%2C112%2C113%2C114%2C115%2C117&employeeCountRanges=gte_300_lt_500%2Cgte_500_lt_1000%2Cgte_1000_lt_3000%2Cgte_3000_lt_5000%2Cgte_5000&lowestRating=0&highestRating=5&searchByCurrentUserGraduateYear=false&sort=time_limit_at&page=1&per=30&companiesToFollow=false&prefectures=%7B%22online%22%3Afalse%2C%22prefecture_ids%22%3A%5B%5D%7D&isOnecareerHostingEvent=false&upperLimitOfCompanyReview=5&lowerLimitOfCompanyReview=0&search_query=%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2&graduates=28%E5%B9%B4%E5%8D%92",
         "status": "partial",
-        "checkedOn": "2026-11-14",
+        "checkedOn": "2026-11-16",
         "pages": [
           {
             "url": "https://www.onecareer.jp/events/selection?internalJobCategoryIds=107%2C109%2C110%2C111%2C112%2C113%2C114%2C115%2C117&employeeCountRanges=gte_300_lt_500%2Cgte_500_lt_1000%2Cgte_1000_lt_3000%2Cgte_3000_lt_5000%2Cgte_5000&lowestRating=0&highestRating=5&searchByCurrentUserGraduateYear=false&sort=time_limit_at&page=1&per=30&companiesToFollow=false&prefectures=%7B%22online%22%3Afalse%2C%22prefecture_ids%22%3A%5B%5D%7D&isOnecareerHostingEvent=false&upperLimitOfCompanyReview=5&lowerLimitOfCompanyReview=0&search_query=%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2&graduates=28%E5%B9%B4%E5%8D%92",
@@ -4493,7 +4606,7 @@ window.dailyScan = {
           "https://www.onecareer.jp/events/selection/104100"
         ],
         "nextUrl": "https://www.onecareer.jp/events/selection?internalJobCategoryIds=107%2C109%2C110%2C111%2C112%2C113%2C114%2C115%2C117&employeeCountRanges=gte_300_lt_500%2Cgte_500_lt_1000%2Cgte_1000_lt_3000%2Cgte_3000_lt_5000%2Cgte_5000&lowestRating=0&highestRating=5&searchByCurrentUserGraduateYear=false&sort=time_limit_at&page=10&per=30&companiesToFollow=false&prefectures=%7B%22online%22%3Afalse%2C%22prefecture_ids%22%3A%5B%5D%7D&isOnecareerHostingEvent=false&upperLimitOfCompanyReview=5&lowerLimitOfCompanyReview=0&search_query=%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2&graduates=28%E5%B9%B4%E5%8D%92",
-        "note": "11월 14일 첫 페이지 재확인과 8페이지·9페이지 결과 비교를 완료했습니다. 다음은 10페이지와 대기 후보입니다."
+        "note": "11월 16일 조건 검색 10페이지를 시도했으나 실제 결과를 가져오지 못했습니다. 다음 실행에서 첫 페이지와 10페이지를 공개 브라우저로 이어갑니다."
       }
     ],
     "gaishi": [
@@ -4502,7 +4615,7 @@ window.dailyScan = {
         "label": "28졸 IT 엔지니어·시스템 엔지니어",
         "startUrl": "https://gaishishukatsu.com/recruiting_info?order=recommend&groupedJobTypeIDs=5&groupedJobTypeIDs=4&gy=2028&allgy=false&page=1&eventStart=&eventEnd=&entryStart=&entryEnd=",
         "status": "partial",
-        "checkedOn": "2026-11-15",
+        "checkedOn": "2026-11-16",
         "pages": [
           {
             "url": "https://gaishishukatsu.com/recruiting_info?allgy=true&groupedJobTypeIDs=5&order=recommend",
@@ -4540,7 +4653,6 @@ window.dailyScan = {
           "https://gaishishukatsu.com/recruiting_info/view/15262",
           "https://gaishishukatsu.com/recruiting_info/view/15426",
           "https://gaishishukatsu.com/recruiting_info/view/15420",
-          "https://gaishishukatsu.com/recruiting_info/view/15284",
           "https://gaishishukatsu.com/recruiting_info/view/14443",
           "https://gaishishukatsu.com/recruiting_info/view/15041",
           "https://gaishishukatsu.com/recruiting_info/view/14953",
@@ -4576,7 +4688,7 @@ window.dailyScan = {
           "https://gaishishukatsu.com/recruiting_info/view/15265"
         ],
         "nextUrl": "",
-        "note": "11월 15일 두 직종 필터 목록과 15288 원문을 검색 도구에서 불러오지 못했습니다. 공개 도메인 검색으로 보완했으며 다음은 목록 2페이지와 대기 후보입니다."
+        "note": "11월 16일 두 직종 조건의 첫 페이지는 검색 도구에서 열리지 않았습니다. 별도 공개 엔지니어 목록을 통해 Money Forward 원문과 6회차를 확인했습니다. 다음은 조건 목록 1·2페이지와 대기 후보입니다."
       },
       {
         "id": "engineer-featured",
