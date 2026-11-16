@@ -148,7 +148,11 @@ function updateApplication(job, company, button, remove) {
     const buttons = appliedJobs.querySelectorAll(".application-button");
     (buttons[Math.min(index, buttons.length - 1)] ?? document.querySelector("#applied-title")).focus();
   } else {
-    setApplicationButton(button, job, false);
+    const visibleButtons = () => [...deadlines.querySelectorAll(".application-button")].filter(item => item.getClientRects().length);
+    const index = visibleButtons().indexOf(button);
+    render();
+    const buttons = visibleButtons();
+    (buttons[Math.min(index, buttons.length - 1)] ?? query).focus({ preventScroll: true });
   }
 }
 
@@ -302,10 +306,8 @@ function setApplicationButton(button, job, inAppliedView) {
     button.setAttribute("aria-label", `${job.title} 지원 기록 삭제`);
     return;
   }
-  const applied = applications.has(job.id);
-  button.textContent = applied ? "✓ 지원 기록됨" : "지원한 공고";
+  button.textContent = "지원한 공고";
   button.setAttribute("aria-label", `${job.title} 지원한 공고로 표시`);
-  button.setAttribute("aria-pressed", applied);
 }
 
 function renderJob(job, closed, { companyLayout = false, showDate = companyLayout, company } = {}) {
@@ -337,7 +339,7 @@ function renderJob(job, closed, { companyLayout = false, showDate = companyLayou
   const inAppliedView = view === "applied";
   setApplicationButton(button, job, inAppliedView);
   button.addEventListener("click", () => {
-    updateApplication(job, company ?? dailyScan.companies?.[job.company], button, inAppliedView || applications.has(job.id));
+    updateApplication(job, company ?? dailyScan.companies?.[job.company], button, inAppliedView);
   });
   actions.append(button, externalLink(job.url, "원문 보기 ↗", "job-open", `${job.title} 원문 보기 (새 탭)`));
   card.append(details, actions);
@@ -452,7 +454,8 @@ function render() {
   renderDailyStatus(today);
   const keyword = query.value.trim().normalize("NFKC").toLowerCase();
   const jobs = cloudView ? cloudJobs : dailyJobs;
-  const visible = jobs.map(job => ({ job, deadline: deadlineTime(job) }))
+  const visible = jobs.filter(job => !applications.has(job.id))
+    .map(job => ({ job, deadline: deadlineTime(job) }))
     .filter(({ job, deadline }) => (includeClosed.checked || deadline > now) &&
       (!activeType || job.type === activeType) && (!sourceFilter.value || job.source === sourceFilter.value) &&
       matchesDailyFilters(job, deadline, now, today) &&
