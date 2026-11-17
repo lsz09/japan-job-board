@@ -1,5 +1,5 @@
 window.dailyScan = {
-  "checkedAt": "2026-11-16T04:38:10.441Z",
+  "checkedAt": "2026-11-17T03:43:36.032Z",
   "sources": {
     "mynavi": "partial",
     "rikunabi": "unavailable",
@@ -2277,7 +2277,7 @@ window.dailyScan = {
       "url": "https://careers.classmethod.jp/requirements/new-graduate2028-engineer/",
       "employeeCount": 621,
       "companySizeUrl": "https://classmethod.jp/company/finance/",
-      "verifiedOn": "2026-11-16",
+      "verifiedOn": "2026-11-17",
       "audience": "2028년 3월 대학·단기대학·전문학교 등 졸업 예정자. 전공 무관이며 프로그래밍 학습·언어 사용 경험과 Git 등 버전 관리 도구의 기본 경험이 필요합니다.",
       "summary": "AWS 등 클라우드 환경의 인프라를 설계·구축·운영하고 웹 앱 개발과 고객 요구사항 정의에도 참여합니다. 공개 채용 페이지에 신청 마감일은 표시되지 않습니다."
     },
@@ -2296,7 +2296,7 @@ window.dailyScan = {
       "url": "https://www.serverworks.co.jp/recruit/guideline-newgraduate/",
       "employeeCount": 367,
       "companySizeUrl": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100Y5TF.pdf",
-      "verifiedOn": "2026-11-16",
+      "verifiedOn": "2026-11-17",
       "audience": "2028년 4월 정규직 입사가 가능하고 단기대학 졸업에 상응하는 학력 이상인 사람. 고등전문학교 본과와 2년제 전문학교를 포함하며 전공 무관입니다.",
       "summary": "AWS 설계·구축·운영 직무를 포함한 신입 채용 온라인 설명회입니다. 공개 페이지에서 11~12월 개최일을 안내하며 신청 마감일은 표시하지 않습니다. 설명회 후 선고에 진입할 수 있습니다."
     },
@@ -2853,6 +2853,120 @@ window.dailyScan = {
       "audience": "28졸로 사내 시스템이나 영상 시스템 설계·기술 지원 직무에 관심 있는 지원자.",
       "summary": "사내 SE, 시스템 엔지니어, 영업기술 직군을 모집합니다. 영상·음성 전송을 포함한 시스템의 설계, 제안, 도입에 참여하는 직무가 있습니다.",
       "verifiedOn": "2026-11-16"
+    },
+    {
+      "id": "mynavi-71121-p3MY3-20261209",
+      "company": "일본시스템기술(JAST)",
+      "title": "28졸 시스템 엔지니어 1일 프로젝트 체험 (도쿄 12/09)",
+      "type": "internship",
+      "source": "mynavi",
+      "date": "2026-12-02",
+      "time": "",
+      "regions": [
+        "kanto"
+      ],
+      "location": "도쿄",
+      "url": "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?corpId=71121&optNo=p3MY3",
+      "employeeCount": 1202,
+      "companySizeUrl": "https://www.jast.jp/corporate/outline/",
+      "verifiedOn": "2026-11-17",
+      "audience": "28졸을 포함한 대학·대학원·단기대학·전문학교·고등전문학교 학생.",
+      "summary": "실제 시스템 개발 프로젝트를 바탕으로 고객의 과제를 파악하고 우선순위와 팀 역할을 정해 해결안을 제안합니다. 마감은 회차별 서류 제출 기한입니다."
+    },
+    {
+      "id": "mynavi-71121-p3MY3-20261216",
+      "company": "일본시스템기술(JAST)",
+      "title": "28졸 시스템 엔지니어 1일 프로젝트 체험 (오사카 12/16)",
+      "type": "internship",
+      "source": "mynavi",
+      "date": "2026-12-09",
+      "time": "",
+      "regions": [
+        "kinki"
+      ],
+      "location": "오사카",
+      "url": "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?corpId=71121&optNo=p3MY3",
+      "employeeCount": 1202,
+      "companySizeUrl": "https://www.jast.jp/corporate/outline/",
+      "verifiedOn": "2026-11-17",
+      "audience": "28졸을 포함한 대학·대학원·단기대학·전문학교·고등전문학교 학생.",
+      "summary": "실제 시스템 개발 프로젝트를 바탕으로 고객의 과제를 파악하고 우선순위와 팀 역할을 정해 해결안을 제안합니다. 마감은 회차별 서류 제출 기한입니다."
+    },
+    {
+      "id": "mynavi-71121-p3MY3-20261211",
+      "company": "일본시스템기술(JAST)",
+      "title": "28졸 시스템 엔지니어 1일 프로젝트 체험 (온라인 12/11)",
+      "type": "internship",
+      "source": "mynavi",
+      "date": "2026-12-04",
+      "time": "",
+      "regions": [
+        "online"
+      ],
+      "location": "온라인",
+      "url": "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?corpId=71121&optNo=p3MY3",
+      "employeeCount": 1202,
+      "companySizeUrl": "https://www.jast.jp/corporate/outline/",
+      "verifiedOn": "2026-11-17",
+      "audience": "28졸을 포함한 대학·대학원·단기대학·전문학교·고등전문학교 학생.",
+      "summary": "실제 시스템 개발 프로젝트를 바탕으로 고객의 과제를 파악하고 우선순위와 팀 역할을 정해 해결안을 제안합니다. 마감은 회차별 서류 제출 기한입니다."
+    },
+    {
+      "id": "mynavi-71121-p3MY3-20270116",
+      "company": "일본시스템기술(JAST)",
+      "title": "28졸 시스템 엔지니어 1일 프로젝트 체험 (도쿄 01/16)",
+      "type": "internship",
+      "source": "mynavi",
+      "date": "2027-01-08",
+      "time": "",
+      "regions": [
+        "kanto"
+      ],
+      "location": "도쿄",
+      "url": "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?corpId=71121&optNo=p3MY3",
+      "employeeCount": 1202,
+      "companySizeUrl": "https://www.jast.jp/corporate/outline/",
+      "verifiedOn": "2026-11-17",
+      "audience": "28졸을 포함한 대학·대학원·단기대학·전문학교·고등전문학교 학생.",
+      "summary": "실제 시스템 개발 프로젝트를 바탕으로 고객의 과제를 파악하고 우선순위와 팀 역할을 정해 해결안을 제안합니다. 마감은 회차별 서류 제출 기한입니다."
+    },
+    {
+      "id": "mynavi-71121-p3MY3-20270123",
+      "company": "일본시스템기술(JAST)",
+      "title": "28졸 시스템 엔지니어 1일 프로젝트 체험 (오사카 01/23)",
+      "type": "internship",
+      "source": "mynavi",
+      "date": "2027-01-18",
+      "time": "",
+      "regions": [
+        "kinki"
+      ],
+      "location": "오사카",
+      "url": "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?corpId=71121&optNo=p3MY3",
+      "employeeCount": 1202,
+      "companySizeUrl": "https://www.jast.jp/corporate/outline/",
+      "verifiedOn": "2026-11-17",
+      "audience": "28졸을 포함한 대학·대학원·단기대학·전문학교·고등전문학교 학생.",
+      "summary": "실제 시스템 개발 프로젝트를 바탕으로 고객의 과제를 파악하고 우선순위와 팀 역할을 정해 해결안을 제안합니다. 마감은 회차별 서류 제출 기한입니다."
+    },
+    {
+      "id": "mynavi-71121-p3MY3-20270127",
+      "company": "일본시스템기술(JAST)",
+      "title": "28졸 시스템 엔지니어 1일 프로젝트 체험 (온라인 01/27)",
+      "type": "internship",
+      "source": "mynavi",
+      "date": "2027-01-20",
+      "time": "",
+      "regions": [
+        "online"
+      ],
+      "location": "온라인",
+      "url": "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?corpId=71121&optNo=p3MY3",
+      "employeeCount": 1202,
+      "companySizeUrl": "https://www.jast.jp/corporate/outline/",
+      "verifiedOn": "2026-11-17",
+      "audience": "28졸을 포함한 대학·대학원·단기대학·전문학교·고등전문학교 학생.",
+      "summary": "실제 시스템 개발 프로젝트를 바탕으로 고객의 과제를 파악하고 우선순위와 팀 역할을 정해 해결안을 제안합니다. 마감은 회차별 서류 제출 기한입니다. 원문 상단에는 공통 접수 마감이 1월 19일로 별도 표기되어 있습니다."
     }
   ],
   "companies": {
@@ -3188,6 +3302,12 @@ window.dailyScan = {
       "address": "石川県白山市下柏野町153番地",
       "business": "의료·산업·영상 제작용 모니터와 카메라를 비롯한 영상 솔루션을 개발·제조합니다.",
       "url": "https://www.eizo.co.jp/company/profile/"
+    },
+    "일본시스템기술(JAST)": {
+      "industry": "it",
+      "address": "大阪府大阪市北区中之島2丁目3番18号 中之島フェスティバルタワー29階",
+      "business": "기업과 공공기관의 업무 시스템 개발·통합을 지원하며 대학 행정, 금융, 의료 데이터 관련 서비스를 제공합니다.",
+      "url": "https://www.jast.jp/corporate/outline/"
     }
   },
   "coverage": {
@@ -3197,7 +3317,7 @@ window.dailyScan = {
         "label": "28졸 IT 계열 인턴십·직무 체험",
         "startUrl": "https://job.mynavi.jp/28/pc/corpinfo/displayCorpSearchByIs/doSearchOther?isCourseOccupationCd=9",
         "status": "partial",
-        "checkedOn": "2026-11-16",
+        "checkedOn": "2026-11-17",
         "pages": [
           {
             "url": "https://job.mynavi.jp/28/pc/corpinfo/displayCorpSearchByIs/doSearchOther?isCourseOccupationCd=9",
@@ -3336,7 +3456,6 @@ window.dailyScan = {
           "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=sw81-&corpId=288042",
           "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=NjoEl&corpId=288042",
           "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=lE6Np&corpId=288042",
-          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=ZYW9X&corpId=112325",
           "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=ihVYV&corpId=99702",
           "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=IC8Vo&corpId=63177",
           "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=WZVY4&corpId=84445",
@@ -3496,7 +3615,6 @@ window.dailyScan = {
           "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=2e083&corpId=83953",
           "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=ns1Jv&corpId=83953",
           "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=72dDq&corpId=205232",
-          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=p3MY3&corpId=71121",
           "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=dpJhY&corpId=50898",
           "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=YBWOB&corpId=64952",
           "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=G5Yaa&corpId=64952",
@@ -4506,7 +4624,7 @@ window.dailyScan = {
           "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?corpId=257189&optNo=UUzPB"
         ],
         "nextUrl": "https://job.mynavi.jp/28/pc/corpinfo/displayCorpSearchByIs/doSearchOther?isCourseOccupationCd=9",
-        "note": "브라우저에서 첫 페이지를 재확인하고 9페이지에서 30페이지까지 다른 결과를 확인했습니다. 다음은 31페이지와 대기 후보입니다."
+        "note": "11월 17일 첫 페이지를 재확인하고 JAST 대기 공고 6회차를 확인했습니다. 첫 페이지에 31번이 표시되지 않아 다음 실행에서는 공개 페이지 번호를 순서대로 따라 31페이지부터 이어갑니다."
       },
       {
         "id": "it-research",
@@ -4785,7 +4903,7 @@ window.dailyScan = {
         "label": "소프트웨어 개발 업종 모집",
         "startUrl": "https://job.rikunabi.com/job_search/indu2-2204/",
         "status": "partial",
-        "checkedOn": "2026-11-16",
+        "checkedOn": "2026-11-17",
         "pages": [
           {
             "url": "https://job.rikunabi.com/job_search/indu2-2204/",
@@ -5214,7 +5332,7 @@ window.dailyScan = {
           "https://job.rikunabi.com/job_descriptions/cfa8a95af1204768/"
         ],
         "nextUrl": "",
-        "note": "공개 소프트웨어 개발 목록이 점검 중(HTTP 503)이어서 새 페이지를 확인하지 못했습니다. 이전 순회에서 확인한 마지막은 5페이지(401~403번째 결과)였습니다. 점검 종료 후 첫 페이지부터 결과 변화와 대기 후보를 다시 확인합니다."
+        "note": "11월 17일 브라우저에서 공개 검색 목록이 다시 HTTP 503으로 응답했습니다. 검색 도구의 이전 수집본에서 첫 페이지를 참고했습니다. 이전 확인 범위는 5페이지이며 다음은 첫 페이지부터 새 공개 목록 및 대기 후보 검토입니다."
       }
     ],
     "onecareer": [
@@ -5274,7 +5392,7 @@ window.dailyScan = {
         "label": "28졸 엔지니어 키워드 설명회",
         "startUrl": "https://www.onecareer.jp/events/seminar?internalJobCategoryIds=107%2C109%2C110%2C111%2C112%2C113%2C114%2C115%2C117&employeeCountRanges=gte_300_lt_500%2Cgte_500_lt_1000%2Cgte_1000_lt_3000%2Cgte_3000_lt_5000%2Cgte_5000&lowestRating=0&highestRating=5&searchByCurrentUserGraduateYear=false&sort=time_limit_at&page=1&per=30&companiesToFollow=false&prefectures=%7B%22online%22%3Afalse%2C%22prefecture_ids%22%3A%5B%5D%7D&isOnecareerHostingEvent=false&upperLimitOfCompanyReview=5&lowerLimitOfCompanyReview=0&search_query=%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2&graduates=28%E5%B9%B4%E5%8D%92",
         "status": "partial",
-        "checkedOn": "2026-11-09",
+        "checkedOn": "2026-11-17",
         "pages": [
           {
             "url": "https://www.onecareer.jp/events/seminar?internalJobCategoryIds=107%2C109%2C110%2C111%2C112%2C113%2C114%2C115%2C117&employeeCountRanges=gte_300_lt_500%2Cgte_500_lt_1000%2Cgte_1000_lt_3000%2Cgte_3000_lt_5000%2Cgte_5000&lowestRating=0&highestRating=5&searchByCurrentUserGraduateYear=false&sort=time_limit_at&page=1&per=30&companiesToFollow=false&prefectures=%7B%22online%22%3Afalse%2C%22prefecture_ids%22%3A%5B%5D%7D&isOnecareerHostingEvent=false&upperLimitOfCompanyReview=5&lowerLimitOfCompanyReview=0&search_query=%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2&graduates=28%E5%B9%B4%E5%8D%92",
@@ -5388,10 +5506,24 @@ window.dailyScan = {
           "https://www.onecareer.jp/events/seminar/95603",
           "https://www.onecareer.jp/events/seminar/103036",
           "https://www.onecareer.jp/events/seminar/103409",
-          "https://www.onecareer.jp/events/seminar/99928"
+          "https://www.onecareer.jp/events/seminar/99928",
+          "https://www.onecareer.jp/events/seminar/90194",
+          "https://www.onecareer.jp/events/seminar/97786",
+          "https://www.onecareer.jp/events/seminar/103041",
+          "https://www.onecareer.jp/events/seminar/101663",
+          "https://www.onecareer.jp/events/seminar/102751",
+          "https://www.onecareer.jp/events/seminar/104312",
+          "https://www.onecareer.jp/events/seminar/103886",
+          "https://www.onecareer.jp/events/seminar/104316",
+          "https://www.onecareer.jp/events/seminar/99736",
+          "https://www.onecareer.jp/events/seminar/92867",
+          "https://www.onecareer.jp/events/seminar/102061",
+          "https://www.onecareer.jp/events/seminar/95501",
+          "https://www.onecareer.jp/events/seminar/95363",
+          "https://www.onecareer.jp/events/seminar/98484"
         ],
         "nextUrl": "https://www.onecareer.jp/events/seminar?internalJobCategoryIds=107%2C109%2C110%2C111%2C112%2C113%2C114%2C115%2C117&employeeCountRanges=gte_300_lt_500%2Cgte_500_lt_1000%2Cgte_1000_lt_3000%2Cgte_3000_lt_5000%2Cgte_5000&lowestRating=0&highestRating=5&searchByCurrentUserGraduateYear=false&sort=time_limit_at&page=6&per=30&companiesToFollow=false&prefectures=%7B%22online%22%3Afalse%2C%22prefecture_ids%22%3A%5B%5D%7D&isOnecareerHostingEvent=false&upperLimitOfCompanyReview=5&lowerLimitOfCompanyReview=0&search_query=%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2&graduates=28%E5%B9%B4%E5%8D%92",
-        "note": "28졸 엔지니어 설명회 검색 2~5페이지를 추가 확인했습니다. 광고와 다른 직종도 포함되므로 법인 사원 수와 공고 내용을 개별 대조합니다. 6페이지부터 이어갑니다."
+        "note": "11월 17일 공개 첫 페이지를 재확인했습니다. 5페이지에서 6번으로 이동할 수 있는 공개 버튼이 확인되지 않아 다음 실행에서 페이지 메뉴와 상세 후보를 다시 확인합니다."
       },
       {
         "id": "28-selection",
@@ -5856,7 +5988,7 @@ window.dailyScan = {
         "label": "28졸 IT 엔지니어·시스템 엔지니어",
         "startUrl": "https://gaishishukatsu.com/recruiting_info?order=recommend&groupedJobTypeIDs=5&groupedJobTypeIDs=4&gy=2028&allgy=false&page=1&eventStart=&eventEnd=&entryStart=&entryEnd=",
         "status": "partial",
-        "checkedOn": "2026-11-16",
+        "checkedOn": "2026-11-17",
         "pages": [
           {
             "url": "https://gaishishukatsu.com/recruiting_info?allgy=true&groupedJobTypeIDs=5&order=recommend",
@@ -5926,7 +6058,7 @@ window.dailyScan = {
           "https://gaishishukatsu.com/recruiting_info/view/15265"
         ],
         "nextUrl": "",
-        "note": "28졸·시스템 엔지니어·IT 엔지니어 조건의 첫 페이지부터 마지막 3페이지까지 실제 결과를 확인했습니다. 4~10페이지는 표시되지 않았으며 상세 대기 후보를 이어갑니다."
+        "note": "11월 17일 28졸·IT 엔지니어·시스템 엔지니어 조건의 첫 페이지 및 다른 결과가 표시된 2페이지를 재확인했습니다. 다음은 이전 마지막 3페이지와 대기 후보입니다."
       },
       {
         "id": "engineer-featured",
