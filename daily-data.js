@@ -1,5 +1,5 @@
 window.dailyScan = {
-  "checkedAt": "2026-11-17T03:43:36.032Z",
+  "checkedAt": "2026-11-17T23:59:51.193Z",
   "sources": {
     "mynavi": "partial",
     "rikunabi": "unavailable",
@@ -2277,7 +2277,7 @@ window.dailyScan = {
       "url": "https://careers.classmethod.jp/requirements/new-graduate2028-engineer/",
       "employeeCount": 621,
       "companySizeUrl": "https://classmethod.jp/company/finance/",
-      "verifiedOn": "2026-11-17",
+      "verifiedOn": "2026-11-18",
       "audience": "2028년 3월 대학·단기대학·전문학교 등 졸업 예정자. 전공 무관이며 프로그래밍 학습·언어 사용 경험과 Git 등 버전 관리 도구의 기본 경험이 필요합니다.",
       "summary": "AWS 등 클라우드 환경의 인프라를 설계·구축·운영하고 웹 앱 개발과 고객 요구사항 정의에도 참여합니다. 공개 채용 페이지에 신청 마감일은 표시되지 않습니다."
     },
@@ -2296,7 +2296,7 @@ window.dailyScan = {
       "url": "https://www.serverworks.co.jp/recruit/guideline-newgraduate/",
       "employeeCount": 367,
       "companySizeUrl": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100Y5TF.pdf",
-      "verifiedOn": "2026-11-17",
+      "verifiedOn": "2026-11-18",
       "audience": "2028년 4월 정규직 입사가 가능하고 단기대학 졸업에 상응하는 학력 이상인 사람. 고등전문학교 본과와 2년제 전문학교를 포함하며 전공 무관입니다.",
       "summary": "AWS 설계·구축·운영 직무를 포함한 신입 채용 온라인 설명회입니다. 공개 페이지에서 11~12월 개최일을 안내하며 신청 마감일은 표시하지 않습니다. 설명회 후 선고에 진입할 수 있습니다."
     },
@@ -2967,6 +2967,25 @@ window.dailyScan = {
       "verifiedOn": "2026-11-17",
       "audience": "28졸을 포함한 대학·대학원·단기대학·전문학교·고등전문학교 학생.",
       "summary": "실제 시스템 개발 프로젝트를 바탕으로 고객의 과제를 파악하고 우선순위와 팀 역할을 정해 해결안을 제안합니다. 마감은 회차별 서류 제출 기한입니다. 원문 상단에는 공통 접수 마감이 1월 19일로 별도 표기되어 있습니다."
+    },
+    {
+      "id": "gaishi-15392",
+      "company": "GMO 인터넷",
+      "title": "28졸 웹·인프라·보안·데이터 AI 엔지니어 본선고",
+      "type": "main",
+      "source": "gaishi",
+      "date": "2026-11-30",
+      "time": "23:59",
+      "regions": [
+        "kanto"
+      ],
+      "location": "도쿄 시부야",
+      "url": "https://gaishishukatsu.com/recruiting_info/view/15392",
+      "employeeCount": 681,
+      "companySizeUrl": "https://internet.gmo/company/outline/",
+      "verifiedOn": "2026-11-18",
+      "audience": "2027년 4월부터 2028년 3월 사이 대학·대학원을 졸업·수료할 예정인 지원자. 전공 제한은 없습니다.",
+      "summary": "웹 앱 개발·운영, 서버와 가상화 인프라, 보안 진단, LLM·데이터 분석 기반 개발 직군을 모집합니다. 표시한 마감은 외자취활 접수 기준입니다."
     }
   ],
   "companies": {
@@ -3308,6 +3327,12 @@ window.dailyScan = {
       "address": "大阪府大阪市北区中之島2丁目3番18号 中之島フェスティバルタワー29階",
       "business": "기업과 공공기관의 업무 시스템 개발·통합을 지원하며 대학 행정, 금융, 의료 데이터 관련 서비스를 제공합니다.",
       "url": "https://www.jast.jp/corporate/outline/"
+    },
+    "GMO 인터넷": {
+      "industry": "it",
+      "address": "東京都渋谷区桜丘町26番1号 セルリアンタワー",
+      "business": "도메인·호스팅 등 인터넷 인프라와 인터넷 광고 사업을 운영합니다.",
+      "url": "https://internet.gmo/company/outline/"
     }
   },
   "coverage": {
@@ -3317,7 +3342,7 @@ window.dailyScan = {
         "label": "28졸 IT 계열 인턴십·직무 체험",
         "startUrl": "https://job.mynavi.jp/28/pc/corpinfo/displayCorpSearchByIs/doSearchOther?isCourseOccupationCd=9",
         "status": "partial",
-        "checkedOn": "2026-11-17",
+        "checkedOn": "2026-11-18",
         "pages": [
           {
             "url": "https://job.mynavi.jp/28/pc/corpinfo/displayCorpSearchByIs/doSearchOther?isCourseOccupationCd=9",
@@ -4624,7 +4649,7 @@ window.dailyScan = {
           "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?corpId=257189&optNo=UUzPB"
         ],
         "nextUrl": "https://job.mynavi.jp/28/pc/corpinfo/displayCorpSearchByIs/doSearchOther?isCourseOccupationCd=9",
-        "note": "11월 17일 첫 페이지를 재확인하고 JAST 대기 공고 6회차를 확인했습니다. 첫 페이지에 31번이 표시되지 않아 다음 실행에서는 공개 페이지 번호를 순서대로 따라 31페이지부터 이어갑니다."
+        "note": "11월 18일 공개 첫 페이지를 재확인했습니다. 다음은 이전에 확인한 30페이지 이후 31페이지이며 공개 번호를 순서대로 따라갑니다. 새 후보의 상세 검토가 남았습니다."
       },
       {
         "id": "it-research",
@@ -4903,7 +4928,7 @@ window.dailyScan = {
         "label": "소프트웨어 개발 업종 모집",
         "startUrl": "https://job.rikunabi.com/job_search/indu2-2204/",
         "status": "partial",
-        "checkedOn": "2026-11-17",
+        "checkedOn": "2026-11-18",
         "pages": [
           {
             "url": "https://job.rikunabi.com/job_search/indu2-2204/",
@@ -5332,7 +5357,7 @@ window.dailyScan = {
           "https://job.rikunabi.com/job_descriptions/cfa8a95af1204768/"
         ],
         "nextUrl": "",
-        "note": "11월 17일 브라우저에서 공개 검색 목록이 다시 HTTP 503으로 응답했습니다. 검색 도구의 이전 수집본에서 첫 페이지를 참고했습니다. 이전 확인 범위는 5페이지이며 다음은 첫 페이지부터 새 공개 목록 및 대기 후보 검토입니다."
+        "note": "11월 18일 브라우저의 공개 목록이 점검 중 화면으로 표시되어 모집 결과를 확인하지 못했습니다. 점검 종료 후 첫 페이지 및 대기 후보를 재시도합니다. 이전 열람 범위는 5페이지입니다."
       }
     ],
     "onecareer": [
@@ -5341,7 +5366,7 @@ window.dailyScan = {
         "label": "엔지니어 공개 모집",
         "startUrl": "https://www.onecareer.jp/engineer/jobs",
         "status": "partial",
-        "checkedOn": "2026-11-16",
+        "checkedOn": "2026-11-18",
         "pages": [
           {
             "url": "https://www.onecareer.jp/engineer/jobs",
@@ -5356,10 +5381,12 @@ window.dailyScan = {
           "https://www.onecareer.jp/events/internship/81783",
           "https://www.onecareer.jp/events/internship/103865",
           "https://www.onecareer.jp/events/seminar/98210",
-          "https://www.onecareer.jp/events/internship/89090"
+          "https://www.onecareer.jp/events/internship/89090",
+          "https://onecareer.jp/events/internship/91557",
+          "https://onecareer.jp/events/internship/90440"
         ],
         "nextUrl": "",
-        "note": "11월 16일 공개 목록을 확인했습니다. 97188의 단독 종업원 수에 관한 추가 확인이 남았습니다. 92634는 현재 확인되는 일정이 종료되었습니다."
+        "note": "11월 18일 공개 엔지니어 목록을 브라우저에서 열었으나 결과 링크가 표시되지 않았습니다. 검색 도구의 공개 목록과 91557·90440 원문을 참고했습니다. 조건 검색은 다음 6페이지 설명회 목록과 대기 후보를 이어갑니다."
       },
       {
         "id": "28-internship",
@@ -5988,7 +6015,7 @@ window.dailyScan = {
         "label": "28졸 IT 엔지니어·시스템 엔지니어",
         "startUrl": "https://gaishishukatsu.com/recruiting_info?order=recommend&groupedJobTypeIDs=5&groupedJobTypeIDs=4&gy=2028&allgy=false&page=1&eventStart=&eventEnd=&entryStart=&entryEnd=",
         "status": "partial",
-        "checkedOn": "2026-11-17",
+        "checkedOn": "2026-11-18",
         "pages": [
           {
             "url": "https://gaishishukatsu.com/recruiting_info?allgy=true&groupedJobTypeIDs=5&order=recommend",
@@ -6009,7 +6036,6 @@ window.dailyScan = {
         ],
         "pending": [
           "https://gaishishukatsu.com/recruiting_info/view/15288",
-          "https://gaishishukatsu.com/recruiting_info/view/15439",
           "https://gaishishukatsu.com/recruiting_info/view/15438",
           "https://gaishishukatsu.com/recruiting_info/view/14958",
           "https://gaishishukatsu.com/recruiting_info/view/14870",
@@ -6029,7 +6055,6 @@ window.dailyScan = {
           "https://gaishishukatsu.com/recruiting_info/view/14443",
           "https://gaishishukatsu.com/recruiting_info/view/15041",
           "https://gaishishukatsu.com/recruiting_info/view/14953",
-          "https://gaishishukatsu.com/recruiting_info/view/15392",
           "https://gaishishukatsu.com/recruiting_info/view/15176",
           "https://gaishishukatsu.com/recruiting_info/view/15404",
           "https://gaishishukatsu.com/recruiting_info/view/15223",
@@ -6055,10 +6080,12 @@ window.dailyScan = {
           "https://gaishishukatsu.com/recruiting_info/view/15505",
           "https://gaishishukatsu.com/recruiting_info/view/15425",
           "https://gaishishukatsu.com/recruiting_info/view/15290",
-          "https://gaishishukatsu.com/recruiting_info/view/15265"
+          "https://gaishishukatsu.com/recruiting_info/view/15265",
+          "https://gaishishukatsu.com/recruiting_info/view/15507",
+          "https://gaishishukatsu.com/recruiting_info/view/15480"
         ],
         "nextUrl": "",
-        "note": "11월 17일 28졸·IT 엔지니어·시스템 엔지니어 조건의 첫 페이지 및 다른 결과가 표시된 2페이지를 재확인했습니다. 다음은 이전 마지막 3페이지와 대기 후보입니다."
+        "note": "11월 18일 28졸·두 엔지니어 직종 목록의 첫 페이지와 다른 결과가 표시된 마지막 3페이지를 재확인했습니다. GMO 인터넷 본선고를 확인했으며 유니크비전은 사원 수 기준 미달로 제외했습니다. 대기 후보 상세 검토를 이어갑니다."
       },
       {
         "id": "engineer-featured",
