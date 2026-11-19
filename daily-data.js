@@ -1,5 +1,5 @@
 window.dailyScan = {
-  "checkedAt": "2026-11-19T02:28:22.263Z",
+  "checkedAt": "2026-11-19T17:30:06.140Z",
   "sources": {
     "mynavi": "partial",
     "rikunabi": "partial",
@@ -3640,6 +3640,195 @@ window.dailyScan = {
       "location": "도쿄도 신주쿠구 니시신주쿠7-20-1 스미토모부동산 니시신주쿠빌딩33F",
       "eventDate": "2026-12-11",
       "summary": "2026-12-11 10:00~17:00(JST) 그룹 과제·생성 AI 체험과 Salesforce 클라우드를 이용한 앱 개발을 진행합니다. 신청 마감은 2026-12-03입니다. 응모자가 많으면 추첨하며 교통비는 상한 1만 엔, 점심을 제공합니다."
+    },
+    {
+      "id": "official-hatena-2028-129649",
+      "company": "하테나",
+      "title": "28졸 웹 애플리케이션 엔지니어 본선고",
+      "type": "main",
+      "source": "official",
+      "date": "",
+      "time": "",
+      "url": "https://hatena.co.jp/recruit/fresh/application-engineer",
+      "employeeCount": 217,
+      "companySizeUrl": "https://info.gbiz.go.jp/hojin/edinetDownload?docId=S100WX9N",
+      "regions": [
+        "unknown"
+      ],
+      "verifiedOn": "2026-11-20",
+      "audience": "2028졸 웹 애플리케이션 엔지니어 지원자. 자세한 자격은 연결된 2028졸 모집요강에서 확인합니다.",
+      "summary": "하테나 블로그·북마크·Mackerel 등 서비스와 공통 기반을 설계·개발·운영합니다. 2028졸 현재 모집 링크를 확인했으며 마감일은 공개 페이지에서 확인되지 않았습니다.",
+      "detailUrl": "https://open.talentio.com/r/1/c/hatena/pages/129649"
+    },
+    {
+      "id": "official-hatena-2028-129650",
+      "company": "하테나",
+      "title": "28졸 iOS·Android 엔지니어 본선고",
+      "type": "main",
+      "source": "official",
+      "date": "",
+      "time": "",
+      "url": "https://hatena.co.jp/recruit/fresh/sp-application-engineer",
+      "employeeCount": 217,
+      "companySizeUrl": "https://info.gbiz.go.jp/hojin/edinetDownload?docId=S100WX9N",
+      "regions": [
+        "unknown"
+      ],
+      "verifiedOn": "2026-11-20",
+      "audience": "2028졸 모바일 앱 엔지니어 지원자. 자세한 자격은 연결된 2028졸 모집요강에서 확인합니다.",
+      "summary": "자사 서비스 및 공동 개발 서비스의 iOS·Android 앱을 설계·개발하고 모바일 기술을 조사·도입합니다. 마감일과 근무지는 공개 소개 페이지에서 확인되지 않았습니다.",
+      "detailUrl": "https://open.talentio.com/r/1/c/hatena/pages/129650"
+    },
+    {
+      "id": "official-hatena-2028-129651",
+      "company": "하테나",
+      "title": "28졸 SRE·서비스 신뢰성 엔지니어 본선고",
+      "type": "main",
+      "source": "official",
+      "date": "",
+      "time": "",
+      "url": "https://hatena.co.jp/recruit/fresh/sre",
+      "employeeCount": 217,
+      "companySizeUrl": "https://info.gbiz.go.jp/hojin/edinetDownload?docId=S100WX9N",
+      "regions": [
+        "unknown"
+      ],
+      "verifiedOn": "2026-11-20",
+      "audience": "2028졸 SRE 지원자. 기술과 협업을 통해 서비스 신뢰성과 개발 속도를 개선하는 직무에 관심 있는 분.",
+      "summary": "Embedded SRE와 Platform SRE 분야에서 SLO 설정, 서비스 기반 구축·운영, 공통 시스템 개선과 DevOps 문화를 다룹니다. 구체 배치는 선고 중 논의하며 마감일은 미공개입니다.",
+      "detailUrl": "https://open.talentio.com/r/1/c/hatena/pages/129651",
+      "cloudRelated": true,
+      "cloudReason": "공식 신입 SRE 모집에서 서비스 기반 구축·운영 및 Platform SRE 직무를 확인했습니다.",
+      "cloudEvidenceUrl": "https://hatena.co.jp/recruit/fresh/sre",
+      "cloudVerifiedOn": "2026-11-20"
+    },
+    {
+      "id": "official-classmethod-operations-20261209-new",
+      "company": "클래스메소드 오퍼레이션즈",
+      "title": "28졸 AWS·클라우드 IT 엔지니어 온라인 설명회 (12월 9일)",
+      "type": "briefing",
+      "source": "official",
+      "date": "2026-12-08",
+      "time": "12:00",
+      "url": "https://careers.classmethod-operations.jp/jobfair/detail/20261209-new/",
+      "employeeCount": 193,
+      "companySizeUrl": "https://classmethod-operations.jp/",
+      "regions": [
+        "online"
+      ],
+      "verifiedOn": "2026-11-20",
+      "audience": "2028년 3월 졸업 예정자 및 제2신졸. 문과·이과, 프로그래밍 미경험자도 참가할 수 있습니다.",
+      "summary": "12월 9일 14:00~15:00 JST Zoom 개최. AWS·클라우드 업무, IT 엔지니어의 하루, 교육·복지와 선고 절차를 소개하고 현직 엔지니어·인사와 질의응답합니다. 신청은 개최 전날 정오까지입니다."
+    },
+    {
+      "id": "official-mirrativ-4007",
+      "company": "미라티브",
+      "title": "28졸 엔지니어 본선고",
+      "type": "main",
+      "source": "official",
+      "date": "",
+      "time": "",
+      "url": "https://hrmos.co/pages/mirrativ/jobs/4007",
+      "employeeCount": 148,
+      "companySizeUrl": "https://hrmos.co/pages/mirrativ/jobs/4007",
+      "regions": [
+        "nationwide",
+        "kanto"
+      ],
+      "verifiedOn": "2026-11-20",
+      "audience": "2028년 4월 이후 입사 가능한 엔지니어 학생. 4월 외 입사도 상담할 수 있습니다.",
+      "summary": "게임 방송 플랫폼 Mirrativ 등의 제품 개발 엔지니어 채용입니다. 서류 및 3~4회 면접을 진행하며 최종 면접은 대면 가능성이 있습니다. 전면 원격 근무 가능하나 필요 시 도쿄 사무실 출근을 요청할 수 있습니다. 마감일 미공개."
+    },
+    {
+      "id": "official-mirrativ-2227",
+      "company": "미라티브",
+      "title": "28졸 Go 백엔드·GCP 기반 개발 실무 인턴십",
+      "type": "internship",
+      "source": "official",
+      "date": "",
+      "time": "",
+      "url": "https://hrmos.co/pages/mirrativ/jobs/2227",
+      "employeeCount": 148,
+      "companySizeUrl": "https://hrmos.co/pages/mirrativ/jobs/4007",
+      "regions": [
+        "online",
+        "kanto"
+      ],
+      "verifiedOn": "2026-11-20",
+      "audience": "2028졸 예정 학생으로 일본 국내에서 주 15시간 이상 근무할 수 있는 분. 입사 월은 상담 가능합니다.",
+      "summary": "약 1개월간 실제 개발팀에서 Go 백엔드 기능 또는 서버 가용성·신뢰성 개선에 참여합니다. GCP·IDCF 등 개발 환경을 사용하며 원격 중심·일부 도쿄 출근입니다. 시급 2,000엔부터, 연중 일정 조정 가능하며 신청 마감일은 미공개."
+    },
+    {
+      "id": "mynavi-91281-UUDPY",
+      "company": "와이・시・시(YCC)",
+      "title": "28졸 의료·지자체·로코드 시스템 1일 직무 체험",
+      "type": "internship",
+      "source": "mynavi",
+      "date": "2027-01-20",
+      "time": "",
+      "url": "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?corpId=91281&optNo=UUDPY",
+      "employeeCount": 188,
+      "companySizeUrl": "https://job.mynavi.jp/28/pc/search/corp91281/outline.html",
+      "regions": [
+        "chubu"
+      ],
+      "verifiedOn": "2026-11-20",
+      "audience": "2028졸을 포함한 대학원·대학·단기대학·전문학교 재학생. 문과·이과 및 프로그래밍 경험 여부 불문.",
+      "summary": "야마나시 고후 본사에서 의료·지자체·로코드 개발 중 관심 코스를 골라 시스템 조작·개발과 프로그래밍을 체험합니다. 젊은 직원 교류 및 피드백 포함. 2027년 1월까지 월 1회 정도 개최하며 선착순 최대 5명."
+    },
+    {
+      "id": "mynavi-91281-iPsun",
+      "company": "와이・시・시(YCC)",
+      "title": "28졸 YCC 사업·IT 엔지니어 직무 설명회",
+      "type": "briefing",
+      "source": "mynavi",
+      "date": "2027-02-09",
+      "time": "",
+      "url": "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?corpId=91281&optNo=iPsun",
+      "employeeCount": 188,
+      "companySizeUrl": "https://job.mynavi.jp/28/pc/search/corp91281/outline.html",
+      "regions": [
+        "chubu"
+      ],
+      "verifiedOn": "2026-11-20",
+      "audience": "2028졸을 포함해 YCC 또는 IT 업계에 관심 있는 학생. 학년·전공 제한 없음.",
+      "summary": "야마나시 고후 본사에서 회사·사업 소개, 프로그래머·SE·네트워크·운영 직무 연구, 젊은 직원 교류와 질문 시간을 진행합니다. 2월까지 월별 개최, 회당 최대 10명 선착순입니다."
+    },
+    {
+      "id": "rikunabi-544a5e9459c34ede",
+      "company": "일본 알고리즘",
+      "title": "28졸 Python·머신러닝 1일 직무 체험 (도쿄)",
+      "type": "internship",
+      "source": "rikunabi",
+      "date": "2026-12-14",
+      "time": "",
+      "url": "https://job.rikunabi.com/job_descriptions/544a5e9459c34ede/",
+      "employeeCount": 201,
+      "companySizeUrl": "https://www.nalgo.co.jp/company/",
+      "regions": [
+        "kanto"
+      ],
+      "verifiedOn": "2026-11-20",
+      "audience": "2028년 3월 졸업 예정인 대학원·대학·단기대학·전문학교·고전 학생. Python 코드를 읽을 수 있는 프로그래밍 경험자이며 코드 사전 제출 선고가 있습니다.",
+      "summary": "12월 도쿄 산겐자야 본사에서 개발 환경 구성, 머신러닝 프로그래밍과 결과 검증을 체험합니다. 회사 소개와 젊은 소프트웨어 엔지니어의 지도·피드백을 포함한 10:00~17:00 일정입니다."
+    },
+    {
+      "id": "rikunabi-8941298a821ac975",
+      "company": "일본 알고리즘",
+      "title": "28졸·29졸 소프트웨어 기업 2시간 온라인 설명회",
+      "type": "briefing",
+      "source": "rikunabi",
+      "date": "2027-02-23",
+      "time": "",
+      "url": "https://job.rikunabi.com/job_descriptions/8941298a821ac975/",
+      "employeeCount": 201,
+      "companySizeUrl": "https://www.nalgo.co.jp/company/",
+      "regions": [
+        "online"
+      ],
+      "verifiedOn": "2026-11-20",
+      "audience": "2028년 또는 2029년 3월 졸업 예정인 대학원·대학·단기대학·전문학교·고전 학생. 문과·이과·전공 불문, 전문 지식 불필요.",
+      "summary": "AI·연구개발, 기반 시스템과 앱 개발 프로젝트, 자유로운 개발 문화와 근무제도를 소개하고 젊은 소프트웨어 엔지니어와 교류합니다. 2026년 11월~2027년 2월 온라인 개최, 선착순·선고 없음."
     }
   ],
   "companies": {
@@ -4119,6 +4308,48 @@ window.dailyScan = {
       "cloudReason": "공식 직무 소개에서 클라우드 기반 시스템 인프라의 설계·구축 업무를 확인했습니다.",
       "cloudEvidenceUrl": "https://www.ctct.co.jp/recruit/about/jobcategory.html",
       "cloudVerifiedOn": "2026-11-19"
+    },
+    "하테나": {
+      "industry": "it",
+      "address": "京都府京都市中京区七観音町630 読売京都ビル7F / 東京都港区南青山6-5-55",
+      "business": "하테나 블로그·북마크 등 인터넷 서비스, 콘텐츠 플랫폼과 Mackerel 모니터링 서비스를 개발·운영합니다.",
+      "url": "https://hatena.co.jp/information/outline",
+      "employeeCountAsOf": "2025-07-31",
+      "employeeCountNote": "유가증권보고서 제출회사 217명. 비연결 법인 기준이며 임시 고용 인원은 제외."
+    },
+    "클래스메소드 오퍼레이션즈": {
+      "industry": "it",
+      "address": "東京都港区西新橋1-1-1 日比谷フォートタワー26階",
+      "business": "AWS 등 클라우드의 기술 컨설팅·설계·구축·운용 보수, 데이터 분석 기반과 애플리케이션 개발·운영을 지원합니다.",
+      "url": "https://classmethod-operations.jp/",
+      "employeeCountAsOf": "2025-09-01",
+      "employeeCountNote": "공식 회사 정보에 기재된 해당 법인 193명."
+    },
+    "미라티브": {
+      "industry": "it",
+      "address": "東京都目黒区目黒2丁目10-11 目黒山手プレイス8階",
+      "business": "스마트폰 게임 방송 플랫폼 Mirrativ와 방송자·VTuber 대상 서비스를 개발·운영합니다.",
+      "url": "https://hrmos.co/pages/mirrativ/jobs/4007",
+      "corporateUrl": "https://www.mirrativ.co.jp/company/",
+      "employeeCountAsOf": "2026-01",
+      "employeeCountNote": "기업이 운영하는 공식 채용 페이지의 정사원 148명."
+    },
+    "와이・시・시(YCC)": {
+      "industry": "it",
+      "address": "山梨県甲府市飯田3-1-2",
+      "business": "의료·지자체·교육 분야의 업무 시스템, 지역 ICT, 데이터 전자화와 데이터센터 운영 서비스를 제공합니다.",
+      "url": "https://job.mynavi.jp/28/pc/search/corp91281/outline.html",
+      "corporateUrl": "https://www.ycc.co.jp/",
+      "employeeCountAsOf": "2025-04-01",
+      "employeeCountNote": "마이나비 기업 작성 회사 정보 188명. 공식 사이트는 조회 시 시간 초과."
+    },
+    "일본 알고리즘": {
+      "industry": "it",
+      "address": "東京都世田谷区太子堂4-1-1 キャロットタワー24階",
+      "business": "AI·연구개발, 기반 시스템과 애플리케이션 소프트웨어를 설계·개발하고 네트워크 구축·운영을 제공합니다.",
+      "url": "https://www.nalgo.co.jp/company/",
+      "employeeCountAsOf": "2026-04",
+      "employeeCountNote": "공식 회사 개요 전 종업원 201명(개발 191명, 영업·관리 10명)."
     }
   },
   "coverage": {
@@ -5781,6 +6012,17 @@ window.dailyScan = {
         "pending": [],
         "nextUrl": "",
         "note": "공개 마감 목록을 다시 열었습니다. 날짜별 모집 링크의 상세 검토가 남았습니다."
+      },
+      {
+        "id": "employee100-supplement-20261120",
+        "label": "100명 이상 기준 확대·기업별 28졸 IT 공고 보완 검색",
+        "startUrl": "https://job.mynavi.jp/28/pc/search/inc40.html",
+        "status": "partial",
+        "checkedOn": "2026-11-20",
+        "pages": [],
+        "pending": [],
+        "nextUrl": "",
+        "note": "100~299명 기업을 포함한 도메인·기업별 보완 검색으로 YCC 2개 상세와 회사 정보를 확인. 목록 순회는 하지 않아 열람 페이지 0으로 기록. 종전 목록은 과거 조건의 기록이며 새 기준 전수 확인은 미완료."
       }
     ],
     "rikunabi": [
@@ -6612,6 +6854,19 @@ window.dailyScan = {
         ],
         "nextUrl": "https://job.rikunabi.com/job_search/?we2=0103&we2=0104&we2=0105&we2=0106&gy=-1&cursor=AGQADwXcAAAAAAAAAAAAAAACZ7s8MQEGAShSHTwLIBU2DFAIA2oJwzX0PV2SCkAGKUaq1s43yfxIMpVXoU%2B9UYuJvqt83Kuaozmf6fn%2FwfKIT0d8kxi2LnRuGIE9MrOWWEIqZEK%2BwnxyGImA6aJoDzan73F%2BAe28JlYgz7qvGm%2FrCPZ%2BoL5UxON5B2G8e6Nc0SwB7ldidJZTcEBLs7zxu8%2BkZ0pADhytsDfCg5dO5V69khHI0NIvwzSmfvxhAxR2epTSOPCK%2BdET6T%2FPqcppyjFuG7KtfLed17FjwF81EonbiBpi%2BDb0Egssk9DSZw8ojwMoPsaihAh9ne%2Ff6Mx06fOL8Q88WLwVO68lm3RzzINGdgY3opIwk%2F2eVD9lh7I%2FjB4oqXdST8y%2FwsY3KXUf97c4YSOYWRfCw1v%2F%2FU%2BHtj0JXsl7vspqcoqnmjZTK63Lrqs7kfqbVwmRTL6yzJODSAKkiblQO%2FNODYzDVq3NzSaC42p7kMJyk%2B5bICd%2FY7Ow34gcazFMPYbbHqI1wClURzqARZYBJJ43hihglsAjyA9iNl2%2F%2FwDc4sF1DPStcpthDtv98oAB",
         "note": "사용자 크롬의 정상 공개 화면에서 다음 버튼을 순서대로 눌러 1~15페이지(1~1500번째 결과)의 서로 다른 모집을 확인했습니다. 원래 통신·인터넷 조건은 162건·2페이지여서 업종 제한을 풀고 기업 규모 201명 이상 조건으로 넓혔습니다. 이 목록에는 다른 직무도 포함됩니다. 보드 등록은 28졸 IT 엔지니어·법인 300명 이상으로 별도 확인합니다. 각 페이지의 IT·시스템·소프트웨어·인프라 등 후보 링크를 넓게 선별했으며, 상세 직무·졸업연도·인원 검증이 남은 링크는 pending입니다. CTC 테크놀로지 90분 체험과 City-Com 12/7 설명회·12/11 도쿄 체험·12/18 오사카 체험 4건의 상세 확인을 마쳤습니다. 다음 목록은 16페이지이며 아직 전체 검토 완료가 아닙니다. 자동 브라우저는 계속 503이지만 사용자 크롬에서는 정상 열람됩니다."
+      },
+      {
+        "id": "employee100-supplement-20261120",
+        "label": "100명 이상 기준 확대·기업별 28졸 IT 공고 보완 검색",
+        "startUrl": "https://job.rikunabi.com/company_jobs/725399444/?mode=intern",
+        "status": "partial",
+        "checkedOn": "2026-11-20",
+        "pages": [],
+        "pending": [
+          "https://job.rikunabi.com/job_descriptions/82f11555ad75032b/"
+        ],
+        "nextUrl": "",
+        "note": "일본 알고리즘 공개 기업 모집 목록 및 상세 2건을 확인. 온라인 Python 체험 상세는 조회 실패하여 대기. 기존 201명 이상 목록의 열람 기록을 100명 이상 완료로 간주하지 않음."
       }
     ],
     "onecareer": [
@@ -7444,6 +7699,17 @@ window.dailyScan = {
         "pending": [],
         "nextUrl": "",
         "note": "SmartHR와 라쿠텐 그룹의 28졸 모집을 확인했습니다. 소니네트워크커뮤니케이션즈의 28졸 엔지니어 코스는 확인했으나 공식 단독 사원 수 검증이 남아 pending에 보존합니다. 기업명 도메인 보완 검색은 목록 순회 페이지 수에 합산하지 않습니다. 2026-11-19 사용자 요청으로 근거가 있는 근사 인원·채용 사이트 인원 사용을 허용했습니다. 소니네트워크커뮤니케이션즈 약 800명과 히타치사회정보서비스 약 2,820명으로 보류를 해제하고 28졸 SE 모집을 등록했습니다."
+      },
+      {
+        "id": "employee100-supplement-20261120",
+        "label": "100명 이상 기준 확대·기업별 28졸 IT 공고 보완 검색",
+        "startUrl": "https://www.onecareer.jp/companies/50247",
+        "status": "partial",
+        "checkedOn": "2026-11-20",
+        "pages": [],
+        "pending": [],
+        "nextUrl": "",
+        "note": "100~299명 후보를 찾는 기업·28졸 엔지니어 보완 검색만 수행. NHN 테코라스에서 발견된 행사 상세는 과거 모집 종료로 신규 등록하지 않음. 기존 300명 이상 목록을 보존하고 다음 순회는 100명 이상 기업을 포함한 새 공개 필터 위치부터 확인해야 함."
       }
     ],
     "gaishi": [
@@ -7539,6 +7805,17 @@ window.dailyScan = {
         "pending": [],
         "nextUrl": "",
         "note": "11월 19일 공개 추천 목록이 본문 없이 표시되어 결과 페이지를 추가하지 않았습니다. 검색 결과의 추천 목록에는 엔지니어 공고가 보이지만 전체 공개 목록 재확인이 필요합니다."
+      },
+      {
+        "id": "employee100-supplement-20261120",
+        "label": "100명 이상 기준 확대·기업별 28졸 IT 공고 보완 검색",
+        "startUrl": "https://gaishishukatsu.com/",
+        "status": "partial",
+        "checkedOn": "2026-11-20",
+        "pages": [],
+        "pending": [],
+        "nextUrl": "",
+        "note": "28졸 엔지니어·미라티브 등 기업별 도메인 보완 검색에서 이번에 조건 확인을 마친 추가 공고 없음. 공개 모집 목록 페이지를 새로 순회하지 않음."
       }
     ],
     "official": [
@@ -7669,6 +7946,20 @@ window.dailyScan = {
         ],
         "nextUrl": "",
         "note": "기업별 공개 신입·선고 페이지를 보완 확인했습니다. 등록된 공고의 대상·직무·사원 수를 확인했고, 예약 일정이 마이페이지에서만 공개되는 경우 공고 요약에 표시했습니다. pending은 28졸 선고 접수 상태·채용 법인 또는 단독 사원 수 확인이 남은 공식 안내입니다. 전체 사이트 순회 완료를 뜻하지 않습니다. 소니네트워크커뮤니케이션즈는 공식 프로필 접근 제한, 히타치사회정보서비스는 그룹 합산 인원만 확인되어 보류했습니다. 2026-11-19 사용자 요청으로 근거가 있는 근사 인원·채용 사이트 인원 사용을 허용했습니다. 소니네트워크커뮤니케이션즈 약 800명과 히타치사회정보서비스 약 2,820명으로 보류를 해제하고 28졸 SE 모집을 등록했습니다."
+      },
+      {
+        "id": "employee100-supplement-20261120",
+        "label": "100명 이상 기준 확대·기업별 28졸 IT 공고 보완 검색",
+        "startUrl": "https://hatena.co.jp/recruit/fresh",
+        "status": "partial",
+        "checkedOn": "2026-11-20",
+        "pages": [],
+        "pending": [
+          "https://careers.classmethod-operations.jp/requirements/",
+          "https://fusic.co.jp/recruit/positions"
+        ],
+        "nextUrl": "",
+        "note": "하테나 28졸 3직무, 클래스메소드 오퍼레이션즈 12/9 설명회, 미라티브 공식 ATS 2건 추가. 하테나 연결 ATS 본문은 추출되지 않아 공개 공식 직무 소개와 2028졸 현재 모집 링크에서 확인; 근무지는 미정으로 기록. 클래스메소드 28졸 채용은 12월 선고 시작 안내여서 현재 접수 여부 재확인 대기. Fusic은 28졸 대상 확인 대기. Skyarch는 법인 종료 정황으로 보류. 보완 검색이므로 목록 열람 페이지 0."
       }
     ]
   }
