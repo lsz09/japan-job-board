@@ -1,10 +1,11 @@
 window.dailyScan = {
-  "checkedAt": "2026-11-19T01:15:22.865Z",
+  "checkedAt": "2026-11-19T01:50:35.473Z",
   "sources": {
     "mynavi": "partial",
     "rikunabi": "unavailable",
     "onecareer": "partial",
-    "gaishi": "partial"
+    "gaishi": "partial",
+    "official": "partial"
   },
   "jobs": [
     {
@@ -3045,6 +3046,469 @@ window.dailyScan = {
       "verifiedOn": "2026-11-19",
       "audience": "2028년 3월까지 대학·대학원·고등전문학교·전문학교·단기대학을 졸업했거나 졸업 예정인 사람. 유학생·기졸업자·제2신졸도 지원 가능합니다.",
       "summary": "웹·서비스 개발, 테크니컬 디렉터, 데이터·AI 엔지니어의 업무와 성장 경로를 소개합니다. 회사 설명 약 45분과 질의응답 약 15분으로 구성되며 조기선고로 이어집니다. 사원 수는 공식 IR에 구분된 2025년 3월 말 법인 단독 2,967명 기준입니다. 공식 행사 안내: https://recruit.members.co.jp/event/eng-seminar28/"
+    },
+    {
+      "id": "official-cybozu-cloudplatform-engineer2028",
+      "company": "사이보우즈",
+      "title": "28졸 클라우드 기반 엔지니어 본선고",
+      "type": "main",
+      "source": "official",
+      "date": "",
+      "time": "",
+      "url": "https://cybozu.co.jp/recruit/entry/newgrad/cloudplatform-engineer2028.html",
+      "employeeCount": 1080,
+      "companySizeUrl": "https://cybozu.co.jp/company/outline/",
+      "regions": [
+        "kanto",
+        "chubu",
+        "kinki",
+        "chugoku",
+        "shikoku",
+        "kyushu",
+        "online"
+      ],
+      "location": "도쿄·나고야·오사카·히로시마·마쓰야마·후쿠오카 또는 일본 국내 자택(팀별 협의)",
+      "verifiedOn": "2026-11-19",
+      "audience": "2028년 4월 입사가 가능하고 입사 시 취업 경력이 1년 미만인 지원자. UNIX 명령어 기초·프로그래밍 경험·Git/GitHub 사용 경험이 필요합니다.",
+      "summary": "cybozu.com 클라우드 기반의 SRE, 데이터스토어, 네트워크·데이터센터 분야를 담당합니다. 연중 접수하며 공개된 신청 마감일은 없습니다.",
+      "employeeCountAsOf": "2025-12"
+    },
+    {
+      "id": "official-cybozu-product-engineer2028",
+      "company": "사이보우즈",
+      "title": "28졸 프로덕트 엔지니어 본선고",
+      "type": "main",
+      "source": "official",
+      "date": "",
+      "time": "",
+      "url": "https://cybozu.co.jp/recruit/entry/newgrad/product-engineer2028.html",
+      "employeeCount": 1080,
+      "companySizeUrl": "https://cybozu.co.jp/company/outline/",
+      "regions": [
+        "kanto",
+        "chubu",
+        "kinki",
+        "chugoku",
+        "shikoku",
+        "kyushu",
+        "online"
+      ],
+      "location": "도쿄·나고야·오사카·히로시마·마쓰야마·후쿠오카 또는 일본 국내 자택(팀별 협의)",
+      "verifiedOn": "2026-11-19",
+      "audience": "2028년 4월 입사가 가능하고 입사 시 취업 경력이 1년 미만인 지원자. 자발적인 프로그래밍 경험과 알고리즘·자료구조·네트워크·보안 등 기초 CS 지식이 필요합니다.",
+      "summary": "클라우드 제품의 프런트엔드·플랫폼·생성형 AI 등 개발 분야를 상담 후 정합니다. 연중 접수하며 세부 배속은 전형 중 협의합니다.",
+      "employeeCountAsOf": "2025-12"
+    },
+    {
+      "id": "official-cybozu-qa-engineer2028",
+      "company": "사이보우즈",
+      "title": "28졸 QA 엔지니어 본선고",
+      "type": "main",
+      "source": "official",
+      "date": "",
+      "time": "",
+      "url": "https://cybozu.co.jp/recruit/entry/newgrad/qa-engineer2028.html",
+      "employeeCount": 1080,
+      "companySizeUrl": "https://cybozu.co.jp/company/outline/",
+      "regions": [
+        "kanto",
+        "chubu",
+        "kinki",
+        "chugoku",
+        "shikoku",
+        "kyushu",
+        "online"
+      ],
+      "location": "도쿄·나고야·오사카·히로시마·마쓰야마·후쿠오카 또는 일본 국내 자택(팀별 협의)",
+      "verifiedOn": "2026-11-19",
+      "audience": "2028년 4월 입사가 가능하고 입사 시 취업 경력이 1년 미만인 QA 엔지니어 지원자. 학습 의지와 협업·의사소통을 중시합니다.",
+      "summary": "제품 테스트의 분석·설계·실행, 자동화와 CI/CD, 개발 과정의 품질 개선을 담당합니다. QA 배속이 확정된 모집이며 다른 직무와 동시 지원할 수 없습니다. 연중 접수합니다.",
+      "employeeCountAsOf": "2025-12"
+    },
+    {
+      "id": "official-cybozu-ios-engineer2028",
+      "company": "사이보우즈",
+      "title": "28졸 iOS 엔지니어 본선고",
+      "type": "main",
+      "source": "official",
+      "date": "",
+      "time": "",
+      "url": "https://cybozu.co.jp/recruit/entry/newgrad/ios-engineer2028.html",
+      "employeeCount": 1080,
+      "companySizeUrl": "https://cybozu.co.jp/company/outline/",
+      "regions": [
+        "kanto",
+        "chubu",
+        "kinki",
+        "chugoku",
+        "shikoku",
+        "kyushu",
+        "online"
+      ],
+      "location": "도쿄·나고야·오사카·히로시마·마쓰야마·후쿠오카 또는 일본 국내 자택(팀별 협의)",
+      "verifiedOn": "2026-11-19",
+      "audience": "2028년 4월 입사가 가능하고 입사 시 취업 경력이 1년 미만인 지원자. 소프트웨어 개발 1년 이상, Swift iOS 네이티브 앱 개발 6개월 이상, 기초 Git 경험이 필수입니다.",
+      "summary": "SwiftUI·Swift Concurrency를 활용해 iOS 네이티브 앱을 개발합니다. 연중 접수하며 다른 엔지니어 직무와 동시 지원이 가능합니다.",
+      "employeeCountAsOf": "2025-12"
+    },
+    {
+      "id": "official-mixi-14426-2028",
+      "company": "MIXI",
+      "title": "28졸 소프트웨어 엔지니어 본선고",
+      "type": "main",
+      "source": "official",
+      "date": "",
+      "time": "",
+      "url": "https://mixigroup-recruit.mixi.co.jp/recruitment-category/new-graduate/14426/",
+      "employeeCount": 1442,
+      "companySizeUrl": "https://mixi.co.jp/sustainability/nonfinancialdata/data/",
+      "regions": [
+        "kanto"
+      ],
+      "location": "도쿄 시부야 본사(재택근무는 사내 규정에 따름)",
+      "verifiedOn": "2026-11-19",
+      "audience": "2027년 10월 또는 2028년 4월 입사 가능자. 소프트웨어 개발 경험, 일본어 의사소통, AI를 활용한 학습·구현 및 자신의 작업을 설명할 수 있는 역량이 필요합니다.",
+      "summary": "웹·모바일·게임 개발, 인프라/SRE, 데이터·머신러닝 등 엔지니어를 모집합니다. 학력을 제한하지 않으며 마감일은 공개되지 않았습니다.",
+      "employeeCountAsOf": "2026-03"
+    },
+    {
+      "id": "official-cyberagent-engineer2028",
+      "company": "사이버에이전트",
+      "title": "28졸 엔지니어 본선고",
+      "type": "main",
+      "source": "official",
+      "date": "",
+      "time": "",
+      "url": "https://www.cyberagent.co.jp/careers/special/students/tech/index.html",
+      "employeeCount": 2588,
+      "companySizeUrl": "https://www.cyberagent.co.jp/sustainability/ca_data/",
+      "regions": [
+        "kanto"
+      ],
+      "location": "도쿄 시부야",
+      "verifiedOn": "2026-11-19",
+      "audience": "2028년 신입 엔지니어 지원자. 소프트웨어·인프라는 관련 개발, 3일 이상 개발 인턴, 자사 인턴 또는 팀 개발 등 공고의 경험 조건 중 하나를 충족해야 합니다.",
+      "summary": "소프트웨어·인프라·게임·AI/데이터 분야를 연중 모집합니다. AI/데이터 직무는 연구·개발 경험 등 별도 자격을 확인해야 합니다. 공개된 신청 마감일은 없습니다.",
+      "employeeCountAsOf": "2025-09"
+    },
+    {
+      "id": "onecareer-smarthr-course839-2028",
+      "company": "SmartHR",
+      "title": "28졸 엔지니어 본선고",
+      "type": "main",
+      "source": "onecareer",
+      "date": "",
+      "time": "",
+      "url": "https://www.onecareer.jp/companies/89636/recruitment_courses/839",
+      "employeeCount": 1400,
+      "companySizeUrl": "https://smarthr.co.jp/news/info/l6cvaw9wppl/",
+      "regions": [
+        "kanto",
+        "online"
+      ],
+      "location": "도쿄 롯폰기 본사 / 풀리모트 가능",
+      "verifiedOn": "2026-11-19",
+      "audience": "28졸 학생, 학력 불문. 원문의 지원 자격은 '2028년 4월 졸업 예정'으로 표기돼 있어 본인의 졸업 시기는 지원 전에 확인해야 합니다.",
+      "summary": "클라우드 SaaS 프로덕트 개발, QA, ML/LLM 엔지니어를 모집합니다. 도쿄 본사 또는 풀리모트 근무가 가능합니다. 공개된 마감일은 없습니다.",
+      "employeeCountAsOf": "2025-05"
+    },
+    {
+      "id": "official-pepabo-129287-2028",
+      "company": "GMO 페파보",
+      "title": "28졸 엔지니어 본선고",
+      "type": "main",
+      "source": "official",
+      "date": "",
+      "time": "",
+      "url": "https://recruit.pepabo.com/graduate/",
+      "employeeCount": 363,
+      "companySizeUrl": "https://pdf.pepabo.com/presentation/20251112p-yaex9lieho0es5ujioneiziezohgh1si.pdf",
+      "regions": [
+        "kanto",
+        "kyushu"
+      ],
+      "location": "도쿄 / 후쿠오카",
+      "verifiedOn": "2026-11-19",
+      "audience": "2028년 4월 입사 가능자, 학력·전공 불문이며 기졸자도 지원 가능합니다. 웹 애플리케이션 개발 경험과 IT 기술에 대한 지속적인 학습·활동이 필요합니다.",
+      "summary": "자사 웹 서비스 개발·운영을 담당하며 입사 시 도쿄·후쿠오카 중 근무지를 선택합니다. 원문의 신입 채용 페이지에서 해당 직무를 선택합니다. 신청 마감일은 공개되지 않았습니다.",
+      "detailUrl": "https://open.talentio.com/r/1/c/pepabo/pages/129287",
+      "employeeCountAsOf": "2025-09"
+    },
+    {
+      "id": "official-pepabo-129286-2028",
+      "company": "GMO 페파보",
+      "title": "28졸 보안 엔지니어 Expert 본선고",
+      "type": "main",
+      "source": "official",
+      "date": "",
+      "time": "",
+      "url": "https://recruit.pepabo.com/graduate/",
+      "employeeCount": 363,
+      "companySizeUrl": "https://pdf.pepabo.com/presentation/20251112p-yaex9lieho0es5ujioneiziezohgh1si.pdf",
+      "regions": [
+        "kanto"
+      ],
+      "location": "도쿄",
+      "verifiedOn": "2026-11-19",
+      "audience": "2028년 4월 입사 가능자, 학력·전공 불문이며 기졸자도 지원 가능합니다. 웹 애플리케이션 개발 및 보안 분야 활동 경험이 필수입니다. CTF·보안 캠프 경험은 우대 사항입니다.",
+      "summary": "자사 서비스의 취약점 분석, 위협 모델링, 보안 검토와 사고 대응, CSPM·SAST·CI/CD 자동화 등을 담당합니다. 원문의 신입 채용 페이지에서 해당 직무를 선택합니다. 신청 마감일은 공개되지 않았습니다.",
+      "detailUrl": "https://open.talentio.com/r/1/c/pepabo/pages/129286",
+      "employeeCountAsOf": "2025-09"
+    },
+    {
+      "id": "official-pepabo-129290-2028",
+      "company": "GMO 페파보",
+      "title": "28졸 가고시마 엔지니어 본선고",
+      "type": "main",
+      "source": "official",
+      "date": "",
+      "time": "",
+      "url": "https://recruit.pepabo.com/graduate/",
+      "employeeCount": 363,
+      "companySizeUrl": "https://pdf.pepabo.com/presentation/20251112p-yaex9lieho0es5ujioneiziezohgh1si.pdf",
+      "regions": [
+        "kyushu"
+      ],
+      "location": "가고시마시 가미아라타",
+      "verifiedOn": "2026-11-19",
+      "audience": "2028년 4월 입사 가능자, 학력·전공 불문이며 기졸자도 지원 가능합니다. 언어를 불문한 프로그래밍 경험이 필요합니다.",
+      "summary": "가고시마 거점에서 GMO 즉답 AI 등 신규 자사 서비스의 개발·운영을 담당합니다. 원문의 신입 채용 페이지에서 해당 직무를 선택합니다. 신청 마감일은 공개되지 않았습니다.",
+      "detailUrl": "https://open.talentio.com/r/1/c/pepabo/pages/129290",
+      "employeeCountAsOf": "2025-09"
+    },
+    {
+      "id": "official-zozo-2296894206940880896-2028",
+      "company": "ZOZO",
+      "title": "28졸 개발부문 엔지니어·데이터사이언티스트 본선고",
+      "type": "main",
+      "source": "official",
+      "date": "2026-11-30",
+      "time": "23:59",
+      "url": "https://corp.zozo.com/recruit/engineer-newgraduate/",
+      "employeeCount": 1664,
+      "companySizeUrl": "https://corp.zozo.com/ir-info/files/pdf/6f28a082f124ec971ee3465f23c66321db1d3a9d.pdf",
+      "regions": [
+        "kanto",
+        "online"
+      ],
+      "location": "니시치바 오피스 또는 일본 국내 자택",
+      "verifiedOn": "2026-11-19",
+      "audience": "2027년 4월~2028년 3월 졸업·수료 예정자로 일본어 의사소통이 가능한 지원자. 엔지니어는 수업·연구 외 개발 경험, 데이터사이언티스트는 통계 지식과 SQL 등을 활용한 분석 경험을 요구합니다.",
+      "summary": "28졸 개발부문을 모집합니다. 공식 페이지의 2028년도 개발부문 링크로 지원하며 웹 테스트까지 완료해야 접수가 끝납니다. 면접은 온라인 예정이고 근무는 니시치바 또는 일본 국내 자택입니다.",
+      "detailUrl": "https://public.n-ats.hrmos.co/zozo/jobs/2296894206940880896",
+      "employeeCountAsOf": "2025-03"
+    },
+    {
+      "id": "official-jbs-senko-briefing2028",
+      "company": "일본비즈니스시스템즈(JBS)",
+      "title": "28졸 엔지니어 선고 연계 온라인 회사설명회",
+      "type": "briefing",
+      "source": "official",
+      "date": "",
+      "time": "",
+      "url": "https://recruit.jbs.co.jp/newgraduate/event/senko/",
+      "employeeCount": 2839,
+      "companySizeUrl": "https://recruit.jbs.co.jp/data/",
+      "regions": [
+        "online"
+      ],
+      "location": "온라인(라이브 / 녹화)",
+      "verifiedOn": "2026-11-19",
+      "audience": "2025년 3월~2028년 3월 대학·대학원·고전·전문학교 졸업(예정)자 또는 취업 경력 3년 미만인 지원자. 전공 불문이며 외국인은 업무상 일본어 의사소통이 필요합니다.",
+      "summary": "2026년 10월 29일부터 신청을 받는 선고 연계 회사설명회입니다. 라이브 또는 녹화 방식으로 회사와 IT 엔지니어 직무를 알아보고 이후 전형 안내를 받습니다. 개별 일정은 마이페이지에서 확인합니다.",
+      "employeeCountAsOf": "2025-09"
+    },
+    {
+      "id": "official-whi-tech2028",
+      "company": "Works Human Intelligence",
+      "title": "28졸 엔지니어 본선고 — AWS·SRE·제품 개발",
+      "type": "main",
+      "source": "official",
+      "date": "",
+      "time": "",
+      "url": "https://www.career.works-hi.co.jp/job/tech/",
+      "employeeCount": 1923,
+      "companySizeUrl": "https://www.career.works-hi.co.jp/corporate/overview/",
+      "regions": [
+        "kanto",
+        "chubu",
+        "kinki",
+        "chugoku",
+        "kyushu"
+      ],
+      "location": "도쿄 본사 / 오사카·나고야·히로시마·후쿠오카 배속 가능",
+      "verifiedOn": "2026-11-19",
+      "audience": "28졸 엔지니어 지원자. 공개 모집 페이지에는 세부 필수 개발 경험 조건을 별도로 명시하지 않았습니다.",
+      "summary": "제품 설계·개발, QA/QE·보안, SET·CI/CD, AWS 클라우드 기반 SRE 등 엔지니어 직무를 모집합니다. 도쿄 본사를 중심으로 근무하며 타 거점 배속 가능성이 있습니다. 마감일은 공개되지 않았습니다.",
+      "employeeCountAsOf": "2025-12"
+    },
+    {
+      "id": "official-nttdata-force-se2028",
+      "company": "NTT 데이터 포스",
+      "title": "28졸 시스템 엔지니어 신입 모집·선고",
+      "type": "main",
+      "source": "official",
+      "date": "",
+      "time": "",
+      "url": "https://www.nttdata-force.co.jp/recruit/new-graduate/info/",
+      "employeeCount": 731,
+      "companySizeUrl": "https://www.nttdata-force.co.jp/company/data.html",
+      "regions": [
+        "kanto",
+        "hokkaido",
+        "tohoku"
+      ],
+      "location": "신요코하마·도쿄 중심 / 삿포로·센다이",
+      "verifiedOn": "2026-11-19",
+      "audience": "2028년 3월 고전·대학·대학원 졸업·수료 예정자. 전공 불문, 2028년 4월 입사 대상입니다.",
+      "summary": "시스템 엔지니어를 모집합니다. 공식 모집요강에서 28졸 지원 경로와 설명회·적성검사·면접 절차를 안내합니다. 구체적인 전형 일정과 신청 마감은 공개되지 않았습니다.",
+      "employeeCountAsOf": "2026-04"
+    },
+    {
+      "id": "official-nttd-fr-early-se2028",
+      "company": "NTT 데이터 프런티어",
+      "title": "28졸 시스템 엔지니어 조기선고 안내",
+      "type": "early",
+      "source": "official",
+      "date": "",
+      "time": "",
+      "url": "https://www.nttd-fr.com/recruit/information/guidance_new-graduate.html",
+      "employeeCount": 902,
+      "companySizeUrl": "https://www.nttd-fr.com/company/map.html",
+      "regions": [
+        "kanto"
+      ],
+      "location": "도쿄 시나가와·도요스·다카나와 게이트웨이 및 도쿄 23구",
+      "verifiedOn": "2026-11-19",
+      "audience": "2026년 4월~2028년 3월 고전·대학·대학원 졸업·수료(예정)자 또는 2026년 4월 이후 고전·대학 졸업 후 전문학교에 재학 중인 지원자. 전공 불문입니다.",
+      "summary": "공식 28졸 모집요강에서 조기선고는 10월부터 시작 예정이라고 안내하며 현재 엔트리를 요청합니다. 설명회→웹 테스트·이력서→면접 순서이고 세부 예약·접수 가능 일정은 마이페이지에서 확인해야 합니다.",
+      "employeeCountAsOf": "2026-04"
+    },
+    {
+      "id": "official-cresco-se2028",
+      "company": "크레스코",
+      "title": "28졸 시스템 엔지니어 신입 모집·선고",
+      "type": "main",
+      "source": "official",
+      "date": "",
+      "time": "",
+      "url": "https://recruit.cresco.co.jp/ja/info/details.html",
+      "employeeCount": 1678,
+      "companySizeUrl": "https://www.cresco.co.jp/ja/corpinfo/outline.html",
+      "regions": [
+        "kanto",
+        "chubu",
+        "kinki",
+        "hokkaido",
+        "kyushu"
+      ],
+      "location": "수도권·니가타/나가오카·나고야·오사카·삿포로·후쿠오카",
+      "verifiedOn": "2026-11-19",
+      "audience": "28졸 시스템 엔지니어 지원자, 문리 불문. IT 학습 의지와 전문성을 키우려는 지원자를 모집합니다.",
+      "summary": "공식 28졸 SE 모집요강과 엔트리 경로가 공개되어 있습니다. 약 120명 채용 예정이며 세부 전형 일정과 신청 마감일은 공개되지 않았습니다.",
+      "employeeCountAsOf": "2026-04"
+    },
+    {
+      "id": "official-cij-se-national2028",
+      "company": "CIJ",
+      "title": "28졸 시스템 엔지니어 본선고 — 전국형 사원",
+      "type": "main",
+      "source": "official",
+      "date": "",
+      "time": "",
+      "url": "https://recruit.cij.co.jp/newgrads/information/recruitment/",
+      "employeeCount": 819,
+      "companySizeUrl": "https://recruit.cij.co.jp/newgrads/about/",
+      "regions": [
+        "kanto"
+      ],
+      "location": "입사 첫해 도쿄·가나가와 / 이후 전국 배속 가능",
+      "verifiedOn": "2026-11-19",
+      "audience": "2028년 3월 대학·대학원·고전·전문학교·단기대 졸업 예정자 또는 졸업 후 3년 이내인 2028년 4월 입사 가능자. 비흡연자 조건이 있습니다.",
+      "summary": "2026년 11월 4일 28졸 선고 접수 개시를 공지했습니다. 시스템 엔지니어 전국형 사원을 모집하며 입사 첫해 근무지는 도쿄·가나가와입니다. 신청 마감일은 공개되지 않았습니다.",
+      "employeeCountAsOf": "2026-06"
+    },
+    {
+      "id": "onecareer-102891-term2",
+      "company": "라쿠텐 그룹",
+      "title": "28졸 엔지니어 본선고 2차",
+      "type": "main",
+      "source": "onecareer",
+      "date": "2026-11-27",
+      "time": "08:59",
+      "url": "https://www.onecareer.jp/events/selection/102891",
+      "employeeCount": 9989,
+      "companySizeUrl": "https://corp.rakuten.co.jp/about/",
+      "regions": [
+        "kanto",
+        "nationwide"
+      ],
+      "location": "도쿄 본사 및 국내 지사 / 해외 근무 가능",
+      "verifiedOn": "2026-11-19",
+      "audience": "2028년 입사가 가능한 학사·석사·박사 학위 취득 예정자 또는 취득자. 원칙적으로 4월·10월 입사이며 직무별 자격은 별도 확인해야 합니다.",
+      "summary": "소프트웨어·인프라·데이터·AI/ML 등 직무와 소속 조직을 선택하는 본선고입니다. 2차 접수는 2026년 10월 30일 09:00~11월 27일 08:59(JST)입니다. 라쿠텐은행·페이 등 별도 법인 포지션의 조건은 따로 확인해야 합니다.",
+      "employeeCountAsOf": "2025-12"
+    },
+    {
+      "id": "official-nttd-wave-se2028",
+      "company": "NTT 데이터 웨이브",
+      "title": "28졸 시스템 엔지니어 모집요강·선고 안내",
+      "type": "main",
+      "source": "official",
+      "date": "",
+      "time": "",
+      "url": "https://www.nttd-wave.com/adoptions/recruit/new_graduate/",
+      "employeeCount": 507,
+      "companySizeUrl": "https://www.nttd-wave.com/profiles/company.html",
+      "regions": [
+        "kanto"
+      ],
+      "location": "도쿄 시부야 본사",
+      "verifiedOn": "2026-11-19",
+      "audience": "고전·대학·대학원 졸업 예정자, 전공 불문. 공식 페이지의 2028년도 마이페이지로 지원합니다.",
+      "summary": "앱·인프라 시스템 엔지니어 30~40명 채용 예정입니다. 엔트리→회사 소개 영상→적성검사·면접 절차를 안내합니다. 모집요강과 28졸 지원 경로가 공개되어 있으며 개별 전형 일정은 마이페이지에서 확인해야 합니다.",
+      "employeeCountAsOf": "2026-04"
+    },
+    {
+      "id": "official-cec-se2028",
+      "company": "CEC",
+      "title": "28졸 시스템 엔지니어 모집요강·선고 안내",
+      "type": "main",
+      "source": "official",
+      "date": "",
+      "time": "",
+      "url": "https://recruit.cec-ltd.co.jp/recruit/requirements.html",
+      "employeeCount": 1659,
+      "companySizeUrl": "https://www.cec-ltd.co.jp/ir/2026/03/guide_20260312.pdf",
+      "regions": [
+        "nationwide"
+      ],
+      "location": "수도권 및 일본 내 사업장",
+      "verifiedOn": "2026-11-19",
+      "audience": "2028년 3월 대학·대학원·고전 졸업·수료 예정자, 전공 불문. 종합직 중 시스템 엔지니어 지원 대상입니다.",
+      "summary": "공식 28졸 SE 모집요강에서 엔트리→회사설명회→적성검사·면접 절차를 안내합니다. 선고 예약 일정과 신청 마감일은 공개되지 않았으며 마이나비 또는 공식 지원 경로에서 개별 안내를 확인해야 합니다.",
+      "employeeCountAsOf": "2026-01"
+    },
+    {
+      "id": "official-focus-early-briefing2028",
+      "company": "포커스시스템즈",
+      "title": "28졸 조기선고 한정 회사설명회 — 도쿄 채용",
+      "type": "briefing",
+      "source": "official",
+      "date": "",
+      "time": "",
+      "url": "https://www.focus-s.com/recruit/graduates/information/requirement",
+      "employeeCount": 1525,
+      "companySizeUrl": "https://www.focus-s.com/pamphlet-202607.pdf",
+      "regions": [
+        "unknown"
+      ],
+      "location": "설명회 장소 비공개 / 채용 근무지는 도쿄 근교",
+      "verifiedOn": "2026-11-19",
+      "audience": "2028년 졸업 예정자 중 1day 직무체험 또는 준비 영상을 이미 이수한 지원자만 예약할 수 있습니다. SE 채용의 학력 요건은 2년제 전문학교·단기대 이상입니다.",
+      "summary": "공식 지원 사이트 공개 공지에서 조기선고 연계 설명회 운영을 확인했습니다. 도쿄 채용은 모집 중이고 오사카·나고야 신규 설명회 예약은 일시 중지입니다. 설명회 개최 장소·개별 일정은 공개되지 않아 마이페이지 확인이 필요합니다.",
+      "employeeCountAsOf": "2026-04",
+      "detailUrl": "https://ats-entry.hito-link.jp/sites/focus-recruit/login"
     }
   ],
   "companies": {
@@ -3398,6 +3862,103 @@ window.dailyScan = {
       "address": "東京都中央区晴海1丁目8番10号 晴海アイランド トリトンスクエアオフィスタワーX 37階",
       "business": "디지털 전문 인력이 고객 현장에 참여해 제품·시스템 개발, 데이터 활용과 마케팅 등 DX 업무를 지원합니다.",
       "url": "https://www.members.co.jp/company/profile"
+    },
+    "사이보우즈": {
+      "industry": "it",
+      "address": "東京都中央区日本橋2-7-1 東京日本橋タワー27階",
+      "business": "kintone·Garoon·Cybozu Office 등 기업용 그룹웨어와 클라우드 서비스를 개발·운영합니다.",
+      "url": "https://cybozu.co.jp/company/outline/"
+    },
+    "MIXI": {
+      "industry": "it",
+      "address": "東京都渋谷区渋谷2-24-12 渋谷スクランブルスクエア36F",
+      "business": "스포츠·라이프스타일·디지털 엔터테인먼트 사업을 운영하며 몬스터 스트라이크, 가족사진 서비스 미테네, mixi2 등을 제공합니다.",
+      "url": "https://mixi.co.jp/company/profile/"
+    },
+    "사이버에이전트": {
+      "industry": "it",
+      "address": "東京都渋谷区宇田川町40番1号 Abema Towers",
+      "business": "인터넷 광고, ABEMA 등 미디어 서비스와 게임을 개발·운영합니다.",
+      "url": "https://www.cyberagent.co.jp/corporate/overview/"
+    },
+    "SmartHR": {
+      "industry": "it",
+      "address": "東京都港区六本木3-2-1 住友不動産六本木グランドタワー",
+      "business": "클라우드 인사·노무 소프트웨어 SmartHR을 기획·개발·운영·판매합니다. 공식 발표의 2025년 5월 직원 1,400명 돌파 기준을 사용했습니다.",
+      "url": "https://smarthr.co.jp/news/info/l6cvaw9wppl/",
+      "sizeApproximate": true
+    },
+    "GMO 페파보": {
+      "industry": "it",
+      "address": "東京都渋谷区桜丘町26-1 セルリアンタワー",
+      "business": "렌털 서버 로리팝, 도메인 무무도메인, 전자상거래 지원 컬러미숍과 창작자 서비스 SUZURI 등을 운영합니다. 사원 수는 2025년 9월 말 법인 단독 공시입니다.",
+      "url": "https://pepabo.com/company/overview/"
+    },
+    "ZOZO": {
+      "industry": "it",
+      "address": "千葉県千葉市稲毛区緑町1-15-16",
+      "business": "패션 전자상거래 ZOZOTOWN과 관련 패션 기술·플랫폼 서비스를 개발·운영합니다. 사원 수는 2025년 3월 말 제출회사 단독 공시입니다.",
+      "url": "https://corp.zozo.com/about/profile/"
+    },
+    "일본비즈니스시스템즈(JBS)": {
+      "industry": "it",
+      "address": "東京都港区虎ノ門2-6-1 虎ノ門ヒルズ ステーションタワー20F",
+      "business": "기업 IT 환경의 도입·구축·운영과 애플리케이션·업무 시스템 서비스를 제공합니다.",
+      "url": "https://www.jbs.co.jp/corp/aboutus"
+    },
+    "Works Human Intelligence": {
+      "industry": "it",
+      "address": "東京都港区虎ノ門2-6-1 虎ノ門ヒルズ ステーションタワー10F",
+      "business": "대기업용 통합 인사 시스템 COMPANY의 개발·판매·지원과 HR 관련 서비스를 제공합니다.",
+      "url": "https://www.career.works-hi.co.jp/corporate/overview/"
+    },
+    "NTT 데이터 포스": {
+      "industry": "it",
+      "address": "神奈川県横浜市港北区新横浜3-7-8 スイテ新横浜13階",
+      "business": "금융기관 시스템의 설계·개발·운영 및 지역은행을 위한 IT 서비스를 제공합니다.",
+      "url": "https://www.nttdata-force.co.jp/company/data.html"
+    },
+    "NTT 데이터 프런티어": {
+      "industry": "it",
+      "address": "東京都港区港南1-9-36 アレア品川ビル25階",
+      "business": "금융 분야를 중심으로 정보 시스템과 소프트웨어의 개발·운영 및 IT 서비스를 제공합니다.",
+      "url": "https://www.nttd-fr.com/company/map.html"
+    },
+    "크레스코": {
+      "industry": "it",
+      "address": "東京都港区港南2-15-1 品川インターシティA棟25～27階",
+      "business": "기업 정보 시스템의 컨설팅·설계·개발·운영·유지보수와 기술 지원 서비스를 제공합니다.",
+      "url": "https://www.cresco.co.jp/ja/corpinfo/outline.html"
+    },
+    "CIJ": {
+      "industry": "it",
+      "address": "神奈川県横浜市西区高島1-2-5 横濱ゲートタワー17階",
+      "business": "금융·통신·제조·관공서 정보 시스템의 개발부터 운영·유지보수까지 제공하는 SI 기업입니다.",
+      "url": "https://recruit.cij.co.jp/newgrads/about/"
+    },
+    "라쿠텐 그룹": {
+      "industry": "it",
+      "address": "東京都世田谷区玉川1-14-1 楽天クリムゾンハウス",
+      "business": "전자상거래, 핀테크, 디지털 콘텐츠와 통신 등 다양한 인터넷 서비스를 운영합니다.",
+      "url": "https://corp.rakuten.co.jp/about/"
+    },
+    "NTT 데이터 웨이브": {
+      "industry": "it",
+      "address": "東京都渋谷区千駄ヶ谷1-14-5 千駄ヶ谷インテス",
+      "business": "기업 업무 애플리케이션과 IT 인프라의 컨설팅·설계·개발·운영을 제공합니다.",
+      "url": "https://www.nttd-wave.com/profiles/company.html"
+    },
+    "CEC": {
+      "industry": "it",
+      "address": "東京都渋谷区恵比寿南1-5-5 JR恵比寿ビル",
+      "business": "기업 업무 시스템 개발·통합, 보안, 데이터센터와 IT 운영 서비스를 제공합니다. 사원 수는 2026년 1월 말 법인 단독 공시입니다.",
+      "url": "https://www.cec-ltd.co.jp/corporate/outline.html"
+    },
+    "포커스시스템즈": {
+      "industry": "it",
+      "address": "東京都品川区東五反田2-7-8 フォーカス五反田ビル",
+      "business": "관공서·금융·통신 등 다양한 산업의 시스템 개발, IT 인프라·보안과 운영·유지보수 서비스를 제공합니다.",
+      "url": "https://www.focus-s.com/recruit/graduates/about"
     }
   },
   "coverage": {
@@ -6306,6 +6867,28 @@ window.dailyScan = {
         ],
         "nextUrl": "",
         "note": "첫 페이지를 재확인하고 9페이지부터 마지막 15페이지까지 순회했습니다. 16~20페이지는 표시되지 않았으며 상세 대기 후보를 이어갑니다. 11월 19일 대기 96260은 10월 종료 회차로 확인해 대기에서 제외했습니다. 92670 원문은 도구 접근 오류로 보존합니다. 보완 검색으로 메ンバーズ 104233의 설명회 3회차를 공식 행사 안내와 함께 확인했습니다."
+      },
+      {
+        "id": "engineer-2028-company-supplement",
+        "label": "기업별 28졸 엔지니어 선고 보완 확인",
+        "startUrl": "https://www.onecareer.jp/companies/89636/recruitment_courses/839",
+        "status": "partial",
+        "checkedOn": "2026-11-19",
+        "pages": [
+          {
+            "url": "https://www.onecareer.jp/companies/89636/recruitment_courses/839",
+            "label": "SmartHR 28졸 정규직·본선고"
+          },
+          {
+            "url": "https://www.onecareer.jp/events/selection/102891",
+            "label": "라쿠텐 그룹 28졸 정규직·본선고"
+          }
+        ],
+        "pending": [
+          "https://www.onecareer.jp/companies/6129/recruitment_courses/1158"
+        ],
+        "nextUrl": "",
+        "note": "SmartHR와 라쿠텐 그룹의 28졸 모집을 확인했습니다. 소니네트워크커뮤니케이션즈의 28졸 엔지니어 코스는 확인했으나 공식 단독 사원 수 검증이 남아 pending에 보존합니다. 기업명 도메인 보완 검색은 목록 순회 페이지 수에 합산하지 않습니다."
       }
     ],
     "gaishi": [
@@ -6401,6 +6984,133 @@ window.dailyScan = {
         "pending": [],
         "nextUrl": "",
         "note": "11월 19일 공개 추천 목록이 본문 없이 표시되어 결과 페이지를 추가하지 않았습니다. 검색 결과의 추천 목록에는 엔지니어 공고가 보이지만 전체 공개 목록 재확인이 필요합니다."
+      }
+    ],
+    "official": [
+      {
+        "id": "engineer-2028-company-recruitment",
+        "label": "기업 공식 28졸 엔지니어 신입·선고 확인",
+        "startUrl": "https://cybozu.co.jp/recruit/entry/newgrad/cloudplatform-engineer2028.html",
+        "status": "partial",
+        "checkedOn": "2026-11-19",
+        "pages": [
+          {
+            "url": "https://cybozu.co.jp/recruit/entry/newgrad/cloudplatform-engineer2028.html",
+            "label": "28졸 엔지니어 신입 모집·선고 상세 확인"
+          },
+          {
+            "url": "https://cybozu.co.jp/recruit/entry/newgrad/product-engineer2028.html",
+            "label": "28졸 엔지니어 신입 모집·선고 상세 확인"
+          },
+          {
+            "url": "https://cybozu.co.jp/recruit/entry/newgrad/qa-engineer2028.html",
+            "label": "28졸 엔지니어 신입 모집·선고 상세 확인"
+          },
+          {
+            "url": "https://cybozu.co.jp/recruit/entry/newgrad/ios-engineer2028.html",
+            "label": "28졸 엔지니어 신입 모집·선고 상세 확인"
+          },
+          {
+            "url": "https://mixigroup-recruit.mixi.co.jp/recruitment-category/new-graduate/14426/",
+            "label": "28졸 엔지니어 신입 모집·선고 상세 확인"
+          },
+          {
+            "url": "https://www.cyberagent.co.jp/careers/special/students/tech/index.html",
+            "label": "28졸 엔지니어 신입 모집·선고 상세 확인"
+          },
+          {
+            "url": "https://recruit.pepabo.com/graduate/",
+            "label": "28졸 엔지니어 신입 모집·선고 상세 확인"
+          },
+          {
+            "url": "https://open.talentio.com/r/1/c/pepabo/pages/129287",
+            "label": "28졸 엔지니어 신입 모집·선고 상세 확인"
+          },
+          {
+            "url": "https://open.talentio.com/r/1/c/pepabo/pages/129286",
+            "label": "28졸 엔지니어 신입 모집·선고 상세 확인"
+          },
+          {
+            "url": "https://open.talentio.com/r/1/c/pepabo/pages/129290",
+            "label": "28졸 엔지니어 신입 모집·선고 상세 확인"
+          },
+          {
+            "url": "https://corp.zozo.com/recruit/engineer-newgraduate/",
+            "label": "28졸 엔지니어 신입 모집·선고 상세 확인"
+          },
+          {
+            "url": "https://public.n-ats.hrmos.co/zozo/jobs/2296894206940880896",
+            "label": "28졸 엔지니어 신입 모집·선고 상세 확인"
+          },
+          {
+            "url": "https://recruit.jbs.co.jp/newgraduate/event/senko/",
+            "label": "28졸 엔지니어 신입 모집·선고 상세 확인"
+          },
+          {
+            "url": "https://www.career.works-hi.co.jp/job/tech/",
+            "label": "28졸 엔지니어 신입 모집·선고 상세 확인"
+          },
+          {
+            "url": "https://www.nttdata-force.co.jp/recruit/new-graduate/info/",
+            "label": "28졸 엔지니어 신입 모집·선고 상세 확인"
+          },
+          {
+            "url": "https://www.nttd-fr.com/recruit/information/guidance_new-graduate.html",
+            "label": "28졸 엔지니어 신입 모집·선고 상세 확인"
+          },
+          {
+            "url": "https://recruit.cresco.co.jp/ja/info/details.html",
+            "label": "28졸 엔지니어 신입 모집·선고 상세 확인"
+          },
+          {
+            "url": "https://recruit.cij.co.jp/newgrads/information/recruitment/",
+            "label": "28졸 엔지니어 신입 모집·선고 상세 확인"
+          },
+          {
+            "url": "https://www.nttd-wave.com/adoptions/recruit/new_graduate/",
+            "label": "28졸 엔지니어 신입 모집·선고 상세 확인"
+          },
+          {
+            "url": "https://recruit.cec-ltd.co.jp/recruit/requirements.html",
+            "label": "28졸 엔지니어 신입 모집·선고 상세 확인"
+          },
+          {
+            "url": "https://www.focus-s.com/recruit/graduates/information/requirement",
+            "label": "28졸 엔지니어 신입 모집·선고 상세 확인"
+          },
+          {
+            "url": "https://ats-entry.hito-link.jp/sites/focus-recruit/login",
+            "label": "28졸 엔지니어 신입 모집·선고 상세 확인"
+          }
+        ],
+        "pending": [
+          "https://www.iij.ad.jp/recruit/newgrad/guidelines.html",
+          "https://andpad.co.jp/recruit/",
+          "https://www.future.co.jp/recruit/recruit/",
+          "https://jsol-recruit.com/",
+          "https://www.netone.co.jp/recruit/newgrad/",
+          "https://www.saison-technology.com/coloris/recruit/w9brl",
+          "https://www.mki.co.jp/recruit/information/newgrads/",
+          "https://www.ttsystems.com/recruitment/new-graduates/recruit/",
+          "https://www.mjit.co.jp/recruit/recruit/requirements_newgradu/",
+          "https://www.ctct.co.jp/recruit/info/newgraduate.html",
+          "https://www.infocom.co.jp/ja/recruit/fresh/info/data.html",
+          "https://www.sei-info.co.jp/recruit/",
+          "https://www.sig-c.co.jp/recruit/new/",
+          "https://www.nttdft.com/recruit/recruitinginfo/",
+          "https://www.nttdata-bizsys.co.jp/recruit/newgraduate/recruit/entry.html",
+          "https://recruit.scskminori.co.jp/newgraduate/",
+          "https://www.hitachi-sis.co.jp/recruit/outline/",
+          "https://www.hitachi-solutions-create.co.jp/recruit/fresh/",
+          "https://www.alpha.co.jp/recruit/entry/line2028/",
+          "https://www.mitsubishielectric.co.jp/medigital/recruit/graduates/",
+          "https://www.biprogy.com/recruit/recruiting/",
+          "https://www.i-note.jp/canon-its/contents/index.html",
+          "https://careers.mercari.com/new-graduates/",
+          "https://recruit.systena.co.jp/2027/"
+        ],
+        "nextUrl": "",
+        "note": "기업별 공개 신입·선고 페이지를 보완 확인했습니다. 등록된 공고의 대상·직무·사원 수를 확인했고, 예약 일정이 마이페이지에서만 공개되는 경우 공고 요약에 표시했습니다. pending은 28졸 선고 접수 상태·채용 법인 또는 단독 사원 수 확인이 남은 공식 안내입니다. 전체 사이트 순회 완료를 뜻하지 않습니다. 소니네트워크커뮤니케이션즈는 공식 프로필 접근 제한, 히타치사회정보서비스는 그룹 합산 인원만 확인되어 보류했습니다."
       }
     ]
   }
