@@ -1,5 +1,5 @@
 window.dailyScan = {
-  "checkedAt": "2026-11-19T01:50:35.473Z",
+  "checkedAt": "2026-11-19T02:00:08.279Z",
   "sources": {
     "mynavi": "partial",
     "rikunabi": "unavailable",
@@ -3509,6 +3509,49 @@ window.dailyScan = {
       "summary": "공식 지원 사이트 공개 공지에서 조기선고 연계 설명회 운영을 확인했습니다. 도쿄 채용은 모집 중이고 오사카·나고야 신규 설명회 예약은 일시 중지입니다. 설명회 개최 장소·개별 일정은 공개되지 않아 마이페이지 확인이 필요합니다.",
       "employeeCountAsOf": "2026-04",
       "detailUrl": "https://ats-entry.hito-link.jp/sites/focus-recruit/login"
+    },
+    {
+      "id": "onecareer-sony-network-course1158-2028",
+      "company": "소니 네트워크 커뮤니케이션즈",
+      "title": "28졸 웹앱·네트워크·클라우드 인프라 엔지니어 본선고",
+      "type": "main",
+      "source": "onecareer",
+      "date": "",
+      "time": "",
+      "url": "https://www.onecareer.jp/companies/6129/recruitment_courses/1158",
+      "employeeCount": 800,
+      "companySizeUrl": "https://www.onecareer.jp/companies/6129/recruitment_courses/1158",
+      "employeeCountAsOf": "2026-03-31",
+      "employeeCountNote": "채용 사이트 공개 법인 단독 802명을 약 800명으로 표시. 공식 프로필 재검증은 미완료.",
+      "regions": [
+        "kanto"
+      ],
+      "location": "도쿄 미나토구 고난 본사 중심 / 국내·해외 사업장 및 재택근무 가능",
+      "verifiedOn": "2026-11-19",
+      "audience": "2028년 3월 31일까지 졸업(예정)인 이공계 지원자. 박사·석사·학사·고도전문사 학위 대상이며 전문사 학위는 지원할 수 없습니다. 학생 아르바이트·인턴을 제외한 취업 경력이 없어야 합니다.",
+      "summary": "NURO 히카리·So-net의 웹 서비스와 네트워크, 자사·법인 서비스의 클라우드 인프라를 개발·운영합니다. AWS·Azure, Linux, Python 자동화 등의 업무가 포함됩니다. 지원 후 ES·적성검사·면접을 거치며 공고에 신청 마감일은 공개되지 않았습니다."
+    },
+    {
+      "id": "official-hitachi-sis-se2028",
+      "company": "히타치 사회정보서비스",
+      "title": "28졸 시스템 엔지니어 본선고 — 직무형·오픈 코스",
+      "type": "main",
+      "source": "official",
+      "date": "",
+      "time": "",
+      "url": "https://www.hitachi-sis.co.jp/recruit/outline/",
+      "employeeCount": 2820,
+      "companySizeUrl": "https://www.hitachi-sis.co.jp/recruit/numbers/",
+      "employeeCountAsOf": "2026-03",
+      "employeeCountNote": "공식 채용 페이지의 법인 단독 약 2,820명. 그룹 전체 3,080명과 구분.",
+      "regions": [
+        "kanto",
+        "kinki"
+      ],
+      "location": "도쿄·가나가와 등 간토 / 오사카 등 간사이. 직무형은 초기 간토 배속 코스 안내.",
+      "verifiedOn": "2026-11-19",
+      "audience": "2028년 3월 말까지 대학·대학원·고전을 졸업·수료할 예정이거나 신입과 같은 방식의 채용을 희망하는 기졸자. 직무형은 이공계·정보 분야 경험자를 대상으로 하고 오픈 코스는 전공 불문입니다.",
+      "summary": "공공·통신·에너지·산업·금융 SI와 IT 인프라 설계·구축, 시스템 운영 및 패키지·솔루션 분야의 SE를 모집합니다. 적성검사·ES와 두 차례 면접을 거칩니다. 직무형·오픈 코스의 배속 방식을 구분하며 공개된 신청 마감일은 없습니다."
     }
   ],
   "companies": {
@@ -3959,6 +4002,20 @@ window.dailyScan = {
       "address": "東京都品川区東五反田2-7-8 フォーカス五反田ビル",
       "business": "관공서·금융·통신 등 다양한 산업의 시스템 개발, IT 인프라·보안과 운영·유지보수 서비스를 제공합니다.",
       "url": "https://www.focus-s.com/recruit/graduates/about"
+    },
+    "소니 네트워크 커뮤니케이션즈": {
+      "industry": "it",
+      "address": "東京都港区港南1-7-1 ソニー本社ビル内",
+      "business": "NURO 히카리·So-net 등 인터넷 통신 서비스와 법인용 IT 솔루션을 제공합니다. 인원은 원커리어에 공개된 2026년 3월 말 법인 단독 802명을 약 800명으로 표시했습니다.",
+      "url": "https://www.sonynetwork.co.jp/corporation/",
+      "sizeApproximate": true
+    },
+    "히타치 사회정보서비스": {
+      "industry": "it",
+      "address": "東京都品川区南大井6-26-3 大森ベルポートD館17階",
+      "business": "공공·통신·금융 등 시스템 통합, 시스템 운영, 패키지·솔루션 서비스를 제공합니다. 공식 채용 페이지의 2026년 3월 기준 법인 단독 약 2,820명을 사용하며 그룹 전체 3,080명과 구분합니다.",
+      "url": "https://www.hitachi-sis.co.jp/company/profile/",
+      "sizeApproximate": true
     }
   },
   "coverage": {
@@ -6882,13 +6939,15 @@ window.dailyScan = {
           {
             "url": "https://www.onecareer.jp/events/selection/102891",
             "label": "라쿠텐 그룹 28졸 정규직·본선고"
+          },
+          {
+            "url": "https://www.onecareer.jp/companies/6129/recruitment_courses/1158",
+            "label": "소니 네트워크 커뮤니케이션즈 28졸 엔지니어 모집 상세 확인"
           }
         ],
-        "pending": [
-          "https://www.onecareer.jp/companies/6129/recruitment_courses/1158"
-        ],
+        "pending": [],
         "nextUrl": "",
-        "note": "SmartHR와 라쿠텐 그룹의 28졸 모집을 확인했습니다. 소니네트워크커뮤니케이션즈의 28졸 엔지니어 코스는 확인했으나 공식 단독 사원 수 검증이 남아 pending에 보존합니다. 기업명 도메인 보완 검색은 목록 순회 페이지 수에 합산하지 않습니다."
+        "note": "SmartHR와 라쿠텐 그룹의 28졸 모집을 확인했습니다. 소니네트워크커뮤니케이션즈의 28졸 엔지니어 코스는 확인했으나 공식 단독 사원 수 검증이 남아 pending에 보존합니다. 기업명 도메인 보완 검색은 목록 순회 페이지 수에 합산하지 않습니다. 2026-11-19 사용자 요청으로 근거가 있는 근사 인원·채용 사이트 인원 사용을 허용했습니다. 소니네트워크커뮤니케이션즈 약 800명과 히타치사회정보서비스 약 2,820명으로 보류를 해제하고 28졸 SE 모집을 등록했습니다."
       }
     ],
     "gaishi": [
@@ -7081,6 +7140,10 @@ window.dailyScan = {
           {
             "url": "https://ats-entry.hito-link.jp/sites/focus-recruit/login",
             "label": "28졸 엔지니어 신입 모집·선고 상세 확인"
+          },
+          {
+            "url": "https://www.hitachi-sis.co.jp/recruit/outline/",
+            "label": "히타치 사회정보서비스 28졸 SE 모집 상세 확인"
           }
         ],
         "pending": [
@@ -7100,7 +7163,6 @@ window.dailyScan = {
           "https://www.nttdft.com/recruit/recruitinginfo/",
           "https://www.nttdata-bizsys.co.jp/recruit/newgraduate/recruit/entry.html",
           "https://recruit.scskminori.co.jp/newgraduate/",
-          "https://www.hitachi-sis.co.jp/recruit/outline/",
           "https://www.hitachi-solutions-create.co.jp/recruit/fresh/",
           "https://www.alpha.co.jp/recruit/entry/line2028/",
           "https://www.mitsubishielectric.co.jp/medigital/recruit/graduates/",
@@ -7110,7 +7172,7 @@ window.dailyScan = {
           "https://recruit.systena.co.jp/2027/"
         ],
         "nextUrl": "",
-        "note": "기업별 공개 신입·선고 페이지를 보완 확인했습니다. 등록된 공고의 대상·직무·사원 수를 확인했고, 예약 일정이 마이페이지에서만 공개되는 경우 공고 요약에 표시했습니다. pending은 28졸 선고 접수 상태·채용 법인 또는 단독 사원 수 확인이 남은 공식 안내입니다. 전체 사이트 순회 완료를 뜻하지 않습니다. 소니네트워크커뮤니케이션즈는 공식 프로필 접근 제한, 히타치사회정보서비스는 그룹 합산 인원만 확인되어 보류했습니다."
+        "note": "기업별 공개 신입·선고 페이지를 보완 확인했습니다. 등록된 공고의 대상·직무·사원 수를 확인했고, 예약 일정이 마이페이지에서만 공개되는 경우 공고 요약에 표시했습니다. pending은 28졸 선고 접수 상태·채용 법인 또는 단독 사원 수 확인이 남은 공식 안내입니다. 전체 사이트 순회 완료를 뜻하지 않습니다. 소니네트워크커뮤니케이션즈는 공식 프로필 접근 제한, 히타치사회정보서비스는 그룹 합산 인원만 확인되어 보류했습니다. 2026-11-19 사용자 요청으로 근거가 있는 근사 인원·채용 사이트 인원 사용을 허용했습니다. 소니네트워크커뮤니케이션즈 약 800명과 히타치사회정보서비스 약 2,820명으로 보류를 해제하고 28졸 SE 모집을 등록했습니다."
       }
     ]
   }
