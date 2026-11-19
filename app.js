@@ -74,13 +74,26 @@ function validBoardJob(job) {
     ? companyDomain && (hostname === companyDomain || hostname.endsWith(`.${companyDomain}`))
     : hostname === domain || hostname === `www.${domain}`;
   return matchesSource &&
-    Number.isInteger(job.employeeCount) && job.employeeCount >= 300 && httpUrl(job.companySizeUrl) &&
+    Number.isInteger(job.employeeCount) && job.employeeCount >= 100 && httpUrl(job.companySizeUrl) &&
     Array.isArray(job.regions) && job.regions.length > 0 && job.regions.every(region => Object.hasOwn(regions, region));
 }
 
 const dailyJobs = (Array.isArray(dailyScan.jobs) ? dailyScan.jobs : []).filter(validBoardJob);
-const cloudJobs = dailyJobs.filter(job =>
-  /클라우드|\b(?:AWS|Azure|GCP|Google Cloud|Salesforce)\b/i.test(`${job.title} ${job.summary ?? ""}`));
+const cloudTerms = /클라우드|クラウド|\b(?:cloud|AWS|Azure|GCP|Google Cloud|Salesforce|IaaS|PaaS|SaaS)\b/i;
+
+function cloudClassification(job, company = dailyScan.companies?.[job.company]) {
+  if (job.cloudRelated === false) return "";
+  if (job.cloudRelated === true) return job.cloudReason || "공고·공식 직무 소개에서 클라우드 관련 업무를 확인했습니다.";
+  const work = [job.title, job.summary, job.audience].filter(Boolean).join(" ");
+  if (cloudTerms.test(work)) return "공고에서 클라우드 기술·업무를 다룹니다.";
+  if (/\bSRE\b|사이트 신뢰성|서비스 신뢰성 엔지니어/i.test(work)) return "SRE·서비스 신뢰성·플랫폼 운영과 관련된 직무입니다.";
+  if (company?.cloudRelated === true || cloudTerms.test(company?.business || "")) {
+    return company?.cloudReason || "클라우드 사업을 하는 기업의 IT 엔지니어 관련 공고입니다.";
+  }
+  return "";
+}
+
+const cloudJobs = dailyJobs.filter(job => Boolean(cloudClassification(job)));
 const currentJobs = new Map(dailyJobs.map(job => [job.id, job]));
 const applicationPrefix = "japan-job-board:applied:";
 const applicationStatus = document.querySelector("#application-status");
@@ -202,7 +215,7 @@ function renderDailyStatus(today) {
   const note = document.querySelector("#board-note");
   const scannedToday = Number.isFinite(date) && dayFormatter.format(date) === today;
   const lastCheck = Number.isFinite(date) ? headingFormatter.format(date) : "아직 검색 기록 없음";
-  note.textContent = `28졸 · IT 엔지니어 · 채용 법인 사원 300명 이상 | 공개 목록 · 최근 확인 ${lastCheck}`;
+  note.textContent = `28졸 · IT 엔지니어 · 채용 법인 사원 100명 이상 | 공개 목록 · 최근 확인 ${lastCheck}`;
   if (Number.isFinite(date) && !scannedToday) note.textContent += " · 오늘 검색 기록 없음";
 
   const statusLabels = { checked: "검색 기록 있음", partial: "일부 확인", unavailable: "확인 어려움" };
@@ -333,6 +346,15 @@ function renderJob(job, closed, { companyLayout = false, showDate = companyLayou
     addDetail(description, job.type === "briefing" ? "참가 대상" : "지원 대상", job.audience);
     const labels = { internship: "체험 내용", briefing: "설명회 내용", early: "채용 직무", main: "채용 직무" };
     addDetail(description, labels[job.type], job.summary);
+    if (view === "cloud") {
+      const reason = cloudClassification(job, company ?? dailyScan.companies?.[job.company]);
+      if (reason) {
+        const classification = element("span", "", reason);
+        const evidence = job.cloudEvidenceUrl || dailyScan.companies?.[job.company]?.cloudEvidenceUrl;
+        if (httpUrl(evidence)) classification.append(" ", externalLink(evidence, "분류 근거 ↗"));
+        addDetail(description, "클라우드 관련", classification);
+      }
+    }
     details.append(description);
   }
   const actions = element("div", "job-actions");
