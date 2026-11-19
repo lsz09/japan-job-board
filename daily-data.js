@@ -1,5 +1,5 @@
 window.dailyScan = {
-  "checkedAt": "2026-11-17T23:59:51.193Z",
+  "checkedAt": "2026-11-19T01:15:22.865Z",
   "sources": {
     "mynavi": "partial",
     "rikunabi": "unavailable",
@@ -325,15 +325,14 @@ window.dailyScan = {
       "date": "2026-12-04",
       "time": "23:59",
       "regions": [
-        "kanto",
-        "online"
+        "kanto"
       ],
       "location": "도쿄 근무",
       "url": "https://www.gaishishukatsu.com/recruiting_info/view/15139",
       "employeeCount": 361,
       "companySizeUrl": "https://supership.jp/about/company",
       "industry": "it",
-      "verifiedOn": "2026-11-09",
+      "verifiedOn": "2026-11-19",
       "audience": "2028년 3월 졸업 예정이며 수업 외에도 개발 경험이 있는 사람.",
       "summary": "AWS·GCP 기반을 설계·구축하고, Terraform 등을 활용해 운영과 배포를 자동화합니다. 전형은 온라인으로 진행할 예정입니다."
     },
@@ -1816,8 +1815,8 @@ window.dailyScan = {
       "location": "도쿄도 미나토구",
       "url": "https://gaishishukatsu.com/recruiting_info/view/15136",
       "audience": "2028년 3월 졸업 예정이며 수업 외 개발 경험이 있는 사람.",
-      "summary": "광고 전송 서버와 검색 엔진, 대규모 로그 처리 및 서비스 신뢰성을 담당할 웹 백엔드 엔지니어를 모집합니다. 온라인 선고이며 신청 후 1주 안에 서류를 제출해야 합니다.",
-      "verifiedOn": "2026-11-09",
+      "summary": "광고 전송 서버, 검색 엔진과 대규모 로그 처리 및 SRE 업무를 담당합니다. 기술 스택 예시에 AWS·GCP가 명시되어 있습니다. 선고는 온라인이며 신청 후 1주 안에 서류를 제출해야 합니다.",
+      "verifiedOn": "2026-11-19",
       "employeeCount": 361,
       "companySizeUrl": "https://supership.jp/about/company"
     },
@@ -2277,7 +2276,7 @@ window.dailyScan = {
       "url": "https://careers.classmethod.jp/requirements/new-graduate2028-engineer/",
       "employeeCount": 621,
       "companySizeUrl": "https://classmethod.jp/company/finance/",
-      "verifiedOn": "2026-11-18",
+      "verifiedOn": "2026-11-19",
       "audience": "2028년 3월 대학·단기대학·전문학교 등 졸업 예정자. 전공 무관이며 프로그래밍 학습·언어 사용 경험과 Git 등 버전 관리 도구의 기본 경험이 필요합니다.",
       "summary": "AWS 등 클라우드 환경의 인프라를 설계·구축·운영하고 웹 앱 개발과 고객 요구사항 정의에도 참여합니다. 공개 채용 페이지에 신청 마감일은 표시되지 않습니다."
     },
@@ -2296,7 +2295,7 @@ window.dailyScan = {
       "url": "https://www.serverworks.co.jp/recruit/guideline-newgraduate/",
       "employeeCount": 367,
       "companySizeUrl": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100Y5TF.pdf",
-      "verifiedOn": "2026-11-18",
+      "verifiedOn": "2026-11-19",
       "audience": "2028년 4월 정규직 입사가 가능하고 단기대학 졸업에 상응하는 학력 이상인 사람. 고등전문학교 본과와 2년제 전문학교를 포함하며 전공 무관입니다.",
       "summary": "AWS 설계·구축·운영 직무를 포함한 신입 채용 온라인 설명회입니다. 공개 페이지에서 11~12월 개최일을 안내하며 신청 마감일은 표시하지 않습니다. 설명회 후 선고에 진입할 수 있습니다."
     },
@@ -2986,6 +2985,66 @@ window.dailyScan = {
       "verifiedOn": "2026-11-18",
       "audience": "2027년 4월부터 2028년 3월 사이 대학·대학원을 졸업·수료할 예정인 지원자. 전공 제한은 없습니다.",
       "summary": "웹 앱 개발·운영, 서버와 가상화 인프라, 보안 진단, LLM·데이터 분석 기반 개발 직군을 모집합니다. 표시한 마감은 외자취활 접수 기준입니다."
+    },
+    {
+      "id": "onecareer-104233-20261126",
+      "company": "멤버즈",
+      "title": "28졸 엔지니어 코스 온라인 설명회 (11/26 개최)",
+      "type": "briefing",
+      "source": "onecareer",
+      "date": "2026-11-23",
+      "time": "23:59",
+      "regions": [
+        "online"
+      ],
+      "location": "온라인 Zoom",
+      "url": "https://www.onecareer.jp/events/selection/104233",
+      "employeeCount": 2967,
+      "companySizeUrl": "https://www.members.co.jp/ir/performance",
+      "industry": "it",
+      "verifiedOn": "2026-11-19",
+      "audience": "2028년 3월까지 대학·대학원·고등전문학교·전문학교·단기대학을 졸업했거나 졸업 예정인 사람. 유학생·기졸업자·제2신졸도 지원 가능합니다.",
+      "summary": "웹·서비스 개발, 테크니컬 디렉터, 데이터·AI 엔지니어의 업무와 성장 경로를 소개합니다. 회사 설명 약 45분과 질의응답 약 15분으로 구성되며 조기선고로 이어집니다. 사원 수는 공식 IR에 구분된 2025년 3월 말 법인 단독 2,967명 기준입니다. 공식 행사 안내: https://recruit.members.co.jp/event/eng-seminar28/"
+    },
+    {
+      "id": "onecareer-104233-20261202",
+      "company": "멤버즈",
+      "title": "28졸 엔지니어 코스 온라인 설명회 (12/02 개최)",
+      "type": "briefing",
+      "source": "onecareer",
+      "date": "2026-11-29",
+      "time": "23:59",
+      "regions": [
+        "online"
+      ],
+      "location": "온라인 Zoom",
+      "url": "https://www.onecareer.jp/events/selection/104233",
+      "employeeCount": 2967,
+      "companySizeUrl": "https://www.members.co.jp/ir/performance",
+      "industry": "it",
+      "verifiedOn": "2026-11-19",
+      "audience": "2028년 3월까지 대학·대학원·고등전문학교·전문학교·단기대학을 졸업했거나 졸업 예정인 사람. 유학생·기졸업자·제2신졸도 지원 가능합니다.",
+      "summary": "웹·서비스 개발, 테크니컬 디렉터, 데이터·AI 엔지니어의 업무와 성장 경로를 소개합니다. 회사 설명 약 45분과 질의응답 약 15분으로 구성되며 조기선고로 이어집니다. 사원 수는 공식 IR에 구분된 2025년 3월 말 법인 단독 2,967명 기준입니다. 공식 행사 안내: https://recruit.members.co.jp/event/eng-seminar28/"
+    },
+    {
+      "id": "onecareer-104233-20261207",
+      "company": "멤버즈",
+      "title": "28졸 엔지니어 코스 온라인 설명회 (12/07 개최)",
+      "type": "briefing",
+      "source": "onecareer",
+      "date": "2026-12-02",
+      "time": "23:59",
+      "regions": [
+        "online"
+      ],
+      "location": "온라인 Zoom",
+      "url": "https://www.onecareer.jp/events/selection/104233",
+      "employeeCount": 2967,
+      "companySizeUrl": "https://www.members.co.jp/ir/performance",
+      "industry": "it",
+      "verifiedOn": "2026-11-19",
+      "audience": "2028년 3월까지 대학·대학원·고등전문학교·전문학교·단기대학을 졸업했거나 졸업 예정인 사람. 유학생·기졸업자·제2신졸도 지원 가능합니다.",
+      "summary": "웹·서비스 개발, 테크니컬 디렉터, 데이터·AI 엔지니어의 업무와 성장 경로를 소개합니다. 회사 설명 약 45분과 질의응답 약 15분으로 구성되며 조기선고로 이어집니다. 사원 수는 공식 IR에 구분된 2025년 3월 말 법인 단독 2,967명 기준입니다. 공식 행사 안내: https://recruit.members.co.jp/event/eng-seminar28/"
     }
   ],
   "companies": {
@@ -3333,6 +3392,12 @@ window.dailyScan = {
       "address": "東京都渋谷区桜丘町26番1号 セルリアンタワー",
       "business": "도메인·호스팅 등 인터넷 인프라와 인터넷 광고 사업을 운영합니다.",
       "url": "https://internet.gmo/company/outline/"
+    },
+    "멤버즈": {
+      "industry": "it",
+      "address": "東京都中央区晴海1丁目8番10号 晴海アイランド トリトンスクエアオフィスタワーX 37階",
+      "business": "디지털 전문 인력이 고객 현장에 참여해 제품·시스템 개발, 데이터 활용과 마케팅 등 DX 업무를 지원합니다.",
+      "url": "https://www.members.co.jp/company/profile"
     }
   },
   "coverage": {
@@ -3342,7 +3407,7 @@ window.dailyScan = {
         "label": "28졸 IT 계열 인턴십·직무 체험",
         "startUrl": "https://job.mynavi.jp/28/pc/corpinfo/displayCorpSearchByIs/doSearchOther?isCourseOccupationCd=9",
         "status": "partial",
-        "checkedOn": "2026-11-18",
+        "checkedOn": "2026-11-19",
         "pages": [
           {
             "url": "https://job.mynavi.jp/28/pc/corpinfo/displayCorpSearchByIs/doSearchOther?isCourseOccupationCd=9",
@@ -3463,6 +3528,22 @@ window.dailyScan = {
           {
             "url": "https://job.mynavi.jp/28/pc/corpinfo/displayCorpSearchByIs/doSearchOther?isCourseOccupationCd=9",
             "label": "IT 계열 체험 30페이지 (목록에서 이동)"
+          },
+          {
+            "url": "https://job.mynavi.jp/28/pc/corpinfo/displayCorpSearchByIs/doSearchOther?isCourseOccupationCd=9",
+            "label": "IT 계열 체험 31페이지 (목록에서 이동)"
+          },
+          {
+            "url": "https://job.mynavi.jp/28/pc/corpinfo/displayCorpSearchByIs/doSearchOther?isCourseOccupationCd=9",
+            "label": "IT 계열 체험 32페이지 (목록에서 이동)"
+          },
+          {
+            "url": "https://job.mynavi.jp/28/pc/corpinfo/displayCorpSearchByIs/doSearchOther?isCourseOccupationCd=9",
+            "label": "IT 계열 체험 33페이지 (목록에서 이동)"
+          },
+          {
+            "url": "https://job.mynavi.jp/28/pc/corpinfo/displayCorpSearchByIs/doSearchOther?isCourseOccupationCd=9",
+            "label": "IT 계열 체험 34페이지 (목록에서 이동)"
           }
         ],
         "pending": [
@@ -4646,10 +4727,69 @@ window.dailyScan = {
           "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?corpId=230266&optNo=OzUny",
           "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?corpId=294454&optNo=2EyoB",
           "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?corpId=268739&optNo=oZcKO",
-          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?corpId=257189&optNo=UUzPB"
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?corpId=257189&optNo=UUzPB",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=pqOjl&corpId=92604",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=K65Fp&corpId=77177",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=IIe0d&corpId=77177",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=jPIq6&corpId=76757",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=BEj2W&corpId=227649",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=XpI5D&corpId=76542",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=8yZb4&corpId=76542",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=Z1qis&corpId=217086",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=Ec1sl&corpId=50351",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=l0ZKn&corpId=103685",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=imLHD&corpId=103685",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=JJqwd&corpId=285336",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=7Eoh1&corpId=285336",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=sQtl-&corpId=112333",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=to6lW&corpId=112333",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=MP8fQ&corpId=223686",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=MQkaD&corpId=223686",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=-gUZ7&corpId=224435",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=yppbX&corpId=284745",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=SXHya&corpId=39524",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=1A9kX&corpId=39524",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=zoZgm&corpId=39524",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=vGwwB&corpId=67290",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=rkrT7&corpId=67290",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=ARygo&corpId=67290",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=sdLmq&corpId=84065",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=KCILY&corpId=76615",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=Nu8PQ&corpId=6224",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=uxZuW&corpId=52093",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=X0sfU&corpId=52093",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=C44NW&corpId=240689",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=we7bo&corpId=213304",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=k7vU4&corpId=55254",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=rsqWU&corpId=39087",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=B496m&corpId=51651",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=0evDz&corpId=233855",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=CUgMv&corpId=262827",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=ffziD&corpId=515",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=L8Zov&corpId=50242",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=Gavit&corpId=221219",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=25f0H&corpId=75911",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=Ip6W0&corpId=75911",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=e2A5Q&corpId=252218",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=c1kn6&corpId=209982",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=1m5cB&corpId=205177",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=V4QX2&corpId=81271",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=Irwnm&corpId=81271",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=pjrr1&corpId=78914",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=HzpDY&corpId=78914",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=RysqV&corpId=78914",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=CA9AH&corpId=84283",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=qz6GU&corpId=84283",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=wxbSX&corpId=257477",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=96PkH&corpId=268432",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=xsTu-&corpId=75291",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=f5fZy&corpId=102066",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=dNIz7&corpId=82115",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=H13at&corpId=287717",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=TrZH-&corpId=217914"
         ],
         "nextUrl": "https://job.mynavi.jp/28/pc/corpinfo/displayCorpSearchByIs/doSearchOther?isCourseOccupationCd=9",
-        "note": "11월 18일 공개 첫 페이지를 재확인했습니다. 다음은 이전에 확인한 30페이지 이후 31페이지이며 공개 번호를 순서대로 따라갑니다. 새 후보의 상세 검토가 남았습니다."
+        "note": "11월 19일 첫 페이지를 재확인하고 공개 번호를 따라 31~34페이지의 서로 다른 모집 결과를 열었습니다. 각 페이지 후보 링크를 pending에 보존했습니다. 다음은 35페이지입니다. 31페이지 료모 시스템즈와 컴퓨터 매니지먼트 상세를 확인했으나 법인 단독 사원 수 확인이 남아 대기합니다. ALSOK OcoT2·GqRA3는 그룹 모집의 실제 IT 직무와 법인별 사원 수 확인이 남았습니다."
       },
       {
         "id": "it-research",
@@ -4927,8 +5067,8 @@ window.dailyScan = {
         "id": "software-list",
         "label": "소프트웨어 개발 업종 모집",
         "startUrl": "https://job.rikunabi.com/job_search/indu2-2204/",
-        "status": "partial",
-        "checkedOn": "2026-11-18",
+        "status": "unavailable",
+        "checkedOn": "2026-11-19",
         "pages": [
           {
             "url": "https://job.rikunabi.com/job_search/indu2-2204/",
@@ -5357,7 +5497,7 @@ window.dailyScan = {
           "https://job.rikunabi.com/job_descriptions/cfa8a95af1204768/"
         ],
         "nextUrl": "",
-        "note": "11월 18일 브라우저의 공개 목록이 점검 중 화면으로 표시되어 모집 결과를 확인하지 못했습니다. 점검 종료 후 첫 페이지 및 대기 후보를 재시도합니다. 이전 열람 범위는 5페이지입니다."
+        "note": "11월 19일 공개 브라우저에서 소프트웨어 목록이 HTTP 503 점검 화면으로 표시됐습니다. 검색 도구에는 2주 전 목록이 남아 있으나 오늘 열람한 모집 페이지로 추가하지 않았습니다. 대기 후보 6b2593aa08a109fb도 원문 확인 실패로 보존합니다. 점검 종료 후 첫 페이지와 기존 5페이지 이후를 재시도합니다."
       }
     ],
     "onecareer": [
@@ -5419,7 +5559,7 @@ window.dailyScan = {
         "label": "28졸 엔지니어 키워드 설명회",
         "startUrl": "https://www.onecareer.jp/events/seminar?internalJobCategoryIds=107%2C109%2C110%2C111%2C112%2C113%2C114%2C115%2C117&employeeCountRanges=gte_300_lt_500%2Cgte_500_lt_1000%2Cgte_1000_lt_3000%2Cgte_3000_lt_5000%2Cgte_5000&lowestRating=0&highestRating=5&searchByCurrentUserGraduateYear=false&sort=time_limit_at&page=1&per=30&companiesToFollow=false&prefectures=%7B%22online%22%3Afalse%2C%22prefecture_ids%22%3A%5B%5D%7D&isOnecareerHostingEvent=false&upperLimitOfCompanyReview=5&lowerLimitOfCompanyReview=0&search_query=%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2&graduates=28%E5%B9%B4%E5%8D%92",
         "status": "partial",
-        "checkedOn": "2026-11-17",
+        "checkedOn": "2026-11-19",
         "pages": [
           {
             "url": "https://www.onecareer.jp/events/seminar?internalJobCategoryIds=107%2C109%2C110%2C111%2C112%2C113%2C114%2C115%2C117&employeeCountRanges=gte_300_lt_500%2Cgte_500_lt_1000%2Cgte_1000_lt_3000%2Cgte_3000_lt_5000%2Cgte_5000&lowestRating=0&highestRating=5&searchByCurrentUserGraduateYear=false&sort=time_limit_at&page=1&per=30&companiesToFollow=false&prefectures=%7B%22online%22%3Afalse%2C%22prefecture_ids%22%3A%5B%5D%7D&isOnecareerHostingEvent=false&upperLimitOfCompanyReview=5&lowerLimitOfCompanyReview=0&search_query=%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2&graduates=28%E5%B9%B4%E5%8D%92",
@@ -5440,6 +5580,22 @@ window.dailyScan = {
           {
             "url": "https://www.onecareer.jp/events/seminar?internalJobCategoryIds=107%2C109%2C110%2C111%2C112%2C113%2C114%2C115%2C117&employeeCountRanges=gte_300_lt_500%2Cgte_500_lt_1000%2Cgte_1000_lt_3000%2Cgte_3000_lt_5000%2Cgte_5000&lowestRating=0&highestRating=5&searchByCurrentUserGraduateYear=false&sort=time_limit_at&page=5&per=30&companiesToFollow=false&prefectures=%7B%22online%22%3Afalse%2C%22prefecture_ids%22%3A%5B%5D%7D&isOnecareerHostingEvent=false&upperLimitOfCompanyReview=5&lowerLimitOfCompanyReview=0&search_query=%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2&graduates=28%E5%B9%B4%E5%8D%92",
             "label": "키워드 검색 5페이지"
+          },
+          {
+            "url": "https://www.onecareer.jp/events/seminar?internalJobCategoryIds=107%2C109%2C110%2C111%2C112%2C113%2C114%2C115%2C117&employeeCountRanges=gte_300_lt_500%2Cgte_500_lt_1000%2Cgte_1000_lt_3000%2Cgte_3000_lt_5000%2Cgte_5000&lowestRating=0&highestRating=5&searchByCurrentUserGraduateYear=false&sort=time_limit_at&page=7&per=30&companiesToFollow=false&prefectures=%7B%22online%22%3Afalse%2C%22prefecture_ids%22%3A%5B%5D%7D&isOnecareerHostingEvent=false&upperLimitOfCompanyReview=5&lowerLimitOfCompanyReview=0&search_query=%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2&graduates=28%E5%B9%B4%E5%8D%92",
+            "label": "28졸 엔지니어 설명회 7페이지"
+          },
+          {
+            "url": "https://www.onecareer.jp/events/seminar?internalJobCategoryIds=107%2C109%2C110%2C111%2C112%2C113%2C114%2C115%2C117&employeeCountRanges=gte_300_lt_500%2Cgte_500_lt_1000%2Cgte_1000_lt_3000%2Cgte_3000_lt_5000%2Cgte_5000&lowestRating=0&highestRating=5&searchByCurrentUserGraduateYear=false&sort=time_limit_at&page=8&per=30&companiesToFollow=false&prefectures=%7B%22online%22%3Afalse%2C%22prefecture_ids%22%3A%5B%5D%7D&isOnecareerHostingEvent=false&upperLimitOfCompanyReview=5&lowerLimitOfCompanyReview=0&search_query=%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2&graduates=28%E5%B9%B4%E5%8D%92",
+            "label": "28졸 엔지니어 설명회 8페이지"
+          },
+          {
+            "url": "https://www.onecareer.jp/events/seminar?internalJobCategoryIds=107%2C109%2C110%2C111%2C112%2C113%2C114%2C115%2C117&employeeCountRanges=gte_300_lt_500%2Cgte_500_lt_1000%2Cgte_1000_lt_3000%2Cgte_3000_lt_5000%2Cgte_5000&lowestRating=0&highestRating=5&searchByCurrentUserGraduateYear=false&sort=time_limit_at&page=9&per=30&companiesToFollow=false&prefectures=%7B%22online%22%3Afalse%2C%22prefecture_ids%22%3A%5B%5D%7D&isOnecareerHostingEvent=false&upperLimitOfCompanyReview=5&lowerLimitOfCompanyReview=0&search_query=%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2&graduates=28%E5%B9%B4%E5%8D%92",
+            "label": "28졸 엔지니어 설명회 9페이지"
+          },
+          {
+            "url": "https://www.onecareer.jp/events/seminar?internalJobCategoryIds=107%2C109%2C110%2C111%2C112%2C113%2C114%2C115%2C117&employeeCountRanges=gte_300_lt_500%2Cgte_500_lt_1000%2Cgte_1000_lt_3000%2Cgte_3000_lt_5000%2Cgte_5000&lowestRating=0&highestRating=5&searchByCurrentUserGraduateYear=false&sort=time_limit_at&page=6&per=30&companiesToFollow=false&prefectures=%7B%22online%22%3Afalse%2C%22prefecture_ids%22%3A%5B%5D%7D&isOnecareerHostingEvent=false&upperLimitOfCompanyReview=5&lowerLimitOfCompanyReview=0&search_query=%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2&graduates=28%E5%B9%B4%E5%8D%92",
+            "label": "28졸 엔지니어 설명회 6페이지"
           }
         ],
         "pending": [
@@ -5547,17 +5703,161 @@ window.dailyScan = {
           "https://www.onecareer.jp/events/seminar/102061",
           "https://www.onecareer.jp/events/seminar/95501",
           "https://www.onecareer.jp/events/seminar/95363",
-          "https://www.onecareer.jp/events/seminar/98484"
+          "https://www.onecareer.jp/events/seminar/98484",
+          "https://www.onecareer.jp/events/seminar/97898",
+          "https://www.onecareer.jp/events/seminar/87148",
+          "https://www.onecareer.jp/events/seminar/104412",
+          "https://www.onecareer.jp/events/seminar/101395",
+          "https://www.onecareer.jp/events/seminar/97059",
+          "https://www.onecareer.jp/events/seminar/103454",
+          "https://www.onecareer.jp/events/seminar/93656",
+          "https://www.onecareer.jp/events/seminar/98113",
+          "https://www.onecareer.jp/events/seminar/94946",
+          "https://www.onecareer.jp/events/seminar/86601",
+          "https://www.onecareer.jp/events/seminar/97212",
+          "https://www.onecareer.jp/events/seminar/100485",
+          "https://www.onecareer.jp/events/seminar/101824",
+          "https://www.onecareer.jp/events/seminar/102089",
+          "https://www.onecareer.jp/events/seminar/96950",
+          "https://www.onecareer.jp/events/seminar/104183",
+          "https://www.onecareer.jp/events/seminar/93524",
+          "https://www.onecareer.jp/events/seminar/95883",
+          "https://www.onecareer.jp/events/seminar/96713",
+          "https://www.onecareer.jp/events/seminar/85518",
+          "https://www.onecareer.jp/events/seminar/102000",
+          "https://www.onecareer.jp/events/seminar/92223",
+          "https://www.onecareer.jp/events/seminar/97061",
+          "https://www.onecareer.jp/events/seminar/99278",
+          "https://www.onecareer.jp/events/seminar/100531",
+          "https://www.onecareer.jp/events/seminar/101228",
+          "https://www.onecareer.jp/events/seminar/102550",
+          "https://www.onecareer.jp/events/seminar/103799",
+          "https://www.onecareer.jp/events/seminar/103947",
+          "https://www.onecareer.jp/events/seminar/104247",
+          "https://www.onecareer.jp/events/seminar/92665",
+          "https://www.onecareer.jp/events/seminar/96649",
+          "https://www.onecareer.jp/events/seminar/103978",
+          "https://www.onecareer.jp/events/seminar/98110",
+          "https://www.onecareer.jp/events/seminar/103467",
+          "https://www.onecareer.jp/events/seminar/103994",
+          "https://www.onecareer.jp/events/seminar/97484",
+          "https://www.onecareer.jp/events/seminar/98675",
+          "https://www.onecareer.jp/events/seminar/99667",
+          "https://www.onecareer.jp/events/seminar/101414",
+          "https://www.onecareer.jp/events/seminar/101517",
+          "https://www.onecareer.jp/events/seminar/101650",
+          "https://www.onecareer.jp/events/seminar/103689",
+          "https://www.onecareer.jp/events/seminar/103690",
+          "https://www.onecareer.jp/events/seminar/94093",
+          "https://www.onecareer.jp/events/seminar/93076",
+          "https://www.onecareer.jp/events/seminar/96531",
+          "https://www.onecareer.jp/events/seminar/104024",
+          "https://www.onecareer.jp/events/seminar/97622",
+          "https://www.onecareer.jp/events/seminar/98682",
+          "https://www.onecareer.jp/events/seminar/99814",
+          "https://www.onecareer.jp/events/seminar/104510",
+          "https://www.onecareer.jp/events/seminar/104244",
+          "https://www.onecareer.jp/events/seminar/90657",
+          "https://www.onecareer.jp/events/seminar/91357",
+          "https://www.onecareer.jp/events/seminar/103050",
+          "https://www.onecareer.jp/events/seminar/103842",
+          "https://www.onecareer.jp/events/seminar/98758",
+          "https://www.onecareer.jp/events/seminar/101152",
+          "https://www.onecareer.jp/events/seminar/101593",
+          "https://www.onecareer.jp/events/seminar/101959",
+          "https://www.onecareer.jp/events/seminar/102145",
+          "https://www.onecareer.jp/events/seminar/103331",
+          "https://www.onecareer.jp/events/seminar/103513",
+          "https://www.onecareer.jp/events/seminar/104340",
+          "https://www.onecareer.jp/events/seminar/104464",
+          "https://www.onecareer.jp/events/seminar/104022",
+          "https://www.onecareer.jp/events/seminar/104646",
+          "https://www.onecareer.jp/events/seminar/93110",
+          "https://www.onecareer.jp/events/seminar/94057",
+          "https://www.onecareer.jp/events/seminar/100518",
+          "https://www.onecareer.jp/events/seminar/103526",
+          "https://www.onecareer.jp/events/seminar/103785",
+          "https://www.onecareer.jp/events/seminar/99938",
+          "https://www.onecareer.jp/events/seminar/102049",
+          "https://www.onecareer.jp/events/seminar/103712",
+          "https://www.onecareer.jp/events/seminar/104459",
+          "https://www.onecareer.jp/events/seminar/101103",
+          "https://www.onecareer.jp/events/seminar/102948",
+          "https://www.onecareer.jp/events/seminar/101011",
+          "https://www.onecareer.jp/events/seminar/104454",
+          "https://www.onecareer.jp/events/seminar/103350",
+          "https://www.onecareer.jp/events/seminar/103791",
+          "https://www.onecareer.jp/events/seminar/87411",
+          "https://www.onecareer.jp/events/seminar/101237",
+          "https://www.onecareer.jp/events/seminar/102952",
+          "https://www.onecareer.jp/events/seminar/101580",
+          "https://www.onecareer.jp/events/seminar/104362",
+          "https://www.onecareer.jp/events/seminar/103984",
+          "https://www.onecareer.jp/events/seminar/100341",
+          "https://www.onecareer.jp/events/seminar/102477",
+          "https://www.onecareer.jp/events/seminar/102200",
+          "https://www.onecareer.jp/events/seminar/100819",
+          "https://www.onecareer.jp/events/seminar/103693",
+          "https://www.onecareer.jp/events/seminar/102687",
+          "https://www.onecareer.jp/events/seminar/104386",
+          "https://www.onecareer.jp/events/seminar/94043",
+          "https://www.onecareer.jp/events/seminar/95887",
+          "https://www.onecareer.jp/events/seminar/98144",
+          "https://www.onecareer.jp/events/seminar/103432",
+          "https://www.onecareer.jp/events/seminar/100299",
+          "https://www.onecareer.jp/events/seminar/93089",
+          "https://www.onecareer.jp/events/seminar/87184",
+          "https://www.onecareer.jp/events/seminar/99926",
+          "https://www.onecareer.jp/events/seminar/101503",
+          "https://www.onecareer.jp/events/seminar/86905",
+          "https://www.onecareer.jp/events/seminar/95734",
+          "https://www.onecareer.jp/events/seminar/96103",
+          "https://www.onecareer.jp/events/seminar/96688",
+          "https://www.onecareer.jp/events/seminar/104018",
+          "https://www.onecareer.jp/events/seminar/104561",
+          "https://www.onecareer.jp/events/seminar/83124",
+          "https://www.onecareer.jp/events/seminar/101992",
+          "https://www.onecareer.jp/events/seminar/87037",
+          "https://www.onecareer.jp/events/seminar/101658",
+          "https://www.onecareer.jp/events/seminar/100814",
+          "https://www.onecareer.jp/events/seminar/103932",
+          "https://www.onecareer.jp/events/seminar/99695",
+          "https://www.onecareer.jp/events/seminar/104538",
+          "https://www.onecareer.jp/events/seminar/104012",
+          "https://www.onecareer.jp/events/seminar/104111",
+          "https://www.onecareer.jp/events/seminar/104112",
+          "https://www.onecareer.jp/events/seminar/104113",
+          "https://www.onecareer.jp/events/seminar/100808",
+          "https://www.onecareer.jp/events/seminar/101914",
+          "https://www.onecareer.jp/events/seminar/102246",
+          "https://www.onecareer.jp/events/seminar/104514",
+          "https://www.onecareer.jp/events/seminar/104414",
+          "https://www.onecareer.jp/events/seminar/103320",
+          "https://www.onecareer.jp/events/seminar/97872",
+          "https://www.onecareer.jp/events/seminar/86599",
+          "https://www.onecareer.jp/events/seminar/89498",
+          "https://www.onecareer.jp/events/seminar/96958",
+          "https://www.onecareer.jp/events/seminar/104569",
+          "https://www.onecareer.jp/events/seminar/100338",
+          "https://www.onecareer.jp/events/seminar/79075",
+          "https://www.onecareer.jp/events/seminar/83501",
+          "https://www.onecareer.jp/events/seminar/91465",
+          "https://www.onecareer.jp/events/seminar/94000",
+          "https://www.onecareer.jp/events/seminar/98752",
+          "https://www.onecareer.jp/events/seminar/98753",
+          "https://www.onecareer.jp/events/seminar/100269",
+          "https://www.onecareer.jp/events/seminar/100711",
+          "https://www.onecareer.jp/events/seminar/100941"
         ],
-        "nextUrl": "https://www.onecareer.jp/events/seminar?internalJobCategoryIds=107%2C109%2C110%2C111%2C112%2C113%2C114%2C115%2C117&employeeCountRanges=gte_300_lt_500%2Cgte_500_lt_1000%2Cgte_1000_lt_3000%2Cgte_3000_lt_5000%2Cgte_5000&lowestRating=0&highestRating=5&searchByCurrentUserGraduateYear=false&sort=time_limit_at&page=6&per=30&companiesToFollow=false&prefectures=%7B%22online%22%3Afalse%2C%22prefecture_ids%22%3A%5B%5D%7D&isOnecareerHostingEvent=false&upperLimitOfCompanyReview=5&lowerLimitOfCompanyReview=0&search_query=%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2&graduates=28%E5%B9%B4%E5%8D%92",
-        "note": "11월 17일 공개 첫 페이지를 재확인했습니다. 5페이지에서 6번으로 이동할 수 있는 공개 버튼이 확인되지 않아 다음 실행에서 페이지 메뉴와 상세 후보를 다시 확인합니다."
+        "nextUrl": "",
+        "note": "11월 19일 첫 페이지를 재확인하고 공개 페이지 버튼을 따라 3~9페이지 결과를 확인했습니다. 6페이지는 주소와 결과 로딩 후 다시 확인했습니다. 현재 마지막 버튼은 9페이지이며 후보 상세 검토가 남았습니다. pending을 먼저 검토하고 첫 페이지도 다시 확인합니다."
       },
       {
         "id": "28-selection",
         "label": "28졸 엔지니어 키워드 본선고·조기선고",
         "startUrl": "https://www.onecareer.jp/events/selection?internalJobCategoryIds=107%2C109%2C110%2C111%2C112%2C113%2C114%2C115%2C117&employeeCountRanges=gte_300_lt_500%2Cgte_500_lt_1000%2Cgte_1000_lt_3000%2Cgte_3000_lt_5000%2Cgte_5000&lowestRating=0&highestRating=5&searchByCurrentUserGraduateYear=false&sort=time_limit_at&page=1&per=30&companiesToFollow=false&prefectures=%7B%22online%22%3Afalse%2C%22prefecture_ids%22%3A%5B%5D%7D&isOnecareerHostingEvent=false&upperLimitOfCompanyReview=5&lowerLimitOfCompanyReview=0&search_query=%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2&graduates=28%E5%B9%B4%E5%8D%92",
         "status": "partial",
-        "checkedOn": "2026-11-16",
+        "checkedOn": "2026-11-19",
         "pages": [
           {
             "url": "https://www.onecareer.jp/events/selection?internalJobCategoryIds=107%2C109%2C110%2C111%2C112%2C113%2C114%2C115%2C117&employeeCountRanges=gte_300_lt_500%2Cgte_500_lt_1000%2Cgte_1000_lt_3000%2Cgte_3000_lt_5000%2Cgte_5000&lowestRating=0&highestRating=5&searchByCurrentUserGraduateYear=false&sort=time_limit_at&page=1&per=30&companiesToFollow=false&prefectures=%7B%22online%22%3Afalse%2C%22prefecture_ids%22%3A%5B%5D%7D&isOnecareerHostingEvent=false&upperLimitOfCompanyReview=5&lowerLimitOfCompanyReview=0&search_query=%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2&graduates=28%E5%B9%B4%E5%8D%92",
@@ -5622,7 +5922,6 @@ window.dailyScan = {
         ],
         "pending": [
           "https://www.onecareer.jp/events/selection/92670",
-          "https://www.onecareer.jp/events/selection/96260",
           "https://www.onecareer.jp/events/selection/92673",
           "https://www.onecareer.jp/events/selection/92667",
           "https://www.onecareer.jp/events/selection/92669",
@@ -6006,7 +6305,7 @@ window.dailyScan = {
           "https://www.onecareer.jp/events/selection/99246"
         ],
         "nextUrl": "",
-        "note": "첫 페이지를 재확인하고 9페이지부터 마지막 15페이지까지 순회했습니다. 16~20페이지는 표시되지 않았으며 상세 대기 후보를 이어갑니다."
+        "note": "첫 페이지를 재확인하고 9페이지부터 마지막 15페이지까지 순회했습니다. 16~20페이지는 표시되지 않았으며 상세 대기 후보를 이어갑니다. 11월 19일 대기 96260은 10월 종료 회차로 확인해 대기에서 제외했습니다. 92670 원문은 도구 접근 오류로 보존합니다. 보완 검색으로 메ンバーズ 104233의 설명회 3회차를 공식 행사 안내와 함께 확인했습니다."
       }
     ],
     "gaishi": [
@@ -6015,7 +6314,7 @@ window.dailyScan = {
         "label": "28졸 IT 엔지니어·시스템 엔지니어",
         "startUrl": "https://gaishishukatsu.com/recruiting_info?order=recommend&groupedJobTypeIDs=5&groupedJobTypeIDs=4&gy=2028&allgy=false&page=1&eventStart=&eventEnd=&entryStart=&entryEnd=",
         "status": "partial",
-        "checkedOn": "2026-11-18",
+        "checkedOn": "2026-11-19",
         "pages": [
           {
             "url": "https://gaishishukatsu.com/recruiting_info?allgy=true&groupedJobTypeIDs=5&order=recommend",
@@ -6085,14 +6384,14 @@ window.dailyScan = {
           "https://gaishishukatsu.com/recruiting_info/view/15480"
         ],
         "nextUrl": "",
-        "note": "11월 18일 28졸·두 엔지니어 직종 목록의 첫 페이지와 다른 결과가 표시된 마지막 3페이지를 재확인했습니다. GMO 인터넷 본선고를 확인했으며 유니크비전은 사원 수 기준 미달로 제외했습니다. 대기 후보 상세 검토를 이어갑니다."
+        "note": "11월 19일 저장된 28졸·IT/시스템 엔지니어 검색을 공개 브라우저에서 다시 열었으나 결과 없음 화면이 표시되고 로딩 오류가 발생했습니다. 모집 결과 페이지 수는 늘리지 않았습니다. 공개 조건 메뉴에서 필터 상태를 재설정한 뒤 첫 페이지부터 재시도합니다. 15288은 금융 DX 설명회 내용·마감은 확인했으나 채용 법인 공식 사원 수가 확인되지 않아 pending에 보존합니다. 도메인 보완 검색으로 Supership 두 공고를 재확인했습니다."
       },
       {
         "id": "engineer-featured",
         "label": "엔지니어 추천 모집",
         "startUrl": "https://gaishishukatsu.com/engineer/recruiting_info",
         "status": "partial",
-        "checkedOn": "2026-11-09",
+        "checkedOn": "2026-11-19",
         "pages": [
           {
             "url": "https://gaishishukatsu.com/engineer/recruiting_info",
@@ -6101,7 +6400,7 @@ window.dailyScan = {
         ],
         "pending": [],
         "nextUrl": "",
-        "note": "추천 목록을 다시 열었습니다. 상세 공고와 추가 결과 확인을 이어갑니다."
+        "note": "11월 19일 공개 추천 목록이 본문 없이 표시되어 결과 페이지를 추가하지 않았습니다. 검색 결과의 추천 목록에는 엔지니어 공고가 보이지만 전체 공개 목록 재확인이 필요합니다."
       }
     ]
   }
