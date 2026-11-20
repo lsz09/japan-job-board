@@ -1,5 +1,5 @@
 window.dailyScan = {
-  "checkedAt": "2026-11-20T05:37:18.347Z",
+  "checkedAt": "2026-11-20T05:45:07.763Z",
   "sources": {
     "mynavi": "partial",
     "rikunabi": "partial",
@@ -3313,7 +3313,7 @@ window.dailyScan = {
         "online"
       ],
       "location": "온라인(라이브 / 녹화)",
-      "verifiedOn": "2026-11-19",
+      "verifiedOn": "2026-11-20",
       "audience": "2025년 3월~2028년 3월 대학·대학원·고전·전문학교 졸업(예정)자 또는 취업 경력 3년 미만인 지원자. 전공 불문이며 외국인은 업무상 일본어 의사소통이 필요합니다.",
       "summary": "2026년 10월 29일부터 신청을 받는 선고 연계 회사설명회입니다. 라이브 또는 녹화 방식으로 회사와 IT 엔지니어 직무를 알아보고 이후 전형 안내를 받습니다. 개별 일정은 마이페이지에서 확인합니다.",
       "employeeCountAsOf": "2025-09"
@@ -3488,7 +3488,7 @@ window.dailyScan = {
         "nationwide"
       ],
       "location": "수도권 및 일본 내 사업장",
-      "verifiedOn": "2026-11-19",
+      "verifiedOn": "2026-11-20",
       "audience": "2028년 3월 대학·대학원·고전 졸업·수료 예정자, 전공 불문. 종합직 중 시스템 엔지니어 지원 대상입니다.",
       "summary": "공식 28졸 SE 모집요강에서 엔트리→회사설명회→적성검사·면접 절차를 안내합니다. 선고 예약 일정과 신청 마감일은 공개되지 않았으며 마이나비 또는 공식 지원 경로에서 개별 안내를 확인해야 합니다.",
       "employeeCountAsOf": "2026-01"
@@ -4305,7 +4305,16 @@ window.dailyScan = {
       "industry": "it",
       "address": "東京都港区虎ノ門2-6-1 虎ノ門ヒルズ ステーションタワー20F",
       "business": "기업 IT 환경의 도입·구축·운영과 애플리케이션·업무 시스템 서비스를 제공합니다.",
-      "url": "https://www.jbs.co.jp/corp/aboutus"
+      "url": "https://www.jbs.co.jp/corp/aboutus",
+      "revenueMillionYen": 215198,
+      "revenueBasis": "standalone",
+      "revenueFiscalYear": "2026년 9월기",
+      "revenueUrl": "https://ssl4.eir-parts.net/doc/5036/tdnet/2912888/00.pdf",
+      "revenueVerifiedOn": "2026-11-20",
+      "cloudRelated": true,
+      "cloudReason": "Microsoft 클라우드를 중심으로 클라우드 도입·구축·운영·보안 사업을 제공합니다.",
+      "cloudEvidenceUrl": "https://www.jbs.co.jp/corp/ir/finance/segement",
+      "cloudVerifiedOn": "2026-11-20"
     },
     "Works Human Intelligence": {
       "industry": "it",
@@ -4329,7 +4338,13 @@ window.dailyScan = {
       "industry": "it",
       "address": "東京都港区港南2-15-1 品川インターシティA棟25～27階",
       "business": "기업 정보 시스템의 컨설팅·설계·개발·운영·유지보수와 기술 지원 서비스를 제공합니다.",
-      "url": "https://www.cresco.co.jp/ja/corpinfo/outline.html"
+      "url": "https://www.cresco.co.jp/ja/corpinfo/outline.html",
+      "revenueMillionYen": 32332.888,
+      "revenueBasis": "standalone",
+      "revenueFiscalYear": "2026년 3월기",
+      "revenueUrl": "https://www.cresco.co.jp/ja/ir/library/securities/latest-securities/main/02/teaserItems4/0/linkList/0/link/37_4q_houkoku_1.pdf",
+      "revenueVerifiedOn": "2026-11-20",
+      "revenueNote": "연결 매출 약646.77억 엔과 구분. 단독 약323.33억 엔이므로 이번 조건에서 제외."
     },
     "CIJ": {
       "industry": "it",
@@ -4353,7 +4368,16 @@ window.dailyScan = {
       "industry": "it",
       "address": "東京都渋谷区恵比寿南1-5-5 JR恵比寿ビル",
       "business": "기업 업무 시스템 개발·통합, 보안, 데이터센터와 IT 운영 서비스를 제공합니다. 사원 수는 2026년 1월 말 법인 단독 공시입니다.",
-      "url": "https://www.cec-ltd.co.jp/corporate/outline.html"
+      "url": "https://www.cec-ltd.co.jp/corporate/outline.html",
+      "revenueMillionYen": 52226,
+      "revenueBasis": "standalone",
+      "revenueFiscalYear": "2026년 1월기",
+      "revenueUrl": "https://www.cec-ltd.co.jp/ir/2026/03/accounting_20260312.pdf",
+      "revenueVerifiedOn": "2026-11-20",
+      "cloudRelated": true,
+      "cloudReason": "기업 공식 중기계획에서 클라우드 서비스 사업 및 시스템 기반의 클라우드 전환을 확인했습니다.",
+      "cloudEvidenceUrl": "https://www.cec-ltd.co.jp/ir/aboutus/guide_pdf/vision2030-management_plan2025-27.pdf",
+      "cloudVerifiedOn": "2026-11-20"
     },
     "포커스시스템즈": {
       "industry": "it",
@@ -4448,6 +4472,57 @@ window.dailyScan = {
       "url": "https://giftee.co.jp/company/outline/",
       "employeeCountAsOf": "2026-09-30",
       "employeeCountNote": "공식 회사 개요의 株式会社ギフティ 308명. 그룹 합산 수치와 구분."
+    },
+    "IIJ": {
+      "industry": "it",
+      "address": "東京都千代田区富士見2-10-2 飯田橋グラン・ブルーム",
+      "business": "인터넷·WAN, 자체 IIJ GIO 클라우드와 네트워크·시스템 구축·운영 서비스를 제공합니다.",
+      "url": "https://www.iij.ad.jp/company/about/outline/",
+      "employeeCount": 3174,
+      "companySizeUrl": "https://www.iij.ad.jp/company/about/outline/",
+      "revenueMillionYen": 286348,
+      "revenueBasis": "standalone",
+      "revenueFiscalYear": "2026년 3월기",
+      "revenueUrl": "https://www.iij.ad.jp/ir/library/financial/pdf/IIJ4Q25J.pdf",
+      "revenueVerifiedOn": "2026-11-20",
+      "cloudRelated": true,
+      "cloudReason": "자체 IIJ GIO 클라우드 기반·관리 서비스 개발과 운영 사업을 확인했습니다.",
+      "cloudEvidenceUrl": "https://www.iij.ad.jp/news/pressrelease/2026/0330.html",
+      "cloudVerifiedOn": "2026-11-20"
+    },
+    "DTS": {
+      "industry": "it",
+      "address": "본사 상세 주소 확인 대기",
+      "business": "기업 업무 시스템을 개발하고 AWS·Azure 클라우드 도입·구축·운영 및 현대화를 지원합니다.",
+      "url": "https://www.dts.co.jp/corp/company/",
+      "employeeCount": 3199,
+      "companySizeUrl": "https://www.dts.co.jp/sustainability/non-financialdata/",
+      "revenueMillionYen": 88235,
+      "revenueBasis": "standalone",
+      "revenueFiscalYear": "2026년 3월기",
+      "revenueUrl": "https://www2.jpx.co.jp/disc/96820/140120260430515331.pdf",
+      "revenueVerifiedOn": "2026-11-20",
+      "cloudRelated": true,
+      "cloudReason": "AWS·Azure 기반 구축과 기존 시스템의 클라우드 전환 사업을 확인했습니다.",
+      "cloudEvidenceUrl": "https://www.dts.co.jp/solution_sites/cloud/",
+      "cloudVerifiedOn": "2026-11-20"
+    },
+    "BIPROGY": {
+      "industry": "it",
+      "address": "東京都江東区豊洲1-1-1",
+      "business": "기업 IT 시스템을 설계·개발·운영하고 Azure·AWS·U-Cloud 및 관리형 클라우드 서비스를 제공합니다.",
+      "url": "https://www.biprogy.com/com/com.html",
+      "employeeCount": 4359,
+      "companySizeUrl": "https://info.gbiz.go.jp/hojin/edinetDownload?docId=S100YFCP",
+      "revenueMillionYen": 242634,
+      "revenueBasis": "standalone",
+      "revenueFiscalYear": "2026년 3월기",
+      "revenueUrl": "https://info.gbiz.go.jp/hojin/edinetDownload?docId=S100YFCP",
+      "revenueVerifiedOn": "2026-11-20",
+      "cloudRelated": true,
+      "cloudReason": "Azure·AWS 환경 구축과 운영을 지원하는 CLOUDForesight 사업을 확인했습니다.",
+      "cloudEvidenceUrl": "https://www.biprogy.com/solution/service/cloudforesight.html",
+      "cloudVerifiedOn": "2026-11-20"
     }
   },
   "coverage": {
@@ -8061,7 +8136,58 @@ window.dailyScan = {
         ],
         "nextUrl": "",
         "note": "하테나 28졸 3직무, 클래스메소드 오퍼레이션즈 12/9 설명회, 미라티브 공식 ATS 2건 추가. 하테나 연결 ATS 본문은 추출되지 않아 공개 공식 직무 소개와 2028졸 현재 모집 링크에서 확인; 근무지는 미정으로 기록. 클래스메소드 28졸 채용은 12월 선고 시작 안내여서 현재 접수 여부 재확인 대기. Fusic은 28졸 대상 확인 대기. Skyarch는 법인 종료 정황으로 보류. 보완 검색이므로 목록 열람 페이지 0."
+      },
+      {
+        "id": "revenue500-5000-cloud-20261120",
+        "label": "매출 500억~5,000억 엔·클라우드 기업 확인",
+        "startUrl": "https://www.iij.ad.jp/company/about/outline/",
+        "status": "partial",
+        "checkedOn": "2026-11-20",
+        "pages": [],
+        "pending": [
+          "https://www.iij.ad.jp/recruit/newgrad/guidelines.html",
+          "https://www.dts.co.jp/recruit/fresh/info/index.html",
+          "https://www.biprogy.com/recruit/recruiting/"
+        ],
+        "nextUrl": "",
+        "note": "회사별 단독 매출·클라우드 사업과 채용 경로를 보완 확인. IIJ·DTS·BIPROGY·JBS·CEC 5개 기업이 매출·클라우드 조건에 해당. JBS와 CEC의 기존 28졸 공고만 접수 경로까지 재확인했으며 미확인 공고는 추가하지 않음. 크레스코 단독323.33억 엔은 제외. 네트원은 28졸 SCSK 통합 채용으로 채용 법인 확인이 필요하고, TISI는 합병 전 TIS 매출을 현 법인 실적으로 간주할 수 없어 보류. 기업별 보완 확인이며 모집 목록 열람 페이지 수는 증가시키지 않음."
       }
     ]
-  }
+  },
+  "companySearchCriteria": {
+    "graduateYear": 2028,
+    "minEmployees": 100,
+    "minRevenueMillionYen": 50000,
+    "maxRevenueMillionYen": 500000,
+    "cloudBusinessRequired": true,
+    "revenueBasisPolicy": "standalone-first-consolidated-only-if-unpublished",
+    "updatedOn": "2026-11-20"
+  },
+  "companyResearch": [
+    {
+      "company": "IIJ",
+      "recruitUrl": "https://www.iij.ad.jp/recruit/newgrad/guidelines.html",
+      "recruitStatus": "28졸 채용 경로와 인턴십 안내 확인. 공개 모집요강에는 졸업연도별 선고 접수 상태가 명확하지 않아 개별 공고 확인 대기."
+    },
+    {
+      "company": "DTS",
+      "recruitUrl": "https://www.dts.co.jp/recruit/fresh/info/index.html",
+      "recruitStatus": "공식 검색 결과에서 2028년 3월 졸업 대상을 확인. 상세 페이지는 403이어서 실제 접수·마감·직무 상세 확인 대기."
+    },
+    {
+      "company": "BIPROGY",
+      "recruitUrl": "https://www.biprogy.com/recruit/recruiting/",
+      "recruitStatus": "28졸 마이페이지 및 인턴십 안내 공개. 공개된 본선고 상세의 27졸 조건을 28졸에 적용하지 않았으며 구체 모집은 확인 대기."
+    },
+    {
+      "company": "일본비즈니스시스템즈(JBS)",
+      "recruitUrl": "https://recruit.jbs.co.jp/newgraduate/event/senko/",
+      "recruitStatus": "28졸 본선고 연계 온라인 설명회 예약 접수 확인. 기존 보드 공고에서 지원 가능."
+    },
+    {
+      "company": "CEC",
+      "recruitUrl": "https://recruit.cec-ltd.co.jp/recruit/requirements.html",
+      "recruitStatus": "28졸 SE 모집 및 마이나비2028 엔트리 안내 확인. 기존 보드 공고에서 상세 확인 가능."
+    }
+  ]
 };
