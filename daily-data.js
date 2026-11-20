@@ -1,5 +1,5 @@
 window.dailyScan = {
-  "checkedAt": "2026-11-19T17:30:06.140Z",
+  "checkedAt": "2026-11-20T05:37:18.347Z",
   "sources": {
     "mynavi": "partial",
     "rikunabi": "partial",
@@ -900,7 +900,7 @@ window.dailyScan = {
       "url": "https://gaishishukatsu.com/recruiting_info/view/15418",
       "employeeCount": 366,
       "companySizeUrl": "https://info.gbiz.go.jp/hojin/edinetDownload?docId=S100XC4P",
-      "verifiedOn": "2026-11-09",
+      "verifiedOn": "2026-11-20",
       "audience": "2028년 4월 또는 10월 입사 예정자. 앱 개발 경험과 비즈니스 일본어가 필요하며, 공고는 외국인 지원자에게 JLPT N1을 요구합니다.",
       "summary": "기업용 AI SaaS의 기능을 설계하고 프런트엔드부터 백엔드까지 개발합니다. 웹·클라우드 경험은 우대 조건입니다."
     },
@@ -919,7 +919,7 @@ window.dailyScan = {
       "url": "https://gaishishukatsu.com/recruiting_info/view/15418",
       "employeeCount": 366,
       "companySizeUrl": "https://info.gbiz.go.jp/hojin/edinetDownload?docId=S100XC4P",
-      "verifiedOn": "2026-11-09",
+      "verifiedOn": "2026-11-20",
       "audience": "2028년 4월 또는 10월 입사 예정자. 앱 개발 경험과 비즈니스 일본어가 필요하며, 공고는 외국인 지원자에게 JLPT N1을 요구합니다.",
       "summary": "기업용 AI SaaS의 기능을 설계하고 프런트엔드부터 백엔드까지 개발합니다. 웹·클라우드 경험은 우대 조건입니다."
     },
@@ -938,7 +938,7 @@ window.dailyScan = {
       "url": "https://gaishishukatsu.com/recruiting_info/view/15418",
       "employeeCount": 366,
       "companySizeUrl": "https://info.gbiz.go.jp/hojin/edinetDownload?docId=S100XC4P",
-      "verifiedOn": "2026-11-09",
+      "verifiedOn": "2026-11-20",
       "audience": "2028년 4월 또는 10월 입사 예정자. 앱 개발 경험과 비즈니스 일본어가 필요하며, 공고는 외국인 지원자에게 JLPT N1을 요구합니다.",
       "summary": "기업용 AI SaaS의 기능을 설계하고 프런트엔드부터 백엔드까지 개발합니다. 웹·클라우드 경험은 우대 조건입니다."
     },
@@ -2277,7 +2277,7 @@ window.dailyScan = {
       "url": "https://careers.classmethod.jp/requirements/new-graduate2028-engineer/",
       "employeeCount": 621,
       "companySizeUrl": "https://classmethod.jp/company/finance/",
-      "verifiedOn": "2026-11-19",
+      "verifiedOn": "2026-11-20",
       "audience": "2028년 3월 대학·단기대학·전문학교 등 졸업 예정자. 전공 무관이며 프로그래밍 학습·언어 사용 경험과 Git 등 버전 관리 도구의 기본 경험이 필요합니다.",
       "summary": "AWS 등 클라우드 환경의 인프라를 설계·구축·운영하고 웹 앱 개발과 고객 요구사항 정의에도 참여합니다. 공개 채용 페이지에 신청 마감일은 표시되지 않습니다."
     },
@@ -2296,7 +2296,7 @@ window.dailyScan = {
       "url": "https://www.serverworks.co.jp/recruit/guideline-newgraduate/",
       "employeeCount": 367,
       "companySizeUrl": "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100Y5TF.pdf",
-      "verifiedOn": "2026-11-19",
+      "verifiedOn": "2026-11-20",
       "audience": "2028년 4월 정규직 입사가 가능하고 단기대학 졸업에 상응하는 학력 이상인 사람. 고등전문학교 본과와 2년제 전문학교를 포함하며 전공 무관입니다.",
       "summary": "AWS 설계·구축·운영 직무를 포함한 신입 채용 온라인 설명회입니다. 공개 페이지에서 11~12월 개최일을 안내하며 신청 마감일은 표시하지 않습니다. 설명회 후 선고에 진입할 수 있습니다."
     },
@@ -3068,7 +3068,7 @@ window.dailyScan = {
         "online"
       ],
       "location": "도쿄·나고야·오사카·히로시마·마쓰야마·후쿠오카 또는 일본 국내 자택(팀별 협의)",
-      "verifiedOn": "2026-11-19",
+      "verifiedOn": "2026-11-20",
       "audience": "2028년 4월 입사가 가능하고 입사 시 취업 경력이 1년 미만인 지원자. UNIX 명령어 기초·프로그래밍 경험·Git/GitHub 사용 경험이 필요합니다.",
       "summary": "cybozu.com 클라우드 기반의 SRE, 데이터스토어, 네트워크·데이터센터 분야를 담당합니다. 연중 접수하며 공개된 신청 마감일은 없습니다.",
       "employeeCountAsOf": "2025-12"
@@ -3829,6 +3829,79 @@ window.dailyScan = {
       "verifiedOn": "2026-11-20",
       "audience": "2028년 또는 2029년 3월 졸업 예정인 대학원·대학·단기대학·전문학교·고전 학생. 문과·이과·전공 불문, 전문 지식 불필요.",
       "summary": "AI·연구개발, 기반 시스템과 앱 개발 프로젝트, 자유로운 개발 문화와 근무제도를 소개하고 젊은 소프트웨어 엔지니어와 교류합니다. 2026년 11월~2027년 2월 온라인 개최, 선착순·선고 없음."
+    },
+    {
+      "date": "2027-02-09",
+      "time": "",
+      "verifiedOn": "2026-11-20",
+      "id": "mynavi-61336-7pG6Q",
+      "company": "사쿠라 정보시스템",
+      "title": "28졸 SE·IT 업계 연구 1일 온라인 직무 체험",
+      "type": "internship",
+      "source": "mynavi",
+      "url": "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?corpId=61336&optNo=7pG6Q",
+      "employeeCount": 1220,
+      "companySizeUrl": "https://www.sakura-is.co.jp/corporate/profile/",
+      "regions": [
+        "online"
+      ],
+      "audience": "28졸을 포함한 4년제 대학·대학원·고전 전공과 재학생. 학년·전공·문과 이과 불문, SE 및 IT 업계에 관심 있는 분.",
+      "summary": "Zoom에서 약 2~3시간 동안 편의점 체인의 경영 과제를 해결하는 팀 대항 시뮬레이션으로 SE의 업무와 IT 솔루션 제안을 체험합니다. 2월까지 매월 개최, 선착순이며 피드백을 제공합니다."
+    },
+    {
+      "date": "2026-12-31",
+      "time": "",
+      "verifiedOn": "2026-11-20",
+      "id": "mynavi-61336-iXbS7",
+      "company": "사쿠라 정보시스템",
+      "title": "28졸 IT 기업 설명회·젊은 SE 직원 온라인 좌담회",
+      "type": "briefing",
+      "source": "mynavi",
+      "url": "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?corpId=61336&optNo=iXbS7",
+      "employeeCount": 1220,
+      "companySizeUrl": "https://www.sakura-is.co.jp/corporate/profile/",
+      "regions": [
+        "online"
+      ],
+      "audience": "마이나비2028의 학생 대상 설명회로 문과·이과 불문. IT 컨설팅·시스템 개발·운영 직무에 관심 있는 학생.",
+      "summary": "사업과 프로젝트 사례, 교육·경력 경로, 복지 및 선고 절차를 소개합니다. 30분~1시간 Zoom 행사이며 1시간 회차에는 젊은 엔지니어와의 인터뷰·질문 시간이 포함됩니다. 11월~2월 월별 개최, 선착순."
+    },
+    {
+      "date": "2026-11-23",
+      "time": "13:59",
+      "verifiedOn": "2026-11-20",
+      "id": "onecareer-95346-20261124",
+      "company": "테라스카이",
+      "title": "28졸 Salesforce·클라우드 개발 1일 직무 체험 (11/24)",
+      "type": "internship",
+      "source": "onecareer",
+      "url": "https://www.onecareer.jp/events/internship/95346",
+      "employeeCount": 790,
+      "companySizeUrl": "https://www.onecareer.jp/events/internship/95346",
+      "regions": [
+        "online"
+      ],
+      "audience": "2028년 졸업 예정 학생. 문과·이과 및 프로그래밍 경험 불문.",
+      "summary": "11월 24일 14:00~17:00 JST Zoom 개최. IT 업계와 Salesforce 엔지니어 직무 소개 후 강사의 지도 아래 약 2시간 30분간 로코드·노코드 방식의 Salesforce 개발을 체험합니다. 최소 정원 미달 시 취소될 수 있습니다."
+    },
+    {
+      "date": "2027-03-31",
+      "time": "23:59",
+      "verifiedOn": "2026-11-20",
+      "id": "gaishi-15041",
+      "company": "기프티",
+      "title": "28졸 e기프트 플랫폼 풀스택 엔지니어 본선고",
+      "type": "main",
+      "source": "gaishi",
+      "url": "https://www.gaishishukatsu.com/recruiting_info/view/15041",
+      "employeeCount": 308,
+      "companySizeUrl": "https://giftee.co.jp/company/outline/",
+      "regions": [
+        "kanto"
+      ],
+      "location": "도쿄 본사, 원격 근무 병행",
+      "audience": "2028년 4월 입사 가능하고 웹 애플리케이션 개발 경험이 있는 분. 수업·인턴·개인 개발 모두 인정하며 팀 개발 경험은 우대합니다.",
+      "summary": "e기프트 제품의 신규·기존 기능, 아키텍처 설계·구현, 사용성·성능·신뢰성 개선과 운영을 담당합니다. 설명회, 서류, 면접·스킬 테스트, 1주 인턴 등을 거칩니다. 지원 후 1주 이내 이력서 제출이 필요합니다."
     }
   ],
   "companies": {
@@ -4059,9 +4132,13 @@ window.dailyScan = {
     },
     "테라스카이": {
       "industry": "it",
-      "address": "東京都中央区日本橋2-11-2 太陽生命日本橋ビル",
-      "business": "Salesforce 기반 클라우드 시스템을 도입·개발하고 자체 클라우드 제품을 개발·판매합니다.",
-      "url": "https://newgrad.terrasky.co.jp/aboutus"
+      "address": "東京都中央区日本橋2-11-2 太陽生命日本橋ビル15～17階",
+      "business": "Salesforce 등 클라우드 도입·개발, 클라우드 도구 개발과 IT 컨설팅을 제공합니다.",
+      "url": "https://www.onecareer.jp/events/internship/95346",
+      "corporateUrl": "https://www.terrasky.co.jp/",
+      "sizeApproximate": true,
+      "employeeCountAsOf": "2025-04",
+      "employeeCountNote": "기업이 게시한 원커리어 회사 정보의 790명을 근사 인원으로 사용. 공식 사이트는 403으로 접근되지 않았으며 그룹 합산 인원을 대입하지 않았습니다."
     },
     "TISI": {
       "industry": "it",
@@ -4350,6 +4427,27 @@ window.dailyScan = {
       "url": "https://www.nalgo.co.jp/company/",
       "employeeCountAsOf": "2026-04",
       "employeeCountNote": "공식 회사 개요 전 종업원 201명(개발 191명, 영업·관리 10명)."
+    },
+    "사쿠라 정보시스템": {
+      "industry": "it",
+      "address": "東京都港区白金1-17-3 NBFプラチナタワー",
+      "business": "금융·회계·인사 급여 등 업무 시스템의 컨설팅·개발·운영과 클라우드 통합, BPO 및 보안 서비스를 제공합니다.",
+      "url": "https://www.sakura-is.co.jp/corporate/profile/",
+      "sizeApproximate": true,
+      "employeeCountAsOf": "2026-11-20 조회",
+      "employeeCountNote": "공식 회사 개요에 약 1,220명으로 표기. 인원 기준일은 별도 표시되지 않았습니다.",
+      "cloudRelated": true,
+      "cloudReason": "기업 공식 소개에서 클라우드 통합 및 업무 시스템 개발·운영 사업을 확인했습니다. 개별 행사는 일반 SE 직무도 다룹니다.",
+      "cloudEvidenceUrl": "https://www.sakura-is.co.jp/",
+      "cloudVerifiedOn": "2026-11-20"
+    },
+    "기프티": {
+      "industry": "it",
+      "address": "東京都品川区東五反田2-10-2 東五反田スクエア12階",
+      "business": "개인·법인·지자체를 대상으로 e기프트 생성·발행·유통 플랫폼과 관련 업무 시스템을 개발·제공합니다.",
+      "url": "https://giftee.co.jp/company/outline/",
+      "employeeCountAsOf": "2026-09-30",
+      "employeeCountNote": "공식 회사 개요의 株式会社ギフティ 308명. 그룹 합산 수치와 구분."
     }
   },
   "coverage": {
@@ -4359,7 +4457,7 @@ window.dailyScan = {
         "label": "28졸 IT 계열 인턴십·직무 체험",
         "startUrl": "https://job.mynavi.jp/28/pc/corpinfo/displayCorpSearchByIs/doSearchOther?isCourseOccupationCd=9",
         "status": "partial",
-        "checkedOn": "2026-11-19",
+        "checkedOn": "2026-11-20",
         "pages": [
           {
             "url": "https://job.mynavi.jp/28/pc/corpinfo/displayCorpSearchByIs/doSearchOther?isCourseOccupationCd=9",
@@ -4745,7 +4843,6 @@ window.dailyScan = {
           "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=dXNTs&corpId=103824",
           "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?corpId=222674&optNo=Z5TXp",
           "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?corpId=460&optNo=phImI",
-          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?corpId=61336&optNo=7pG6Q",
           "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?corpId=61336&optNo=07VBd",
           "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?corpId=71072&optNo=veEr6",
           "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?corpId=63253&optNo=jNQRp",
@@ -5741,7 +5838,7 @@ window.dailyScan = {
           "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?optNo=TrZH-&corpId=217914"
         ],
         "nextUrl": "https://job.mynavi.jp/28/pc/corpinfo/displayCorpSearchByIs/doSearchOther?isCourseOccupationCd=9",
-        "note": "11월 19일 첫 페이지를 재확인하고 공개 번호를 따라 31~34페이지의 서로 다른 모집 결과를 열었습니다. 각 페이지 후보 링크를 pending에 보존했습니다. 다음은 35페이지입니다. 31페이지 료모 시스템즈와 컴퓨터 매니지먼트 상세를 확인했으나 법인 단독 사원 수 확인이 남아 대기합니다. ALSOK OcoT2·GqRA3는 그룹 모집의 실제 IT 직무와 법인별 사원 수 확인이 남았습니다."
+        "note": "11월 19일 첫 페이지를 재확인하고 공개 번호를 따라 31~34페이지의 서로 다른 모집 결과를 열었습니다. 각 페이지 후보 링크를 pending에 보존했습니다. 다음은 35페이지입니다. 31페이지 료모 시스템즈와 컴퓨터 매니지먼트 상세를 확인했으나 법인 단독 사원 수 확인이 남아 대기합니다. ALSOK OcoT2·GqRA3는 그룹 모집의 실제 IT 직무와 법인별 사원 수 확인이 남았습니다.\n2026-11-20 예약 갱신: 규모 제한 없는 IT 체험 첫 페이지의 공개 검색 본문을 재확인(1,388사·47페이지 표시). 사쿠라 정보시스템의 체험·설명회 2건을 상세 확인·추가. 번호와 다음 30사 표시는 있으나 검색 도구에서 실행 가능한 페이지 링크로 제공되지 않아 35페이지 이동은 확인하지 못함. 새 열람 페이지를 추가하지 않았고 다음은 공개 브라우저에서 35페이지. 첫 페이지 다른 후보는 기존 pending에서 계속 검토하며 이번에 전부 심사하지 않음."
       },
       {
         "id": "it-research",
@@ -6030,8 +6127,8 @@ window.dailyScan = {
         "id": "software-list",
         "label": "소프트웨어 개발 업종 모집",
         "startUrl": "https://job.rikunabi.com/job_search/indu2-2204/",
-        "status": "unavailable",
-        "checkedOn": "2026-11-19",
+        "status": "partial",
+        "checkedOn": "2026-11-20",
         "pages": [
           {
             "url": "https://job.rikunabi.com/job_search/indu2-2204/",
@@ -6456,10 +6553,11 @@ window.dailyScan = {
           "https://job.rikunabi.com/job_descriptions/5ef03591bb8c724b/",
           "https://job.rikunabi.com/job_descriptions/b6b731c3ab099367/",
           "https://job.rikunabi.com/job_descriptions/d849fa98fa4e787d/",
-          "https://job.rikunabi.com/job_descriptions/cfa8a95af1204768/"
+          "https://job.rikunabi.com/job_descriptions/cfa8a95af1204768/",
+          "https://job.rikunabi.com/job_descriptions/d43634d7d05270e8/"
         ],
         "nextUrl": "",
-        "note": "11월 19일 공개 브라우저에서 소프트웨어 목록이 HTTP 503 점검 화면으로 표시됐습니다. 검색 도구에는 2주 전 목록이 남아 있으나 오늘 열람한 모집 페이지로 추가하지 않았습니다. 대기 후보 6b2593aa08a109fb도 원문 확인 실패로 보존합니다. 점검 종료 후 첫 페이지와 기존 5페이지 이후를 재시도합니다."
+        "note": "11월 19일 공개 브라우저에서 소프트웨어 목록이 HTTP 503 점검 화면으로 표시됐습니다. 검색 도구에는 2주 전 목록이 남아 있으나 오늘 열람한 모집 페이지로 추가하지 않았습니다. 대기 후보 6b2593aa08a109fb도 원문 확인 실패로 보존합니다. 점검 종료 후 첫 페이지와 기존 5페이지 이후를 재시도합니다.\n2026-11-20 예약 갱신: 공개 검색 본문의 첫 페이지 모집 결과와 일본 알고리즘 기업 모집을 확인했으나 다음 페이지 링크가 본문에 없음. 6b2593aa08a109fb·34a5c258bf409715·d43634d7d05270e8 상세는 Cache miss, 82f11555ad75032b는 503. 원래 이어갈 6페이지 및 실제 크롬에서 정상인 별도 목록 16페이지는 보존. 추가 열람 페이지 없음."
       },
       {
         "id": "all-industries-employee201",
@@ -6866,7 +6964,7 @@ window.dailyScan = {
           "https://job.rikunabi.com/job_descriptions/82f11555ad75032b/"
         ],
         "nextUrl": "",
-        "note": "일본 알고리즘 공개 기업 모집 목록 및 상세 2건을 확인. 온라인 Python 체험 상세는 조회 실패하여 대기. 기존 201명 이상 목록의 열람 기록을 100명 이상 완료로 간주하지 않음."
+        "note": "일본 알고리즘 공개 기업 모집 목록 및 상세 2건을 확인. 온라인 Python 체험 상세는 조회 실패하여 대기. 기존 201명 이상 목록의 열람 기록을 100명 이상 완료로 간주하지 않음.\n2026-11-20 예약 갱신: 온라인 Python 체험 원문은 503으로 재확인 실패, 대기를 유지."
       }
     ],
     "onecareer": [
@@ -7707,9 +7805,12 @@ window.dailyScan = {
         "status": "partial",
         "checkedOn": "2026-11-20",
         "pages": [],
-        "pending": [],
+        "pending": [
+          "https://www.onecareer.jp/events/internship/91837",
+          "https://www.onecareer.jp/events/internship/94549"
+        ],
         "nextUrl": "",
-        "note": "100~299명 후보를 찾는 기업·28졸 엔지니어 보완 검색만 수행. NHN 테코라스에서 발견된 행사 상세는 과거 모집 종료로 신규 등록하지 않음. 기존 300명 이상 목록을 보존하고 다음 순회는 100명 이상 기업을 포함한 새 공개 필터 위치부터 확인해야 함."
+        "note": "100~299명 후보를 찾는 기업·28졸 엔지니어 보완 검색만 수행. NHN 테코라스에서 발견된 행사 상세는 과거 모집 종료로 신규 등록하지 않음. 기존 300명 이상 목록을 보존하고 다음 순회는 100명 이상 기업을 포함한 새 공개 필터 위치부터 확인해야 함.\n2026-11-20 예약 갱신: 기업 규모 제한 없는 공개 28졸 설명회 목록은 모집 중 결과 -건 및 과거 행사만 표시. 28졸·엔지니어 키워드 검색은 접근 오류, 대기 설명회101458도 Cache miss. 테라스카이95346 11/24 Salesforce 체험 회차를 상세 확인·추가. 91837은 검색의 최신 일정과 상세 본문의 과거 일정이 달라 12/1 회차 상세 재확인이 필요하여 대기. 공개 사이트별 보완 검색으로 온라인·간토 외 지역·금융 및 네 유형을 살폈으나 전수 확인 아님."
       }
     ],
     "gaishi": [
@@ -7718,7 +7819,7 @@ window.dailyScan = {
         "label": "28졸 IT 엔지니어·시스템 엔지니어",
         "startUrl": "https://gaishishukatsu.com/recruiting_info?order=recommend&groupedJobTypeIDs=5&groupedJobTypeIDs=4&gy=2028&allgy=false&page=1&eventStart=&eventEnd=&entryStart=&entryEnd=",
         "status": "partial",
-        "checkedOn": "2026-11-19",
+        "checkedOn": "2026-11-20",
         "pages": [
           {
             "url": "https://gaishishukatsu.com/recruiting_info?allgy=true&groupedJobTypeIDs=5&order=recommend",
@@ -7756,7 +7857,6 @@ window.dailyScan = {
           "https://gaishishukatsu.com/recruiting_info/view/15426",
           "https://gaishishukatsu.com/recruiting_info/view/15420",
           "https://gaishishukatsu.com/recruiting_info/view/14443",
-          "https://gaishishukatsu.com/recruiting_info/view/15041",
           "https://gaishishukatsu.com/recruiting_info/view/14953",
           "https://gaishishukatsu.com/recruiting_info/view/15176",
           "https://gaishishukatsu.com/recruiting_info/view/15404",
@@ -7788,7 +7888,7 @@ window.dailyScan = {
           "https://gaishishukatsu.com/recruiting_info/view/15480"
         ],
         "nextUrl": "",
-        "note": "11월 19일 저장된 28졸·IT/시스템 엔지니어 검색을 공개 브라우저에서 다시 열었으나 결과 없음 화면이 표시되고 로딩 오류가 발생했습니다. 모집 결과 페이지 수는 늘리지 않았습니다. 공개 조건 메뉴에서 필터 상태를 재설정한 뒤 첫 페이지부터 재시도합니다. 15288은 금융 DX 설명회 내용·마감은 확인했으나 채용 법인 공식 사원 수가 확인되지 않아 pending에 보존합니다. 도메인 보완 검색으로 Supership 두 공고를 재확인했습니다."
+        "note": "11월 19일 저장된 28졸·IT/시스템 엔지니어 검색을 공개 브라우저에서 다시 열었으나 결과 없음 화면이 표시되고 로딩 오류가 발생했습니다. 모집 결과 페이지 수는 늘리지 않았습니다. 공개 조건 메뉴에서 필터 상태를 재설정한 뒤 첫 페이지부터 재시도합니다. 15288은 금융 DX 설명회 내용·마감은 확인했으나 채용 법인 공식 사원 수가 확인되지 않아 pending에 보존합니다. 도메인 보완 검색으로 Supership 두 공고를 재확인했습니다.\n2026-11-20 예약 갱신: 저장된 28졸 두 직종 검색 URL은 도구 접근 오류, 추천 목록도 모집 행 본문 없이 표시. 새 열람 페이지 수 없음. 도메인 보완 검색으로 대기15041 기프티를 상세 확인하고 법인308명 근거로 추가. 15288 상세 접근 오류 유지. PKSHA15418의 모집 중 2~4차 마감·대상·직무·도쿄 근무를 재확인, 지난 1차 기록은 보존."
       },
       {
         "id": "engineer-featured",
@@ -7824,7 +7924,7 @@ window.dailyScan = {
         "label": "기업 공식 28졸 엔지니어 신입·선고 확인",
         "startUrl": "https://cybozu.co.jp/recruit/entry/newgrad/cloudplatform-engineer2028.html",
         "status": "partial",
-        "checkedOn": "2026-11-19",
+        "checkedOn": "2026-11-20",
         "pages": [
           {
             "url": "https://cybozu.co.jp/recruit/entry/newgrad/cloudplatform-engineer2028.html",
@@ -7942,10 +8042,11 @@ window.dailyScan = {
           "https://www.biprogy.com/recruit/recruiting/",
           "https://www.i-note.jp/canon-its/contents/index.html",
           "https://careers.mercari.com/new-graduates/",
-          "https://recruit.systena.co.jp/2027/"
+          "https://recruit.systena.co.jp/2027/",
+          "https://internet.gmo/recruit_news/article/69/"
         ],
         "nextUrl": "",
-        "note": "기업별 공개 신입·선고 페이지를 보완 확인했습니다. 등록된 공고의 대상·직무·사원 수를 확인했고, 예약 일정이 마이페이지에서만 공개되는 경우 공고 요약에 표시했습니다. pending은 28졸 선고 접수 상태·채용 법인 또는 단독 사원 수 확인이 남은 공식 안내입니다. 전체 사이트 순회 완료를 뜻하지 않습니다. 소니네트워크커뮤니케이션즈는 공식 프로필 접근 제한, 히타치사회정보서비스는 그룹 합산 인원만 확인되어 보류했습니다. 2026-11-19 사용자 요청으로 근거가 있는 근사 인원·채용 사이트 인원 사용을 허용했습니다. 소니네트워크커뮤니케이션즈 약 800명과 히타치사회정보서비스 약 2,820명으로 보류를 해제하고 28졸 SE 모집을 등록했습니다."
+        "note": "기업별 공개 신입·선고 페이지를 보완 확인했습니다. 등록된 공고의 대상·직무·사원 수를 확인했고, 예약 일정이 마이페이지에서만 공개되는 경우 공고 요약에 표시했습니다. pending은 28졸 선고 접수 상태·채용 법인 또는 단독 사원 수 확인이 남은 공식 안내입니다. 전체 사이트 순회 완료를 뜻하지 않습니다. 소니네트워크커뮤니케이션즈는 공식 프로필 접근 제한, 히타치사회정보서비스는 그룹 합산 인원만 확인되어 보류했습니다. 2026-11-19 사용자 요청으로 근거가 있는 근사 인원·채용 사이트 인원 사용을 허용했습니다. 소니네트워크커뮤니케이션즈 약 800명과 히타치사회정보서비스 약 2,820명으로 보류를 해제하고 28졸 SE 모집을 등록했습니다.\n2026-11-20 예약 갱신: 클래스메소드·서버웍스·사이보우즈 클라우드 기반 28졸 공식 모집을 재확인. 실제 확인한 세 항목만 확인일 변경. 사이보우즈는 연중 접수, AWS·클라우드 등 기술 내용은 원문과 일치. GMO인터넷28졸 엔지니어 본선고 안내를 발견했으나 별도 상세·법인 인원 확인은 남아 pending에 추가."
       },
       {
         "id": "employee100-supplement-20261120",
