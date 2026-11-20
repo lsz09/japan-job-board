@@ -27,6 +27,7 @@ const companyFilter = document.querySelector("#company-filter");
 const industryFilter = document.querySelector("#industry-filter");
 const formatFilter = document.querySelector("#format-filter");
 const sizeFilter = document.querySelector("#size-filter");
+const revenueFilter = document.querySelector("#revenue-filter");
 const deadlineFilter = document.querySelector("#deadline-filter");
 const layoutFilter = document.querySelector("#layout-filter");
 const includeClosed = document.querySelector("#include-closed");
@@ -196,12 +197,46 @@ function addDetail(list, label, value) {
   list.append(row);
 }
 
+function matchesRevenueCriteria(company) {
+  return company?.cloudRelated === true && Number.isFinite(company.revenueMillionYen) &&
+    company.revenueMillionYen >= 50000 && company.revenueMillionYen <= 500000 &&
+    ["standalone", "consolidated"].includes(company.revenueBasis) &&
+    Boolean(company.revenueFiscalYear && httpUrl(company.revenueUrl) && httpUrl(company.cloudEvidenceUrl));
+}
+
+function revenueLabel(company) {
+  const amount = (company.revenueMillionYen / 100).toLocaleString("ko-KR", { maximumFractionDigits: 2 });
+  return amount + "억 엔 · " + (company.revenueBasis === "standalone" ? "단독" : "연결") + " · " + company.revenueFiscalYear;
+}
+
+function renderRevenueCompanies() {
+  const box = document.querySelector("#revenue-companies");
+  box.hidden = view !== "cloud" || revenueFilter.value !== "500-5000";
+  if (box.hidden) return;
+  const list = document.querySelector("#revenue-company-list");
+  list.replaceChildren();
+  for (const result of dailyScan.companyResearch ?? []) {
+    const company = dailyScan.companies?.[result.company];
+    if (!matchesRevenueCriteria(company)) continue;
+    const row = element("article", "company-info");
+    row.append(element("h4", "", result.company),
+      element("p", "", revenueLabel(company)),
+      element("p", "", company.cloudReason),
+      element("p", "", result.recruitStatus),
+      externalLink(company.revenueUrl, "매출 근거"), " · ",
+      externalLink(company.cloudEvidenceUrl, "클라우드 사업 근거"), " · ",
+      externalLink(result.recruitUrl, "채용 안내"));
+    list.append(row);
+  }
+}
+
 function renderCompanyInfo(job, company = dailyScan.companies?.[job.company]) {
   const box = element("div", "company-info");
   const facts = element("dl", "company-facts");
   const sizeLabel = `${company?.sizeApproximate ? "약 " : ""}${job.employeeCount.toLocaleString("ko-KR")}명`;
   const size = externalLink(job.companySizeUrl, sizeLabel, "", `${job.company} 종업원 ${sizeLabel} 근거 (새 탭)`);
   addDetail(facts, "종업원 수", size);
+  if (Number.isFinite(company?.revenueMillionYen) && httpUrl(company.revenueUrl)) addDetail(facts, "매출액", externalLink(company.revenueUrl, revenueLabel(company)));
   addDetail(facts, "업계", industries[company?.industry ?? job.industry]);
   addDetail(facts, "본사 주소", company?.address);
   addDetail(facts, "주요 사업", company?.business);
@@ -273,7 +308,7 @@ for (const company of companies) companyFilter.append(element("option", "", comp
 
 const filterParams = {
   source: sourceFilter, industry: industryFilter, region: regionFilter, format: formatFilter,
-  size: sizeFilter, deadline: deadlineFilter, company: companyFilter,
+  size: sizeFilter, revenue: revenueFilter, deadline: deadlineFilter, company: companyFilter,
 };
 const initialParams = new URLSearchParams(window.location.search);
 for (const [key, input] of Object.entries(filterParams)) {
@@ -299,6 +334,7 @@ function rememberFilters() {
 }
 
 function matchesDailyFilters(job, deadline, now, today) {
+  if (revenueFilter.value === "500-5000" && !matchesRevenueCriteria(dailyScan.companies?.[job.company])) return false;
   if (regionFilter.value && !job.regions.includes(regionFilter.value)) return false;
   if (companyFilter.value && job.company !== companyFilter.value) return false;
   if (industryFilter.value && jobIndustry(job) !== industryFilter.value) return false;
@@ -486,6 +522,7 @@ function render() {
     else link.removeAttribute("aria-current");
   }
   const cloudView = view === "cloud";
+  renderRevenueCompanies();
   document.getElementById("daily").hidden = view !== "daily" && !cloudView;
   document.getElementById("cloud-description").hidden = !cloudView;
   for (const name of ["applied", "calendar"]) document.getElementById(name).hidden = name !== view;
