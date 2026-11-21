@@ -1,5 +1,5 @@
 window.dailyScan = {
-  "checkedAt": "2026-11-20T05:45:07.763Z",
+  "checkedAt": "2026-11-21T07:21:57.615Z",
   "sources": {
     "mynavi": "partial",
     "rikunabi": "partial",
@@ -3902,6 +3902,52 @@ window.dailyScan = {
       "location": "도쿄 본사, 원격 근무 병행",
       "audience": "2028년 4월 입사 가능하고 웹 애플리케이션 개발 경험이 있는 분. 수업·인턴·개인 개발 모두 인정하며 팀 개발 경험은 우대합니다.",
       "summary": "e기프트 제품의 신규·기존 기능, 아키텍처 설계·구현, 사용성·성능·신뢰성 개선과 운영을 담당합니다. 설명회, 서류, 면접·스킬 테스트, 1주 인턴 등을 거칩니다. 지원 후 1주 이내 이력서 제출이 필요합니다."
+    },
+    {
+      "id": "mynavi-64952-XTLRQ",
+      "company": "IIJ",
+      "title": "28졸 IIJ 기업·엔지니어 직무 소개 온라인 설명회",
+      "type": "briefing",
+      "source": "mynavi",
+      "date": "2027-02-28",
+      "time": "",
+      "url": "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?corpId=64952&optNo=XTLRQ",
+      "employeeCount": 3174,
+      "companySizeUrl": "https://www.iij.ad.jp/company/about/outline/",
+      "regions": [
+        "online"
+      ],
+      "location": "온라인",
+      "verifiedOn": "2026-11-21",
+      "audience": "2028졸을 포함한 4년제 대학·대학원 재학생. 전공 불문이며 저학년도 참가할 수 있습니다. 선고 없이 선착순으로 참가합니다.",
+      "summary": "IIJ의 네트워크·클라우드·보안 사업, 직무와 사내 문화, 인턴십을 소개하고 질의응답을 진행합니다. 약 1~1.5시간이며 2026년 5월~2027년 2월 격주 개최 안내입니다. 각 회차 예약과 최신 일정은 IIJ 마이페이지에서 확인합니다.",
+      "cloudRelated": true,
+      "cloudReason": "자체 IIJ GIO 클라우드 사업을 운영하는 IIJ의 업계·직무 소개 설명회입니다.",
+      "cloudEvidenceUrl": "https://www.iij.ad.jp/news/pressrelease/2026/0330.html",
+      "cloudVerifiedOn": "2026-11-21"
+    },
+    {
+      "id": "mynavi-64952-WGTIg",
+      "company": "IIJ",
+      "title": "28졸 인사 담당자의 IT 업계·직무 이해 온라인 설명회",
+      "type": "briefing",
+      "source": "mynavi",
+      "date": "2027-02-28",
+      "time": "",
+      "url": "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?corpId=64952&optNo=WGTIg",
+      "employeeCount": 3174,
+      "companySizeUrl": "https://www.iij.ad.jp/company/about/outline/",
+      "regions": [
+        "online"
+      ],
+      "location": "온라인",
+      "verifiedOn": "2026-11-21",
+      "audience": "2028졸을 포함한 4년제 대학·대학원 재학생. 전공 불문이며 저학년도 참가할 수 있습니다. 선고 없이 선착순으로 참가합니다.",
+      "summary": "인사 담당자가 IT 업계와 직무, IIJ 및 직무 체험 프로그램을 소개하고 질의응답을 진행합니다. 약 1~1.5시간이며 2026년 5월~2027년 2월 격주 개최 안내입니다. 클라우드 사업 기업의 일반 업계·직무 설명회이며 클라우드 실습은 아닙니다. 회차별 예약은 마이페이지에서 확인합니다.",
+      "cloudRelated": true,
+      "cloudReason": "자체 IIJ GIO 클라우드 사업을 운영하는 IIJ의 업계·직무 소개 설명회입니다.",
+      "cloudEvidenceUrl": "https://www.iij.ad.jp/news/pressrelease/2026/0330.html",
+      "cloudVerifiedOn": "2026-11-21"
     }
   ],
   "companies": {
@@ -6195,6 +6241,25 @@ window.dailyScan = {
         "pending": [],
         "nextUrl": "",
         "note": "100~299명 기업을 포함한 도메인·기업별 보완 검색으로 YCC 2개 상세와 회사 정보를 확인. 목록 순회는 하지 않아 열람 페이지 0으로 기록. 종전 목록은 과거 조건의 기록이며 새 기준 전수 확인은 미완료."
+      },
+      {
+        "id": "iij-public-courses-20261121",
+        "label": "매출·클라우드 조건 충족 IIJ 공개 모집 코스 보완 확인",
+        "startUrl": "https://job.mynavi.jp/28/pc/search/corp64952/is.html",
+        "status": "partial",
+        "checkedOn": "2026-11-21",
+        "pages": [
+          {
+            "url": "https://job.mynavi.jp/28/pc/search/corp64952/is.html",
+            "label": "IIJ 공개 코스 목록 1페이지"
+          }
+        ],
+        "pending": [
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?corpId=64952&optNo=YBWOB",
+          "https://job.mynavi.jp/28/pc/corpinfo/displayInternship/index?corpId=64952&optNo=G5Yaa"
+        ],
+        "nextUrl": "",
+        "note": "IIJ 코스 목록과 온라인 설명회 상세 2건의 대상·내용·신청 마감을 확인해 등록했습니다. 여름 5일 네트워크·클라우드 및 3주 클라우드 과정은 상세에 여름 개최와 2027-02-28 마감이 함께 나와 실제 향후 회차를 특정하지 못해 보류합니다. 나머지 직무 체험 후보는 이 코스 목록에서 제목 링크를 이어서 확인해야 합니다. 전체 마이나비 순회 완료를 뜻하지 않습니다."
       }
     ],
     "rikunabi": [
@@ -8142,7 +8207,7 @@ window.dailyScan = {
         "label": "매출 500억~5,000억 엔·클라우드 기업 확인",
         "startUrl": "https://www.iij.ad.jp/company/about/outline/",
         "status": "partial",
-        "checkedOn": "2026-11-20",
+        "checkedOn": "2026-11-21",
         "pages": [],
         "pending": [
           "https://www.iij.ad.jp/recruit/newgrad/guidelines.html",
@@ -8150,7 +8215,7 @@ window.dailyScan = {
           "https://www.biprogy.com/recruit/recruiting/"
         ],
         "nextUrl": "",
-        "note": "회사별 단독 매출·클라우드 사업과 채용 경로를 보완 확인. IIJ·DTS·BIPROGY·JBS·CEC 5개 기업이 매출·클라우드 조건에 해당. JBS와 CEC의 기존 28졸 공고만 접수 경로까지 재확인했으며 미확인 공고는 추가하지 않음. 크레스코 단독323.33억 엔은 제외. 네트원은 28졸 SCSK 통합 채용으로 채용 법인 확인이 필요하고, TISI는 합병 전 TIS 매출을 현 법인 실적으로 간주할 수 없어 보류. 기업별 보완 확인이며 모집 목록 열람 페이지 수는 증가시키지 않음."
+        "note": "회사별 단독 매출·클라우드 사업과 채용 경로를 보완 확인. IIJ·DTS·BIPROGY·JBS·CEC 5개 기업이 매출·클라우드 조건에 해당. JBS와 CEC의 기존 28졸 공고만 접수 경로까지 재확인했으며 미확인 공고는 추가하지 않음. 크레스코 단독323.33억 엔은 제외. 네트원은 28졸 SCSK 통합 채용으로 채용 법인 확인이 필요하고, TISI는 합병 전 TIS 매출을 현 법인 실적으로 간주할 수 없어 보류. 기업별 보완 확인이며 모집 목록 열람 페이지 수는 증가시키지 않음.\n2026-11-21 IIJ 마이나비2028 온라인 설명회 2건의 개별 모집 내용을 추가 확인해 등록했습니다. 공식 본선고 확인 대기는 유지합니다. 매출은 사용자 확인에 따라 법인 단독 우선·미공개 시에만 연결 대체 표기를 유지합니다."
       }
     ]
   },
@@ -8161,13 +8226,13 @@ window.dailyScan = {
     "maxRevenueMillionYen": 500000,
     "cloudBusinessRequired": true,
     "revenueBasisPolicy": "standalone-first-consolidated-only-if-unpublished",
-    "updatedOn": "2026-11-20"
+    "updatedOn": "2026-11-21"
   },
   "companyResearch": [
     {
       "company": "IIJ",
       "recruitUrl": "https://www.iij.ad.jp/recruit/newgrad/guidelines.html",
-      "recruitStatus": "28졸 채용 경로와 인턴십 안내 확인. 공개 모집요강에는 졸업연도별 선고 접수 상태가 명확하지 않아 개별 공고 확인 대기."
+      "recruitStatus": "마이나비2028에서 현재 안내되는 온라인 기업·직무 소개 및 IT 업계 이해 설명회 2건을 확인해 등록. 전체 신청 마감은 2027-02-28이며 회차 예약은 마이페이지 확인. 공식 본선고의 28졸 접수 상태는 별도 확인 대기."
     },
     {
       "company": "DTS",
