@@ -3955,226 +3955,770 @@ window.dailyScan = {
       "industry": "it",
       "address": "東京都千代田区紀尾井町1-3",
       "business": "LINE 메신저, Yahoo! JAPAN 포털, 인터넷 광고와 전자상거래 서비스를 운영합니다.",
-      "url": "https://www.lycorp.co.jp/ja/company/overview"
+      "url": "https://www.lycorp.co.jp/ja/company/overview",
+      "foreignHiring": {
+        "status": "confirmed",
+        "scope": "hiring_entity",
+        "reason": "공식 채용 FAQ에서 외국 국적 재직자와 가족을 위한 지원 조직·비자 지원을 명시합니다. 신입·해당 직무별 실적 인원은 별도 미확인입니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://www.lycorp.co.jp/ja/recruit/faq/",
+          "https://www.lycorp.co.jp/ja/ir/news/auto_20230801531800/pdfFile.pdf",
+          "https://www.lycorp.co.jp/ja/sustainability/esg/data/"
+        ],
+        "evidence": [
+          {
+            "url": "https://www.lycorp.co.jp/ja/recruit/faq/",
+            "label": "조사 자료"
+          }
+        ],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "freee": {
       "industry": "it",
       "address": "東京都品川区大崎1-2-2 アートヴィレッジ大崎セントラルタワー21階",
       "business": "중소기업과 개인사업자를 위한 클라우드 회계, 인사·급여, 청구 관리 소프트웨어를 개발합니다.",
-      "url": "https://corp.freee.co.jp/company/"
+      "url": "https://corp.freee.co.jp/company/",
+      "foreignHiring": {
+        "status": "confirmed",
+        "scope": "hiring_entity",
+        "reason": "공식 DEI 안내에서 일본 거점의 외국 국적 엔지니어 채용과 재직을 명시합니다. 신입 채용 인원은 공개되지 않았습니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://corp.freee.co.jp/ir/factbook_ja.pdf"
+        ],
+        "evidence": [
+          {
+            "url": "https://jobs.freee.co.jp/environment/diversity/",
+            "label": "조사 자료"
+          }
+        ],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "GA technologies": {
       "industry": "real-estate",
       "address": "東京都港区六本木3-2-1 住友不動産六本木グランドタワー",
       "business": "부동산 투자·거래 플랫폼 RENOSY를 운영하고 부동산 업무를 디지털화하는 제품을 개발합니다.",
-      "url": "https://www.ga-tech.co.jp/company/outline/"
+      "url": "https://www.ga-tech.co.jp/company/outline/",
+      "foreignHiring": {
+        "status": "group_only",
+        "scope": "group",
+        "reason": "공식 자료에서 그룹사 이탄지의 외국인 IT 인재 및 한국 교육기관 연계 채용을 확인했습니다. GA technologies 법인 단독 실적은 미확인입니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://www.ga-tech.co.jp/careers/faq/",
+          "https://note.ga-tech.co.jp/n/n6ac5f7a6c8c4",
+          "https://www.ga-tech.co.jp/careers/"
+        ],
+        "evidence": [
+          {
+            "url": "https://www.ga-tech.co.jp/news/11843/",
+            "label": "조사 자료"
+          }
+        ],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "AR Advanced Technology": {
       "industry": "it",
       "address": "東京都渋谷区渋谷2-17-1 渋谷アクシュ18F",
       "business": "클라우드 구축과 데이터·AI 활용을 중심으로 기업의 시스템 개발과 디지털 전환을 지원합니다.",
-      "url": "https://ari-jp.com/recruit/company.html"
+      "url": "https://ari-jp.com/recruit/company.html",
+      "foreignHiring": {
+        "status": "unknown",
+        "scope": "unknown",
+        "reason": "해당 기업의 공식 도메인과 공개 채용 자료를 검색했지만, 채용 법인 단독의 외국인 채용 인원·입사 또는 재직 사례를 확인하지 못했습니다. 공개 근거 미확보이며 이력 없음이나 지원 불가로 단정하지 않습니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://www.ari-jp.com/recruit/index.html"
+        ],
+        "evidence": [],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "NTT 데이터 위즈": {
       "industry": "it",
       "address": "東京都江東区豊洲2-1-9 豊洲セイルパークビル",
       "business": "기업의 업무 프로세스 운영, 사내 공통 업무 지원, 시스템 개발과 인터넷 광고를 제공합니다.",
       "url": "https://www.nttdata-with.com/company/outline.html",
-      "sizeApproximate": true
+      "sizeApproximate": true,
+      "foreignHiring": {
+        "status": "unknown",
+        "scope": "unknown",
+        "reason": "해당 기업의 공식 도메인과 공개 채용 자료를 검색했지만, 채용 법인 단독의 외국인 채용 인원·입사 또는 재직 사례를 확인하지 못했습니다. 공개 근거 미확보이며 이력 없음이나 지원 불가로 단정하지 않습니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://www.nttdata-with.com/recruit/index.html",
+          "https://www.nttdata-with.com/recruit/info/career/faq.html",
+          "https://www.nttdata-with.com/privacy/recruit.html"
+        ],
+        "evidence": [],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "Kernel Software Engineering": {
       "industry": "it",
       "address": "愛知県名古屋市中村区大秋町2-51",
       "business": "자동차·기기 제어용 임베디드 소프트웨어와 기업용 업무 시스템을 개발합니다.",
-      "url": "https://www.kernel-se.co.jp/company/"
+      "url": "https://www.kernel-se.co.jp/company/",
+      "foreignHiring": {
+        "status": "unknown",
+        "scope": "unknown",
+        "reason": "대학 취업 플랫폼에 유학생 채용 여부 ‘없음’으로 기재돼 있습니다. 현재 모집 방침에 관한 자료이며 과거 외국인 전체 채용 이력 없음으로 확대하지 않았습니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://www.career-platform.com/contents_4995.html"
+        ],
+        "evidence": [
+          {
+            "url": "https://www.career-platform.com/contents_4995.html",
+            "label": "조사 자료"
+          }
+        ],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "Works Applications": {
       "industry": "it",
       "address": "東京都千代田区麹町1-12-1 住友不動産ふくおか半蔵門ビル7階",
       "business": "재무·구매 등 기업 업무를 통합 관리하는 ERP 제품을 개발하고 도입·운영을 지원합니다.",
-      "url": "https://www.worksap.co.jp/about/profile/"
+      "url": "https://www.worksap.co.jp/about/profile/",
+      "foreignHiring": {
+        "status": "confirmed",
+        "scope": "hiring_entity",
+        "reason": "공식 제도 안내에서 일본 국내에 근무하는 외국 국적 직원의 모국 공휴일에 맞춘 휴가 제도를 설명합니다. 신입·경력별 채용 인원은 미확인입니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://www.worksap.co.jp/about/",
+          "https://www.worksap.co.jp/about/system/",
+          "https://www.worksap.co.jp/personal-information-handling/index.html"
+        ],
+        "evidence": [
+          {
+            "url": "https://www.worksap.co.jp/about/system/",
+            "label": "조사 자료"
+          }
+        ],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "액센추어 일본": {
       "industry": "consulting",
       "address": "東京都港区赤坂1-8-1 赤坂インターシティAIR",
       "business": "전략·업무 컨설팅과 함께 클라우드·AI 도입, 시스템 개발 및 운영을 지원합니다.",
       "url": "https://www.accenture.com/ja/about/company-index?country=jp",
-      "sizeApproximate": true
+      "sizeApproximate": true,
+      "foreignHiring": {
+        "status": "policy_only",
+        "scope": "current_policy",
+        "reason": "일본 공식 경력 채용 FAQ에서 국적 제한이 없다고 명시합니다. 이 자료만으로 일본 법인 신입 채용 실적까지 확인하지 않았습니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://www.accenture.com/jp-ja/careers/explore-careers/area-of-interest/journey-to-accenture",
+          "https://www.accenture.com/es-es/careers/jobdetails?id=R00334435_ja",
+          "https://www.accenture.com/content/dam/accenture/final/a-com-migration/pdf/pdf-63/accenture-cobe-brochure-japanese.pdf"
+        ],
+        "evidence": [
+          {
+            "url": "https://www.accenture.com/jp-ja/careers/explore-careers/area-of-interest/journey-to-accenture",
+            "label": "조사 자료"
+          }
+        ],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "Money Forward": {
       "industry": "it",
       "address": "東京都港区芝浦3-1-21 msb Tamachi 田町ステーションタワーS 21F",
       "business": "개인용 자산관리 앱 Money Forward ME와 기업용 회계·인사 클라우드를 운영합니다.",
-      "url": "https://corp.moneyforward.com/aboutus/outline/"
+      "url": "https://corp.moneyforward.com/aboutus/outline/",
+      "foreignHiring": {
+        "status": "group_only",
+        "scope": "group",
+        "reason": "공식 인재전략 자료에서 해외 개발 거점과 일본 국내의 비일본어 모국어 인재 채용·해외 이전 지원을 확인했습니다. 언어 지표와 그룹 자료이므로 법인 단독 외국 국적 신입 인원으로 간주하지 않았습니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://corp.moneyforward.com/sustainability/talentforward/",
+          "https://corp.moneyforward.com/privacy/recruitment/",
+          "https://corp.moneyforward.com/assets/sustainability/pdf/TalentForwardStrategy_2024.pdf"
+        ],
+        "evidence": [
+          {
+            "url": "https://corp.moneyforward.com/assets/sustainability/pdf/TalentForwardStrategy_2024.pdf",
+            "label": "조사 자료"
+          }
+        ],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "후쿠오카은행": {
       "industry": "finance",
       "address": "福岡県福岡市中央区天神2-13-1",
       "business": "규슈를 중심으로 개인과 기업에 예금·대출·결제 서비스를 제공하는 지역은행입니다.",
-      "url": "https://www.fukuokabank.co.jp/aboutus/outline/index.html"
+      "url": "https://www.fukuokabank.co.jp/aboutus/outline/index.html",
+      "foreignHiring": {
+        "status": "unknown",
+        "scope": "unknown",
+        "reason": "대학 취업 플랫폼에는 외국인 유학생 ‘모집 없음’이 표시됩니다. 현재 유학생 모집 안내와 과거 채용 실적은 별개이며, 후쿠오카은행의 실적은 추가 확인이 필요합니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://www.fukuokabank.co.jp/pdf/20230929_release1.pdf",
+          "https://www.fukuokabank.co.jp/pdf/20240229_release.pdf",
+          "https://www.fukuokabank.co.jp/pdf/20250321-2_release.pdf"
+        ],
+        "evidence": [
+          {
+            "url": "https://www.careerplatform-kyusyu-u.com/contents_987.html",
+            "label": "조사 자료"
+          }
+        ],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "NTT 도코모 솔루션즈": {
       "industry": "it",
       "address": "東京都港区港南1-9-1 NTT品川TWINS アネックスビル",
       "business": "통신망과 기업용 정보시스템의 설계·개발·운영을 맡고 클라우드와 AI 솔루션을 제공합니다.",
-      "url": "https://www.docomosolutions.co.jp/corporate/outline/"
+      "url": "https://www.docomosolutions.co.jp/corporate/outline/",
+      "foreignHiring": {
+        "status": "unknown",
+        "scope": "unknown",
+        "reason": "해당 기업의 공식 도메인과 공개 채용 자료를 검색했지만, 채용 법인 단독의 외국인 채용 인원·입사 또는 재직 사례를 확인하지 못했습니다. 공개 근거 미확보이며 이력 없음이나 지원 불가로 단정하지 않습니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://www.docomosolutions.co.jp/employ/recruit/women/",
+          "https://www.docomosolutions.co.jp/employ/recruit/work/project02.html",
+          "https://www.docomosolutions.co.jp/employ/career/message/"
+        ],
+        "evidence": [],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "City-Com": {
       "industry": "it",
       "address": "오사카 본사 大阪府大阪市中央区北浜3-6-22 淀屋橋ステーションワン24F\n도쿄 본사 東京都新宿区西新宿7-20-1 住友不動産西新宿ビル33F",
       "business": "기업용 웹·업무 시스템을 개발하고 Salesforce 등 클라우드 시스템의 도입을 지원합니다.",
-      "url": "https://www.citycom.co.jp/sp/outline.html"
+      "url": "https://www.citycom.co.jp/sp/outline.html",
+      "foreignHiring": {
+        "status": "policy_only",
+        "scope": "current_policy",
+        "reason": "공식 채용 소개에서 미얀마 학생 채용을 위한 현지 방문 활동을 확인했습니다. 실제 입사 완료·재직 인원은 별도 확인되지 않았습니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://www.citycom.co.jp/sp/en/employeetraining.html",
+          "https://www.citycom.co.jp/recruit/about/"
+        ],
+        "evidence": [
+          {
+            "url": "https://www.citycom.co.jp/recruit/about/",
+            "label": "조사 자료"
+          }
+        ],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "Supership": {
       "industry": "it",
       "address": "東京都港区虎ノ門2-10-1 虎ノ門ツインビルディング東棟11階",
       "business": "광고 배포·효과 측정과 데이터 활용 솔루션을 제공하고 전자상거래 검색 등 플랫폼을 개발합니다.",
-      "url": "https://supership.jp/about/company"
+      "url": "https://supership.jp/about/company",
+      "foreignHiring": {
+        "status": "unknown",
+        "scope": "unknown",
+        "reason": "해당 기업의 공식 도메인과 공개 채용 자료를 검색했지만, 채용 법인 단독의 외국인 채용 인원·입사 또는 재직 사례를 확인하지 못했습니다. 공개 근거 미확보이며 이력 없음이나 지원 불가로 단정하지 않습니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [],
+        "evidence": [],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "RAKUS": {
       "industry": "it",
       "address": "東京都渋谷区千駄ヶ谷5-27-5 リンクスクエア新宿7階",
       "business": "경비 정산, 청구서 발행, 판매·근태 관리 등 기업의 일상 업무를 처리하는 클라우드 소프트웨어를 제공합니다.",
-      "url": "https://www.rakus.co.jp/recruit/company/outline/"
+      "url": "https://www.rakus.co.jp/recruit/company/outline/",
+      "foreignHiring": {
+        "status": "unknown",
+        "scope": "unknown",
+        "reason": "해당 기업의 공식 도메인과 공개 채용 자료를 검색했지만, 채용 법인 단독의 외국인 채용 인원·입사 또는 재직 사례를 확인하지 못했습니다. 공개 근거 미확보이며 이력 없음이나 지원 불가로 단정하지 않습니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://www.rakus.co.jp/rakurakucloud/jinjiroumu/faq/function/",
+          "https://career-recruit.rakus.co.jp/engineer_jobs/dev-expatriate-vn/",
+          "https://www.rakus.co.jp/rakurakucloud/seisan/column/expenses-system/english.php"
+        ],
+        "evidence": [],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "KPMG FAS": {
       "industry": "consulting",
       "address": "東京都千代田区大手町1-9-5 大手町フィナンシャルシティ ノースタワー",
       "business": "인수합병 자문, 기업 가치평가, 사업 재편과 부정 조사 등 재무·리스크 자문을 제공합니다.",
-      "url": "https://kpmg.com/jp/ja/about/fas/corporate-profile.html"
+      "url": "https://kpmg.com/jp/ja/about/fas/corporate-profile.html",
+      "foreignHiring": {
+        "status": "group_only",
+        "scope": "group",
+        "reason": "KPMG Japan 공식 보고서에 외국 국적 인력의 국적 수가 공개되지만 KPMG FAS 단독 인원·신입 실적과 구분되지 않아 그룹 자료로 표시합니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://kpmg.com/jp/ja/about/kit/culture.html",
+          "https://assets.kpmg.com/content/dam/kpmgsites/jp/pdf/2023/jp-vietnam-immigrationalert-workpermit.pdf",
+          "https://kpmg.com/jp/ja/insights/2026/04/case-nok.html"
+        ],
+        "evidence": [
+          {
+            "url": "https://assets.kpmg.com/content/dam/kpmgsites/jp/pdf/2025/jp-our-impact-plan-2025.pdf",
+            "label": "조사 자료"
+          }
+        ],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "M3": {
       "industry": "healthcare",
       "address": "東京都港区赤坂1-11-44 赤坂インターシティ10階",
       "business": "의료인 정보 플랫폼 m3.com을 운영하고 제약사의 정보 제공과 의료기관용 디지털 서비스 개발을 지원합니다.",
-      "url": "https://corporate.m3.com/corporate/"
+      "url": "https://corporate.m3.com/corporate/",
+      "foreignHiring": {
+        "status": "confirmed",
+        "scope": "hiring_entity",
+        "reason": "기업이 게시한 엔지니어 채용 페이지에 외국 국적 개발 멤버가 있다고 명시돼 있습니다. 해당 법인의 재직 사례이며 28졸 채용 실적을 뜻하지 않습니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://jobs.forkwell.com/M3/jobs/29768"
+        ],
+        "evidence": [
+          {
+            "url": "https://jobs.forkwell.com/M3/jobs/29768",
+            "label": "조사 자료"
+          }
+        ],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "Digital Information Technologies": {
       "industry": "it",
       "address": "東京都中央区八丁堀4-5-4 NODEX桜橋",
       "business": "기업용 시스템과 임베디드 소프트웨어를 개발·검증하고 웹 보안 제품과 시스템 운영 서비스를 제공합니다.",
-      "url": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=9010001103734"
+      "url": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=9010001103734",
+      "foreignHiring": {
+        "status": "confirmed",
+        "scope": "hiring_entity",
+        "reason": "2026년 6월기 유가증권보고서에 외국인 채용은 신입 중심이며 2026년 6월 말 12명 재직한다고 공시합니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://info.gbiz.go.jp/hojin/edinetDownload?docId=S100Y2PC",
+          "https://info.gbiz.go.jp/hojin/edinetDownload?docId=S100VI1J",
+          "https://info.gbiz.go.jp/hojin/edinetDownload?docId=S100VYYN"
+        ],
+        "evidence": [
+          {
+            "url": "https://info.gbiz.go.jp/hojin/edinetDownload?docId=S100Z4HZ",
+            "label": "조사 자료"
+          }
+        ],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "PCA": {
       "industry": "it",
       "address": "東京都千代田区富士見1-2-21 PCAビル",
       "business": "회계, 급여, 판매관리 등 기업의 핵심 업무를 지원하는 소프트웨어와 클라우드 서비스를 개발·판매합니다.",
-      "url": "https://corp.pca.jp/company/profile.html"
+      "url": "https://corp.pca.jp/company/profile.html",
+      "foreignHiring": {
+        "status": "unknown",
+        "scope": "unknown",
+        "reason": "해당 기업의 공식 도메인과 공개 채용 자료를 검색했지만, 채용 법인 단독의 외국인 채용 인원·입사 또는 재직 사례를 확인하지 못했습니다. 공개 근거 미확보이며 이력 없음이나 지원 불가로 단정하지 않습니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [],
+        "evidence": [],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "Sansan": {
       "industry": "it",
       "address": "東京都渋谷区桜丘町1-1 渋谷サクラステージ 28F",
       "business": "영업 데이터 관리 서비스 Sansan, 청구서 관리 서비스 Bill One, 명함 관리 서비스 Eight 등을 개발·운영합니다.",
-      "url": "https://jp.corp-sansan.com/company/info/"
+      "url": "https://jp.corp-sansan.com/company/info/",
+      "foreignHiring": {
+        "status": "confirmed",
+        "scope": "hiring_entity",
+        "reason": "공식 직원 소개에 글로벌 신입 엔지니어 인터뷰와 외국 국적 직원의 사내 활동 사례가 공개돼 있습니다. 그룹 비율을 법인 단독 인원으로 옮기지 않았습니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://jp.corp-sansan.com/sustainability/esgdata/",
+          "https://jp.corp-sansan.com/sustainability/society/diversity/",
+          "https://jp.corp-sansan.com/mimi/2022/10/yoiko2022-1.html"
+        ],
+        "evidence": [
+          {
+            "url": "https://jp.corp-sansan.com/mimi/2024/04/interview-89.html",
+            "label": "조사 자료"
+          }
+        ],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "Sky": {
       "industry": "it",
       "address": "도쿄 본사 東京都港区港南2-18-1 JR品川イーストビル 9階 / 오사카 본사 大阪府大阪市北区梅田3-2-2 JPタワー大阪 24階",
       "business": "업무용·교육용 소프트웨어 제품과 기업용 시스템을 개발하며 자동차 등 제품에 탑재되는 소프트웨어도 개발합니다.",
-      "url": "https://www.skygroup.jp/company/"
+      "url": "https://www.skygroup.jp/company/",
+      "foreignHiring": {
+        "status": "none_reported",
+        "scope": "student_history",
+        "reason": "대학 취업 플랫폼의 기업 제공 항목에 ‘외국인 유학생 채용 실적 없음’이 명시됩니다. 자료 기준의 유학생 실적에 한정하며 외국인 전체의 영구적 채용 불가를 뜻하지 않습니다. 적용 연도는 미기재입니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://careerplatform-kyusyu-u.com/contents_3672.html"
+        ],
+        "evidence": [
+          {
+            "url": "https://careerplatform-kyusyu-u.com/contents_3672.html",
+            "label": "조사 자료"
+          }
+        ],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "TIS 솔루션 링크": {
       "industry": "it",
       "address": "東京都新宿区西新宿8-17-1 住友不動産新宿グランドタワー 17階",
       "business": "금융, 산업, 공공 분야 고객의 정보 시스템을 설계·개발하고 운영·관리합니다.",
-      "url": "https://www.tsolweb.co.jp/company/information/"
+      "url": "https://www.tsolweb.co.jp/company/information/",
+      "foreignHiring": {
+        "status": "unknown",
+        "scope": "unknown",
+        "reason": "해당 기업의 공식 도메인과 공개 채용 자료를 검색했지만, 채용 법인 단독의 외국인 채용 인원·입사 또는 재직 사례를 확인하지 못했습니다. 공개 근거 미확보이며 이력 없음이나 지원 불가로 단정하지 않습니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [],
+        "evidence": [],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "퍼솔 크로스 테크놀로지": {
       "industry": "it",
       "address": "東京都新宿区西新宿2-1-1 新宿三井ビルディング51F",
       "business": "기업용 시스템과 IT 인프라를 개발하고, 자동차·로봇 등 제조 분야의 제품 설계와 임베디드 개발을 지원합니다.",
-      "url": "https://persol-xtech.co.jp/company/profile/"
+      "url": "https://persol-xtech.co.jp/company/profile/",
+      "foreignHiring": {
+        "status": "confirmed",
+        "scope": "hiring_entity",
+        "reason": "공식 경력 채용 FAQ에서 일본 이외 16개국·200명 이상의 직원이 활약한다고 명시합니다. 신입·경력별 내역은 미확인입니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://persol-xtech.co.jp/recruit/career/recruit/faq/",
+          "https://persol-xtech.co.jp/recruit/newgraduate/recruit/entry/",
+          "https://persol-xtech.co.jp/news/release/20241107-013270.html"
+        ],
+        "evidence": [
+          {
+            "url": "https://persol-xtech.co.jp/recruit/career/recruit/faq/",
+            "label": "조사 자료"
+          }
+        ],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "TechVan": {
       "industry": "it",
       "address": "東京都港区海岸3-20-20 ヨコソーレインボータワー4階",
       "business": "기업 시스템 통합, AI·보안 서비스, 시스템 운영과 품질 관리 서비스를 제공합니다.",
-      "url": "https://www.techvan.co.jp/company/"
+      "url": "https://www.techvan.co.jp/company/",
+      "foreignHiring": {
+        "status": "unknown",
+        "scope": "unknown",
+        "reason": "해당 기업의 공식 도메인과 공개 채용 자료를 검색했지만, 채용 법인 단독의 외국인 채용 인원·입사 또는 재직 사례를 확인하지 못했습니다. 공개 근거 미확보이며 이력 없음이나 지원 불가로 단정하지 않습니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [],
+        "evidence": [],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "Marble": {
       "industry": "it",
       "address": "東京都中央区日本橋本町4-8-14 東京建物第3室町ビル",
       "business": "기업용 애플리케이션과 클라우드 서비스를 개발하고, IT 인프라 설계·구축·운영을 지원합니다.",
-      "url": "https://www.marble-corp.co.jp/company/profile.html"
+      "url": "https://www.marble-corp.co.jp/company/profile.html",
+      "foreignHiring": {
+        "status": "unknown",
+        "scope": "unknown",
+        "reason": "해당 기업의 공식 도메인과 공개 채용 자료를 검색했지만, 채용 법인 단독의 외국인 채용 인원·입사 또는 재직 사례를 확인하지 못했습니다. 공개 근거 미확보이며 이력 없음이나 지원 불가로 단정하지 않습니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://www.marble-corp.co.jp/event_seminar/case64/case64.html",
+          "https://www.marble-corp.co.jp/topics/pdf/topics2025090401.pdf"
+        ],
+        "evidence": [],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "OBC": {
       "industry": "it",
       "address": "東京都新宿区西新宿6-8-1 住友不動産新宿オークタワー",
       "business": "회계·인사·급여 같은 기업의 핵심 업무를 위한 부교(奉行) 클라우드와 소프트웨어를 개발합니다.",
-      "url": "https://corp.obc.co.jp/corporate/profile/"
+      "url": "https://corp.obc.co.jp/corporate/profile/",
+      "foreignHiring": {
+        "status": "policy_only",
+        "scope": "current_policy",
+        "reason": "공식 신입 FAQ에서 외국 국적 학생도 일본인과 동일한 단계·기준으로 지원할 수 있다고 명시합니다. 실제 입사 실적은 별도 미확인입니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://corp.obc.co.jp/sustainability/human_health/human_capital/"
+        ],
+        "evidence": [
+          {
+            "url": "https://www2.obc.co.jp/corporate/recruit/newgraduates/recruit/faq.html",
+            "label": "조사 자료"
+          }
+        ],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "토요타 시스템즈": {
       "industry": "it",
       "address": "아이치 본사 愛知県名古屋市中村区名駅1-1-1 JPタワー名古屋32F / 도쿄 본사 東京都港区港南1-8-23 Shinagawa HEART14F",
       "business": "토요타 그룹의 차량 개발, 생산과 기업 운영에 쓰이는 시스템과 IT 인프라를 설계·구축합니다.",
-      "url": "https://www.toyotasystems.com/company/outline/"
+      "url": "https://www.toyotasystems.com/company/outline/",
+      "foreignHiring": {
+        "status": "unknown",
+        "scope": "unknown",
+        "reason": "해당 기업의 공식 도메인과 공개 채용 자료를 검색했지만, 채용 법인 단독의 외국인 채용 인원·입사 또는 재직 사례를 확인하지 못했습니다. 공개 근거 미확보이며 이력 없음이나 지원 불가로 단정하지 않습니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://www.toyotasystems.com/recruit/faq/",
+          "https://www.toyotasystems.com/sustainability/report/sdgs/detail/?id=609&m=09&y=2026",
+          "https://www.toyotasystems.com/recruit/"
+        ],
+        "evidence": [],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "토요타 정보시스템 아이치": {
       "industry": "it",
       "address": "愛知県日進市浅田平子3-330",
       "business": "자동차 판매·생산 관리 시스템을 개발하고, 공장 IoT와 차량용 소프트웨어 설계 및 데이터 활용을 지원합니다.",
-      "url": "https://tisa.co.jp/company/overview"
+      "url": "https://tisa.co.jp/company/overview",
+      "foreignHiring": {
+        "status": "unknown",
+        "scope": "unknown",
+        "reason": "해당 기업의 공식 도메인과 공개 채용 자료를 검색했지만, 채용 법인 단독의 외국인 채용 인원·입사 또는 재직 사례를 확인하지 못했습니다. 공개 근거 미확보이며 이력 없음이나 지원 불가로 단정하지 않습니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://www.tisa.co.jp/recruit/welfare/",
+          "https://www.tisa.co.jp/recruit/faq/"
+        ],
+        "evidence": [],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "PKSHA Technology": {
       "industry": "it",
       "address": "東京都文京区本郷2-35-10 本郷瀬川ビル4F",
       "business": "자연어 처리와 기계학습 알고리즘을 개발하고, 기업의 고객 응대와 업무 자동화를 위한 AI 서비스를 제공합니다.",
-      "url": "https://www.pkshatech.com/company/about/"
+      "url": "https://www.pkshatech.com/company/about/",
+      "foreignHiring": {
+        "status": "unknown",
+        "scope": "unknown",
+        "reason": "해당 기업의 공식 도메인과 공개 채용 자료를 검색했지만, 채용 법인 단독의 외국인 채용 인원·입사 또는 재직 사례를 확인하지 못했습니다. 공개 근거 미확보이며 이력 없음이나 지원 불가로 단정하지 않습니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://www.pkshatech.com/recruitment/",
+          "https://www.pkshatech.com/recruitment/newgrads/",
+          "https://asc.pkshatech.com/asset/privacy_policy.pdf"
+        ],
+        "evidence": [],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "히타치 솔루션즈 테크놀로지": {
       "industry": "it",
       "url": "https://www.hitachi-solutions-tech.co.jp/corporate/profile/pdf/Company_Profile.pdf",
       "address": "東京都立川市緑町7番地1",
-      "business": "임베디드 소프트웨어와 기기, 기업 정보시스템을 설계·개발하고 운영·유지보수합니다."
+      "business": "임베디드 소프트웨어와 기기, 기업 정보시스템을 설계·개발하고 운영·유지보수합니다.",
+      "foreignHiring": {
+        "status": "unknown",
+        "scope": "unknown",
+        "reason": "해당 기업의 공식 도메인과 공개 채용 자료를 검색했지만, 채용 법인 단독의 외국인 채용 인원·입사 또는 재직 사례를 확인하지 못했습니다. 공개 근거 미확보이며 이력 없음이나 지원 불가로 단정하지 않습니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://www.hitachi-solutions-tech.co.jp/recruit/career/index.html",
+          "https://www.hitachi-solutions-tech.co.jp/corporate/profile/pdf/Company_Profile.pdf"
+        ],
+        "evidence": [],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "KDDI 엔지니어링": {
       "industry": "it",
       "address": "東京都渋谷区代々木3-22-7 新宿文化クイントビル",
       "business": "통신망과 관련 설비를 설계·시공하고, 네트워크 감시·운영과 유지보수를 담당합니다.",
-      "url": "https://www.kddi-eng.com/company/overview/"
+      "url": "https://www.kddi-eng.com/company/overview/",
+      "foreignHiring": {
+        "status": "unknown",
+        "scope": "unknown",
+        "reason": "해당 기업의 공식 도메인과 공개 채용 자료를 검색했지만, 채용 법인 단독의 외국인 채용 인원·입사 또는 재직 사례를 확인하지 못했습니다. 공개 근거 미확보이며 이력 없음이나 지원 불가로 단정하지 않습니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://www.kddi-eng.com/recruit/career/recruitment.html"
+        ],
+        "evidence": [],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "세이노 정보 서비스": {
       "industry": "it",
       "address": "岐阜県大垣市田口町1番地",
       "business": "물류 기업의 창고·배송 관리 시스템을 개발하고, 네트워크 구축과 물류 운영 개선을 지원합니다.",
-      "url": "https://www.seino.co.jp/sis/about/compinfo/"
+      "url": "https://www.seino.co.jp/sis/about/compinfo/",
+      "foreignHiring": {
+        "status": "confirmed",
+        "scope": "hiring_entity",
+        "reason": "공식 신입 채용 안내에서 외국인도 채용하며 실제 사내에서 근무한다고 명시합니다. 공개된 인원·채용 연도는 없습니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://www.seino.co.jp/seino/recruit/2026/jobtype/jobtype5/",
+          "https://www.seino.co.jp/sis/recruit/newgraduate/",
+          "https://www.seino.co.jp/seino/recruit/2027/jobtype/jobtype6/"
+        ],
+        "evidence": [
+          {
+            "url": "https://www.seino.co.jp/sis/saiyou/recruit/events.html",
+            "label": "조사 자료"
+          }
+        ],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "NTT ME": {
       "industry": "infrastructure",
       "address": "東京都新宿区西新宿3-19-2",
       "business": "통신망과 데이터센터 네트워크를 구축·운영하고, 통신 인프라 유지보수와 보안 운영을 지원합니다.",
       "url": "https://www.ntt-me.co.jp/company/index.html",
-      "sizeApproximate": true
+      "sizeApproximate": true,
+      "foreignHiring": {
+        "status": "confirmed",
+        "scope": "hiring_entity",
+        "reason": "기업 채용 정보 페이지에 ‘유학생 채용 실적 있음·채용 예정 있음’이 표시됩니다. 국적·채용 연도·인원은 공개되지 않았습니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://www.ntt-me.co.jp/recruit/new-grad/recruit/requirement/",
+          "https://www.ntt-me.co.jp/recruit/index.html",
+          "https://www.ntt-me.co.jp/recruit/jobs/recruit/"
+        ],
+        "evidence": [
+          {
+            "url": "https://www.careermap.jp/corporations/2401",
+            "label": "조사 자료"
+          }
+        ],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "NTT 데이터 MSE": {
       "industry": "it",
       "address": "神奈川県横浜市港北区新横浜3-1-9 アリーナタワー",
       "business": "통신·유통 시스템, 모바일·의료기기 소프트웨어와 차량용 플랫폼을 개발합니다.",
-      "url": "https://www.nttd-mse.com/company/outline/"
+      "url": "https://www.nttd-mse.com/company/outline/",
+      "foreignHiring": {
+        "status": "policy_only",
+        "scope": "current_policy",
+        "reason": "공식 경력 채용 FAQ에서 외국 국적 지원 가능을 확인했습니다. 신입 지원 조건과 실제 채용 실적은 별도 미확인입니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://nttd-mse.com/career-recruit/faq/",
+          "https://www.nttd-mse.com/recruit/recruit/faq.html",
+          "https://www.nttd-mse.com/recruit/work/welfare.html"
+        ],
+        "evidence": [
+          {
+            "url": "https://www.nttd-mse.com/career-recruit/faq/",
+            "label": "조사 자료"
+          }
+        ],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "미쓰비시전기 소프트웨어": {
       "industry": "it",
       "address": "東京都港区浜松町2-4-1 世界貿易センタービル南館29階",
       "business": "사회 인프라, 차량, 전자·우주 시스템, 공장 자동화에 쓰이는 소프트웨어와 제어 시스템을 개발합니다.",
-      "url": "https://www.mesw.co.jp/company/profile/index.html"
+      "url": "https://www.mesw.co.jp/company/profile/index.html",
+      "foreignHiring": {
+        "status": "unknown",
+        "scope": "unknown",
+        "reason": "공식 FAQ는 해외 유학생 전용 채용 할당을 두지 않는다고만 안내합니다. 전용 할당 없음과 외국인 채용 이력 없음은 다르므로 실적은 미확인으로 남깁니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://www.mesw.co.jp/recruit/recruit/faq/"
+        ],
+        "evidence": [
+          {
+            "url": "https://www.mesw.co.jp/recruit/recruit/faq/",
+            "label": "조사 자료"
+          }
+        ],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "니즈웰": {
       "industry": "it",
       "address": "東京都千代田区紀尾井町4-1 ニューオータニガーデンコート13階",
       "business": "금융·물류·통신·공공 분야의 업무 시스템, IT 인프라 및 AI·DX 솔루션을 개발합니다.",
-      "url": "https://www.needswell.com/company/overview"
+      "url": "https://www.needswell.com/company/overview",
+      "foreignHiring": {
+        "status": "unknown",
+        "scope": "unknown",
+        "reason": "해당 기업의 공식 도메인과 공개 채용 자료를 검색했지만, 채용 법인 단독의 외국인 채용 인원·입사 또는 재직 사례를 확인하지 못했습니다. 공개 근거 미확보이며 이력 없음이나 지원 불가로 단정하지 않습니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://www.needswell.com/company/nearshore_development/",
+          "https://www.needswell.com/wp-content/uploads/2022/02/danjo-ikiiki_leaflet.pdf"
+        ],
+        "evidence": [],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "일본 IBM 디지털 서비스": {
       "industry": "it",
       "address": "東京都港区虎ノ門2-6-1 虎ノ門ヒルズ ステーションタワー 日本IBM本社",
       "business": "정보 시스템의 기획·설계·개발·운영을 지원하고 AI·클라우드 기반 IT 서비스와 기술 컨설팅을 제공합니다.",
-      "url": "https://www.ibm.com/downloads/documents/jp-ja/107a02e958c8f3ce"
+      "url": "https://www.ibm.com/downloads/documents/jp-ja/107a02e958c8f3ce",
+      "foreignHiring": {
+        "status": "unknown",
+        "scope": "unknown",
+        "reason": "해당 기업의 공식 도메인과 공개 채용 자료를 검색했지만, 채용 법인 단독의 외국인 채용 인원·입사 또는 재직 사례를 확인하지 못했습니다. 공개 근거 미확보이며 이력 없음이나 지원 불가로 단정하지 않습니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://www.ibm.com/downloads/documents/jp-ja/107a02e95948f433",
+          "https://www.ibm.com/jp-ja/careers/faq",
+          "https://www.ibm.com/downloads/documents/jp-ja/1379d330685ae48f"
+        ],
+        "evidence": [],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "닌텐도": {
       "industry": "media",
       "address": "京都市南区上鳥羽鉾立町11-1",
       "business": "게임기와 게임 소프트웨어를 개발·판매하고 온라인 게임 서비스와 디지털 유통을 운영합니다.",
-      "url": "https://www.nintendo.co.jp/corporate/outline/index.html"
+      "url": "https://www.nintendo.co.jp/corporate/outline/index.html",
+      "foreignHiring": {
+        "status": "unknown",
+        "scope": "unknown",
+        "reason": "해당 기업의 공식 도메인과 공개 채용 자료를 검색했지만, 채용 법인 단독의 외국인 채용 인원·입사 또는 재직 사례를 확인하지 못했습니다. 공개 근거 미확보이며 이력 없음이나 지원 불가로 단정하지 않습니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://www.nintendo.co.jp/jobs/recruit/q_and_a/index.html",
+          "https://www.nintendo.co.jp/ir/pdf/2023/security_q2303.pdf",
+          "https://www.nintendo.co.jp/csr/pdf/nintendo_csr2020.pdf"
+        ],
+        "evidence": [],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "테라스카이": {
       "industry": "it",
@@ -4184,139 +4728,494 @@ window.dailyScan = {
       "corporateUrl": "https://www.terrasky.co.jp/",
       "sizeApproximate": true,
       "employeeCountAsOf": "2025-04",
-      "employeeCountNote": "기업이 게시한 원커리어 회사 정보의 790명을 근사 인원으로 사용. 공식 사이트는 403으로 접근되지 않았으며 그룹 합산 인원을 대입하지 않았습니다."
+      "employeeCountNote": "기업이 게시한 원커리어 회사 정보의 790명을 근사 인원으로 사용. 공식 사이트는 403으로 접근되지 않았으며 그룹 합산 인원을 대입하지 않았습니다.",
+      "foreignHiring": {
+        "status": "confirmed",
+        "scope": "hiring_entity",
+        "reason": "공식 신입 채용 FAQ에서 매년 외국 국적 학생 수 명이 입사한다고 명시합니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://www.onecareer.jp/events/internship/103865",
+          "https://www.onecareer.jp/events/internship/70030"
+        ],
+        "evidence": [
+          {
+            "url": "https://newgrad.terrasky.co.jp/information/faq",
+            "label": "조사 자료"
+          }
+        ],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "TISI": {
       "industry": "it",
       "address": "東京都新宿区西新宿8-17-1",
       "business": "금융·산업·공공 분야의 업무 시스템과 플랫폼을 구축하고 IT 컨설팅, 소프트웨어 개발, 시스템 운영을 제공합니다.",
-      "url": "https://www.tisi.jp/company/information/"
+      "url": "https://www.tisi.jp/company/information/",
+      "foreignHiring": {
+        "status": "unknown",
+        "scope": "unknown",
+        "reason": "TIS 계열의 외국인 채용 자료는 발견되지만 합병·법인 변경 전후의 적용 범위가 불명확합니다. 현 TISI 채용 법인의 이력은 별도 확인이 필요합니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://asmtest.tisi.jp/group/sustainability/social/development/",
+          "https://www.tisi.jp/documents/jp/ir/finance/securities_report/report_2025_2.pdf"
+        ],
+        "evidence": [
+          {
+            "url": "https://www.tisi.jp/documents/jp/ir/finance/securities_report/report_2025_2.pdf",
+            "label": "조사 자료"
+          }
+        ],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "마이나비": {
       "industry": "media",
       "address": "東京都千代田区一ツ橋1-1-1 パレスサイドビル",
       "business": "채용·취업 정보와 인재 서비스를 운영하고 자사 디지털 플랫폼을 개발합니다.",
-      "url": "https://www.mynavi.jp/company/overview/"
+      "url": "https://www.mynavi.jp/company/overview/",
+      "foreignHiring": {
+        "status": "group_only",
+        "scope": "group",
+        "reason": "마이나비글로벌 채용 안내에서 외국 국적 직원의 재직을 확인했습니다. 별도 그룹사이므로 마이나비 법인 단독 채용 실적으로 표시하지 않았습니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://job.mynavi.jp/27/pc/search/corp100782/recruiting_course27062942/recruiting_course.html?site_preference=pc",
+          "https://global-saponet.mgl.mynavi.jp/know-how/13131",
+          "https://cdn.tenshoku.mynavi.jp/shutoken/list/f010/pg45/"
+        ],
+        "evidence": [
+          {
+            "url": "https://mgl.mynavi.jp/recruit/",
+            "label": "조사 자료"
+          }
+        ],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "클래스메소드": {
       "industry": "it",
       "address": "東京都港区西新橋1-1-1 日比谷フォートタワー26階",
       "business": "AWS를 중심으로 클라우드 전환, 인프라 구축·운영, 데이터 기반 및 생성형 AI 도입을 지원합니다.",
-      "url": "https://classmethod.jp/company/overview/"
+      "url": "https://classmethod.jp/company/overview/",
+      "foreignHiring": {
+        "status": "confirmed",
+        "scope": "hiring_entity",
+        "reason": "공식 기술 블로그에서 일본 법인의 해외 IT 엔지니어 채용 경험과 한국·베트남·인도 채용 활동을 설명합니다. 과거 사례이며 신입별 인원은 미확인입니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://careers.classmethod.jp/feature/number/",
+          "https://careers.classmethod.jp/feature/salary/",
+          "https://dev.classmethod.jp/articles/hiring-foreign-engineers/"
+        ],
+        "evidence": [
+          {
+            "url": "https://dev.classmethod.jp/articles/hiring-foreign-engineers/",
+            "label": "조사 자료"
+          }
+        ],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "서버웍스": {
       "industry": "it",
       "address": "東京都新宿区揚場町1-21 飯田橋升本ビル2階",
       "business": "기업의 AWS 도입·이전, 클라우드 네이티브 시스템 구축, 운영·모니터링을 지원합니다.",
-      "url": "https://www.serverworks.co.jp/corporate/"
+      "url": "https://www.serverworks.co.jp/corporate/",
+      "foreignHiring": {
+        "status": "unknown",
+        "scope": "unknown",
+        "reason": "해당 기업의 공식 도메인과 공개 채용 자료를 검색했지만, 채용 법인 단독의 외국인 채용 인원·입사 또는 재직 사례를 확인하지 못했습니다. 공개 근거 미확보이며 이력 없음이나 지원 불가로 단정하지 않습니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://www.serverworks.co.jp/recruit-privacy-policy.html",
+          "https://www.serverworks.co.jp/recruit/personnel-system/",
+          "https://www.serverworks.co.jp/recruit/number/"
+        ],
+        "evidence": [],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "NX 정보시스템": {
       "industry": "it",
       "address": "東京都千代田区神田和泉町2番地 ＮＸグループビル",
       "business": "NX 그룹의 물류·업무 시스템을 기획하고 개발하며 인프라 구축과 시스템 운영·보수를 지원합니다.",
-      "url": "https://www.nx-infosys.com/recruit/company/profile/"
+      "url": "https://www.nx-infosys.com/recruit/company/profile/",
+      "foreignHiring": {
+        "status": "unknown",
+        "scope": "unknown",
+        "reason": "해당 기업의 공식 도메인과 공개 채용 자료를 검색했지만, 채용 법인 단독의 외국인 채용 인원·입사 또는 재직 사례를 확인하지 못했습니다. 공개 근거 미확보이며 이력 없음이나 지원 불가로 단정하지 않습니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://www.nx-infosys.com/recruit/company/aboutus/",
+          "https://www.nx-infosys.com/recruit/spotlight/",
+          "https://www.nx-infosys.com/recruit/job/application_management.html"
+        ],
+        "evidence": [],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "Speee": {
       "industry": "it",
       "address": "東京都港区六本木3-2-1 六本木グランドタワー35階・39階",
       "business": "금융과 부동산 등 산업의 디지털 전환 서비스와 DX 컨설팅을 제공합니다.",
-      "url": "https://speee.jp/company"
+      "url": "https://speee.jp/company",
+      "foreignHiring": {
+        "status": "unknown",
+        "scope": "unknown",
+        "reason": "해당 기업의 공식 도메인과 공개 채용 자료를 검색했지만, 채용 법인 단독의 외국인 채용 인원·입사 또는 재직 사례를 확인하지 못했습니다. 공개 근거 미확보이며 이력 없음이나 지원 불가로 단정하지 않습니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://media.speee.jp/member/ayato-okuda",
+          "https://speee.jp/recruit",
+          "https://speee.jp/wp-content/uploads/2025/03/5285f16c706dedfe6752a1ef90d21d3d.pdf"
+        ],
+        "evidence": [],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "도시바 유니파이드 테크놀로지즈": {
       "industry": "it",
       "address": "神奈川県川崎市幸区堀川町72-34 ラゾーナ川崎東芝ビル",
       "business": "산업용·소비자용 기기의 하드웨어와 소프트웨어를 설계·개발하며 시험, 데이터 분석과 유지보수도 제공합니다.",
-      "url": "https://www.toshiba-dme.co.jp/company/index.htm"
+      "url": "https://www.toshiba-dme.co.jp/company/index.htm",
+      "foreignHiring": {
+        "status": "unknown",
+        "scope": "unknown",
+        "reason": "해당 기업의 공식 도메인과 공개 채용 자료를 검색했지만, 채용 법인 단독의 외국인 채용 인원·입사 또는 재직 사례를 확인하지 못했습니다. 공개 근거 미확보이며 이력 없음이나 지원 불가로 단정하지 않습니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [],
+        "evidence": [],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "NTT-AT 시스템즈": {
       "industry": "it",
       "address": "東京都武蔵野市中町1-19-18 武蔵野センタービル3F",
       "business": "통신 네트워크와 소프트웨어를 개발·운영하고, 시스템 구축·검증과 데이터센터 운영을 지원합니다.",
-      "url": "https://www.ntt-ats.co.jp/corporate/outline.html"
+      "url": "https://www.ntt-ats.co.jp/corporate/outline.html",
+      "foreignHiring": {
+        "status": "unknown",
+        "scope": "unknown",
+        "reason": "해당 기업의 공식 도메인과 공개 채용 자료를 검색했지만, 채용 법인 단독의 외국인 채용 인원·입사 또는 재직 사례를 확인하지 못했습니다. 공개 근거 미확보이며 이력 없음이나 지원 불가로 단정하지 않습니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://www.ntt-ats.co.jp/recruiting/recruit.html",
+          "https://www.ntt-ats.co.jp/career/recruit.html",
+          "https://www.ntt-ats.co.jp/corporate/plan.html"
+        ],
+        "evidence": [],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "호쿠와넥스": {
       "industry": "it",
       "address": "石川県金沢市米泉町十丁目1番地153",
       "business": "호쿠리쿠를 중심으로 통신 인프라를 구축하며 기업용 시스템, 네트워크, 방송 및 클라우드 솔루션을 제공합니다.",
-      "url": "https://www.hokuwa.co.jp/company/"
+      "url": "https://www.hokuwa.co.jp/company/",
+      "foreignHiring": {
+        "status": "unknown",
+        "scope": "unknown",
+        "reason": "해당 기업의 공식 도메인과 공개 채용 자료를 검색했지만, 채용 법인 단독의 외국인 채용 인원·입사 또는 재직 사례를 확인하지 못했습니다. 공개 근거 미확보이며 이력 없음이나 지원 불가로 단정하지 않습니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://recruit.hokuwa.co.jp/careers/new-grad/",
+          "https://recruit.hokuwa.co.jp/surrounding/careersupport/",
+          "https://recruit.hokuwa.co.jp/employee/"
+        ],
+        "evidence": [],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "DeNA": {
       "industry": "it",
       "address": "東京都渋谷区渋谷2-24-12 渋谷スクランブルスクエア",
       "business": "모바일 게임과 라이브 방송을 운영하며 스포츠·헬스케어 분야에서도 디지털 서비스를 개발합니다.",
-      "url": "https://dena.com/jp/company/overview.html"
+      "url": "https://dena.com/jp/company/overview.html",
+      "foreignHiring": {
+        "status": "confirmed",
+        "scope": "hiring_entity",
+        "reason": "공식 다양성 보고에 자사 소속 외국 국적 정직원 대상의 근무 경험 설문 결과를 공개해 재직을 확인했습니다. 그룹 해외 현지 채용 비율을 단독 실적으로 사용하지 않았습니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://csr.dena.com/jp/employees/diversity/",
+          "https://csr.dena.com/jp/employees/hr-strategy/",
+          "https://csr.dena.com/jp/employees/hrdata/"
+        ],
+        "evidence": [
+          {
+            "url": "https://csr.dena.com/jp/employees/diversity/",
+            "label": "조사 자료"
+          }
+        ],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "피에스시(PSC)": {
       "industry": "it",
       "address": "東京都港区浜松町2-4-1 世界貿易センタービル南館25階",
       "business": "기업의 Microsoft 365 도입과 클라우드·네트워크 구축, 보안, 시스템 개발 및 운영을 지원합니다.",
-      "url": "https://www.psc-inc.co.jp/about/company/outline/"
+      "url": "https://www.psc-inc.co.jp/about/company/outline/",
+      "foreignHiring": {
+        "status": "confirmed",
+        "scope": "hiring_entity",
+        "reason": "기업 채용 담당자의 공식 게시물에서 매년 중국·한국 등 여러 국적의 인재가 입사한다고 명시합니다. 2022년 게시된 과거 사례입니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://www.psc-inc.co.jp/recruit2/jobtype/index.html",
+          "https://www.psc-inc.co.jp/recruit/about/data/",
+          "https://www.psc-inc.co.jp/recruit/faq/"
+        ],
+        "evidence": [
+          {
+            "url": "https://www.wantedly.com/companies/psc-inc/post_articles/419063",
+            "label": "조사 자료"
+          }
+        ],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "서일본고속도로 엔지니어링 간사이": {
       "industry": "infrastructure",
       "address": "大阪府茨木市西駅前町5-26",
       "business": "간사이 고속도로의 점검·유지관리, 시공관리 및 조사·설계를 담당하며 사내 정보시스템을 개발·운영합니다.",
-      "url": "https://www.w-e-kansai.co.jp/corporate/"
+      "url": "https://www.w-e-kansai.co.jp/corporate/",
+      "foreignHiring": {
+        "status": "unknown",
+        "scope": "unknown",
+        "reason": "해당 기업의 공식 도메인과 공개 채용 자료를 검색했지만, 채용 법인 단독의 외국인 채용 인원·입사 또는 재직 사례를 확인하지 못했습니다. 공개 근거 미확보이며 이력 없음이나 지원 불가로 단정하지 않습니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://www.w-e-kansai.co.jp/corporate/",
+          "https://www.w-e-kansai.co.jp/recruit/person/index.html",
+          "https://www.w-e-kansai.co.jp/recruit/person/person15.html"
+        ],
+        "evidence": [],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "료비 시스템즈": {
       "industry": "it",
       "address": "岡山県岡山市北区下石井二丁目10番12号 杜の街グレース オフィススクエア4階",
       "business": "지자체·의료기관과 일반 기업의 시스템을 개발하고, 데이터센터와 네트워크 구축·보안 서비스를 운영합니다.",
-      "url": "https://www.ryobi.co.jp/company/corporate_outline"
+      "url": "https://www.ryobi.co.jp/company/corporate_outline",
+      "foreignHiring": {
+        "status": "unknown",
+        "scope": "unknown",
+        "reason": "해당 기업의 공식 도메인과 공개 채용 자료를 검색했지만, 채용 법인 단독의 외국인 채용 인원·입사 또는 재직 사례를 확인하지 못했습니다. 공개 근거 미확보이며 이력 없음이나 지원 불가로 단정하지 않습니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://www.ryobi.co.jp/recruit/",
+          "https://www.ryobi.co.jp/career/privatedemand-SE-tokyo",
+          "https://service.ryobi.co.jp/healthcare_solution/.assets/case_kohnan-hospital.pdf"
+        ],
+        "evidence": [],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "다이와보 정보시스템": {
       "industry": "it",
       "address": "大阪府大阪市北区中之島3-2-4 中之島フェスティバルタワー・ウエスト10F",
       "business": "PC·주변기기와 소프트웨어를 유통하는 IT 전문 상사로, 기업의 IT 인프라 도입을 지원합니다.",
-      "url": "https://www.pc-daiwabo.co.jp/corporate/profile.html"
+      "url": "https://www.pc-daiwabo.co.jp/corporate/profile.html",
+      "foreignHiring": {
+        "status": "unknown",
+        "scope": "unknown",
+        "reason": "해당 기업의 공식 도메인과 공개 채용 자료를 검색했지만, 채용 법인 단독의 외국인 채용 인원·입사 또는 재직 사례를 확인하지 못했습니다. 공개 근거 미확보이며 이력 없음이나 지원 불가로 단정하지 않습니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://www.pc-daiwabo.co.jp/saiyo/recruit/faq.html",
+          "https://www.pc-daiwabo.co.jp/privacy_staff.html"
+        ],
+        "evidence": [],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "JR 도카이 정보시스템": {
       "industry": "it",
       "address": "愛知県名古屋市中村区名駅4丁目4番10号 名古屋クロスコートタワー",
       "business": "JR 도카이의 열차 운행관리, 신칸센 예약 및 사내 업무 시스템을 개발하고 운영합니다.",
-      "url": "https://www.jtis.co.jp/company/"
+      "url": "https://www.jtis.co.jp/company/",
+      "foreignHiring": {
+        "status": "not_recruiting",
+        "scope": "current_policy",
+        "reason": "공식 신입 FAQ의 ‘외국인을 채용하나요?’에 현재는 하지 않는다고 답변합니다. 현재 신입 모집 방침이며 과거 채용 이력이 없다는 의미는 아닙니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://www.jtis.co.jp/recruit/graduates/faq/",
+          "https://www.jtis.co.jp/recruit/",
+          "https://www.jtis.co.jp/recruit/mid_career/"
+        ],
+        "evidence": [
+          {
+            "url": "https://www.jtis.co.jp/recruit/graduates/faq/",
+            "label": "조사 자료"
+          }
+        ],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "사이버링크스": {
       "industry": "it",
       "address": "和歌山県和歌山市紀三井寺849番地の3",
       "business": "유통업과 공공기관을 위한 클라우드 서비스, 전자 인증 서비스와 모바일 사업을 운영합니다.",
-      "url": "https://www.cyber-l.co.jp/corporate/outline/"
+      "url": "https://www.cyber-l.co.jp/corporate/outline/",
+      "foreignHiring": {
+        "status": "confirmed",
+        "scope": "hiring_entity",
+        "reason": "기업 지배구조 보고서에서 외국인 직원 비율과 관리직·주임직 비율을 공시해 재직을 확인했습니다. 2025년 공개 자료이며 현재 신입별 실적은 미확인입니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://www.cyber-l.co.jp/recruit/faq/",
+          "https://www.cyber-l.co.jp/wp-content/uploads/2014/03/20220415_corporate_governance_guidelines_v2.pdf"
+        ],
+        "evidence": [
+          {
+            "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250401/20250210567820.pdf",
+            "label": "조사 자료"
+          }
+        ],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "EIZO": {
       "industry": "manufacturing",
       "address": "石川県白山市下柏野町153番地",
       "business": "의료·산업·영상 제작용 모니터와 카메라를 비롯한 영상 솔루션을 개발·제조합니다.",
-      "url": "https://www.eizo.co.jp/company/profile/"
+      "url": "https://www.eizo.co.jp/company/profile/",
+      "foreignHiring": {
+        "status": "policy_only",
+        "scope": "current_policy",
+        "reason": "공식 경력 채용 모집에서 일부 직무의 외국인 지원 가능을 명시합니다. 실제 채용 실적·28졸 엔지니어 지원 조건은 별도 확인이 필요합니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://www.eizo.co.jp/recruit/faq/",
+          "https://www.eizo.co.jp/recruit/message/",
+          "https://www.eizo.co.jp/recruit/new/entry/"
+        ],
+        "evidence": [
+          {
+            "url": "https://www.eizo.co.jp/recruit/experience/entry/",
+            "label": "조사 자료"
+          }
+        ],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "일본시스템기술(JAST)": {
       "industry": "it",
       "address": "大阪府大阪市北区中之島2丁目3番18号 中之島フェスティバルタワー29階",
       "business": "기업과 공공기관의 업무 시스템 개발·통합을 지원하며 대학 행정, 금융, 의료 데이터 관련 서비스를 제공합니다.",
-      "url": "https://www.jast.jp/corporate/outline/"
+      "url": "https://www.jast.jp/corporate/outline/",
+      "foreignHiring": {
+        "status": "unknown",
+        "scope": "unknown",
+        "reason": "해당 기업의 공식 도메인과 공개 채용 자료를 검색했지만, 채용 법인 단독의 외국인 채용 인원·입사 또는 재직 사례를 확인하지 못했습니다. 공개 근거 미확보이며 이력 없음이나 지원 불가로 단정하지 않습니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://www.jast.jp/cms/wp-content/uploads/2025/12/ir_notice20251210.pdf",
+          "https://www.jast.jp/cms/wp-content/uploads/2026/06/ir_notice20260615.pdf"
+        ],
+        "evidence": [],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "GMO 인터넷": {
       "industry": "it",
       "address": "東京都渋谷区桜丘町26番1号 セルリアンタワー",
       "business": "도메인·호스팅 등 인터넷 인프라와 인터넷 광고 사업을 운영합니다.",
-      "url": "https://internet.gmo/company/outline/"
+      "url": "https://internet.gmo/company/outline/",
+      "foreignHiring": {
+        "status": "group_only",
+        "scope": "group",
+        "reason": "공식 채용 사이트에 국경을 넘는 다국적 팀과 해외 거점 협업이 소개돼 있습니다. 국내 채용 법인만의 외국인 채용 실적·신입 인원은 구분되지 않습니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://note.recruit.internet.gmo/n/n2c7c8872df41",
+          "https://internet.gmo/recruit/locations/kitakyushu/",
+          "https://internet.gmo/recruit/workstyle/diversity/"
+        ],
+        "evidence": [
+          {
+            "url": "https://internet.gmo/recruit/workstyle/diversity/",
+            "label": "조사 자료"
+          }
+        ],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "멤버즈": {
       "industry": "it",
       "address": "東京都中央区晴海1丁目8番10号 晴海アイランド トリトンスクエアオフィスタワーX 37階",
       "business": "디지털 전문 인력이 고객 현장에 참여해 제품·시스템 개발, 데이터 활용과 마케팅 등 DX 업무를 지원합니다.",
-      "url": "https://www.members.co.jp/company/profile"
+      "url": "https://www.members.co.jp/company/profile",
+      "foreignHiring": {
+        "status": "confirmed",
+        "scope": "hiring_entity",
+        "reason": "공식 IR 비재무 정보에 외국 국적 직원 재직 인원이 공개돼 있습니다. 연도별 재직 수치이며 해당 공고의 채용 인원을 뜻하지 않습니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://career.members.co.jp/faq/",
+          "https://career.members.co.jp/recruit/",
+          "https://www.members.co.jp/hubfs/ir/corporate/report20250619.pdf"
+        ],
+        "evidence": [
+          {
+            "url": "https://www.members.co.jp/ir/performance",
+            "label": "조사 자료"
+          }
+        ],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "사이보우즈": {
       "industry": "it",
       "address": "東京都中央区日本橋2-7-1 東京日本橋タワー27階",
       "business": "kintone·Garoon·Cybozu Office 등 기업용 그룹웨어와 클라우드 서비스를 개발·운영합니다.",
-      "url": "https://cybozu.co.jp/company/outline/"
+      "url": "https://cybozu.co.jp/company/outline/",
+      "foreignHiring": {
+        "status": "confirmed",
+        "scope": "hiring_entity",
+        "reason": "회사가 참여한 고객 사례 인터뷰에서 일본 국내에서도 국적·모국어와 무관하게 해외 멤버를 채용한다고 설명합니다. 신입 여부·인원은 공개되지 않았습니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://cybozu.co.jp/recruit/entry/faq/",
+          "https://cybozu.co.jp/sp/workstyle/workstyle08.html",
+          "https://cybozu.co.jp/company/outline/pdf/corporate_profile.pdf"
+        ],
+        "evidence": [
+          {
+            "url": "https://www.deepl.com/ja/customer-stories/cybozu",
+            "label": "조사 자료"
+          }
+        ],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "MIXI": {
       "industry": "it",
       "address": "東京都渋谷区渋谷2-24-12 渋谷スクランブルスクエア36F",
       "business": "스포츠·라이프스타일·디지털 엔터테인먼트 사업을 운영하며 몬스터 스트라이크, 가족사진 서비스 미테네, mixi2 등을 제공합니다.",
-      "url": "https://mixi.co.jp/company/profile/"
+      "url": "https://mixi.co.jp/company/profile/",
+      "foreignHiring": {
+        "status": "confirmed",
+        "scope": "hiring_entity",
+        "reason": "공식 기업 지배구조 보고서에 외국 국적 직원과 관리직의 비율을 공시해 재직을 확인했습니다. 신입·경력별 내역은 미확인입니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://mixigroup-recruit.mixi.co.jp/faq/?anchor=fresh",
+          "https://mixigroup-recruit.mixi.co.jp/recruitment-category/13815/",
+          "https://mixi.co.jp/sustainability/sustainability_news/2023/0622/22101/"
+        ],
+        "evidence": [
+          {
+            "url": "https://pdf.irpocket.com/C2121/ba4w/VI15/Q9Mu.pdf",
+            "label": "조사 자료"
+          }
+        ],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "사이버에이전트": {
       "industry": "it",
@@ -4326,26 +5225,87 @@ window.dailyScan = {
       "cloudRelated": true,
       "cloudReason": "공식 엔지니어 직무 소개에서 클라우드 인프라 설계·구축과 SRE 업무를 확인했습니다.",
       "cloudEvidenceUrl": "https://www.cyberagent.co.jp/careers/students/tech/jobs/detail/id=32671",
-      "cloudVerifiedOn": "2026-11-19"
+      "cloudVerifiedOn": "2026-11-19",
+      "foreignHiring": {
+        "status": "confirmed",
+        "scope": "hiring_entity",
+        "reason": "공식 신입 채용 FAQ에서 외국 국적 직원 다수가 재직하며 다양한 분야에서 활약한다고 명시합니다. 엔지니어 코스는 일본어 의사소통을 요구합니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://www.cyberagent.co.jp/careers/special/students/tech/faq.html",
+          "https://creators.cyberagent.co.jp/faq/category/%E9%81%B8%E8%80%83%E3%81%AB%E9%96%A2%E3%81%97%E3%81%A6/",
+          "https://creators-career.cyberagent.co.jp/faq/"
+        ],
+        "evidence": [
+          {
+            "url": "https://creators.cyberagent.co.jp/faq/category/%E9%81%B8%E8%80%83%E3%81%AB%E9%96%A2%E3%81%97%E3%81%A6/",
+            "label": "조사 자료"
+          }
+        ],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "SmartHR": {
       "industry": "it",
       "address": "東京都港区六本木3-2-1 住友不動産六本木グランドタワー",
       "business": "클라우드 인사·노무 소프트웨어 SmartHR을 기획·개발·운영·판매합니다. 공식 발표의 2025년 5월 직원 1,400명 돌파 기준을 사용했습니다.",
       "url": "https://smarthr.co.jp/news/info/l6cvaw9wppl/",
-      "sizeApproximate": true
+      "sizeApproximate": true,
+      "foreignHiring": {
+        "status": "unknown",
+        "scope": "unknown",
+        "reason": "해당 기업의 공식 도메인과 공개 채용 자료를 검색했지만, 채용 법인 단독의 외국인 채용 인원·입사 또는 재직 사례를 확인하지 못했습니다. 공개 근거 미확보이며 이력 없음이나 지원 불가로 단정하지 않습니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://recruit.smarthr.co.jp/career/",
+          "https://smarthr.co.jp/assets/pdf/ServiceOverview_smartHR.pdf"
+        ],
+        "evidence": [],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "GMO 페파보": {
       "industry": "it",
       "address": "東京都渋谷区桜丘町26-1 セルリアンタワー",
       "business": "렌털 서버 로리팝, 도메인 무무도메인, 전자상거래 지원 컬러미숍과 창작자 서비스 SUZURI 등을 운영합니다. 사원 수는 2025년 9월 말 법인 단독 공시입니다.",
-      "url": "https://pepabo.com/company/overview/"
+      "url": "https://pepabo.com/company/overview/",
+      "foreignHiring": {
+        "status": "unknown",
+        "scope": "unknown",
+        "reason": "해당 기업의 공식 도메인과 공개 채용 자료를 검색했지만, 채용 법인 단독의 외국인 채용 인원·입사 또는 재직 사례를 확인하지 못했습니다. 공개 근거 미확보이며 이력 없음이나 지원 불가로 단정하지 않습니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://pepabo.com/sustainability/social/",
+          "https://pdf.pepabo.com/governance/corporate_governance_20231020.pdf",
+          "https://pdf.pepabo.com/sustainability/20230425.pdf"
+        ],
+        "evidence": [],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "ZOZO": {
       "industry": "it",
       "address": "千葉県千葉市稲毛区緑町1-15-16",
       "business": "패션 전자상거래 ZOZOTOWN과 관련 패션 기술·플랫폼 서비스를 개발·운영합니다. 사원 수는 2025년 3월 말 제출회사 단독 공시입니다.",
-      "url": "https://corp.zozo.com/about/profile/"
+      "url": "https://corp.zozo.com/about/profile/",
+      "foreignHiring": {
+        "status": "group_only",
+        "scope": "group",
+        "reason": "공식 ESG 데이터에 외국인 신입·경력 채용 수가 공개돼 있습니다. 해외 직원이 포함된 공시 범위이므로 일본 법인 단독의 신입 실적으로 단정하지 않았습니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://corp.zozo.com/recruit/recruit-zozo/faq-challenged/",
+          "https://corp.zozo.com/info-csnominee/",
+          "https://corp.zozo.com/sustainability/social/soc_diversity/"
+        ],
+        "evidence": [
+          {
+            "url": "https://corp.zozo.com/sustainability/data/",
+            "label": "조사 자료"
+          }
+        ],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "일본비즈니스시스템즈(JBS)": {
       "industry": "it",
@@ -4360,25 +5320,78 @@ window.dailyScan = {
       "cloudRelated": true,
       "cloudReason": "Microsoft 클라우드를 중심으로 클라우드 도입·구축·운영·보안 사업을 제공합니다.",
       "cloudEvidenceUrl": "https://www.jbs.co.jp/corp/ir/finance/segement",
-      "cloudVerifiedOn": "2026-11-20"
+      "cloudVerifiedOn": "2026-11-20",
+      "foreignHiring": {
+        "status": "confirmed",
+        "scope": "hiring_entity",
+        "reason": "2025년 9월 기준 공식 DEI 자료에 한국·중국·미얀마 등 출신 직원 재직과 외국 국적 학생의 채용 활동이 명시됩니다. 출신 국가 목록은 국적별 확정 인원과 구분합니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://recruit.jbs.co.jp/faq/",
+          "https://recruit.jbs.co.jp/newgraduate/",
+          "https://www.jbs.co.jp/corp/hrstrategy/dei"
+        ],
+        "evidence": [
+          {
+            "url": "https://www.jbs.co.jp/corp/hrstrategy/dei",
+            "label": "조사 자료"
+          }
+        ],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "Works Human Intelligence": {
       "industry": "it",
       "address": "東京都港区虎ノ門2-6-1 虎ノ門ヒルズ ステーションタワー10F",
       "business": "대기업용 통합 인사 시스템 COMPANY의 개발·판매·지원과 HR 관련 서비스를 제공합니다.",
-      "url": "https://www.career.works-hi.co.jp/corporate/overview/"
+      "url": "https://www.career.works-hi.co.jp/corporate/overview/",
+      "foreignHiring": {
+        "status": "unknown",
+        "scope": "unknown",
+        "reason": "해당 기업의 공식 도메인과 공개 채용 자료를 검색했지만, 채용 법인 단독의 외국인 채용 인원·입사 또는 재직 사례를 확인하지 못했습니다. 공개 근거 미확보이며 이력 없음이나 지원 불가로 단정하지 않습니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [],
+        "evidence": [],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "NTT 데이터 포스": {
       "industry": "it",
       "address": "神奈川県横浜市港北区新横浜3-7-8 スイテ新横浜13階",
       "business": "금융기관 시스템의 설계·개발·운영 및 지역은행을 위한 IT 서비스를 제공합니다.",
-      "url": "https://www.nttdata-force.co.jp/company/data.html"
+      "url": "https://www.nttdata-force.co.jp/company/data.html",
+      "foreignHiring": {
+        "status": "unknown",
+        "scope": "unknown",
+        "reason": "해당 기업의 공식 도메인과 공개 채용 자료를 검색했지만, 채용 법인 단독의 외국인 채용 인원·입사 또는 재직 사례를 확인하지 못했습니다. 공개 근거 미확보이며 이력 없음이나 지원 불가로 단정하지 않습니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://www.nttdata-force.co.jp/recruit/mid-career/",
+          "https://www.nttdata-force.co.jp/recruit/top.html",
+          "https://www.nttdata-force.co.jp/recruit/new-graduate/info/"
+        ],
+        "evidence": [],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "NTT 데이터 프런티어": {
       "industry": "it",
       "address": "東京都港区港南1-9-36 アレア品川ビル25階",
       "business": "금융 분야를 중심으로 정보 시스템과 소프트웨어의 개발·운영 및 IT 서비스를 제공합니다.",
-      "url": "https://www.nttd-fr.com/company/map.html"
+      "url": "https://www.nttd-fr.com/company/map.html",
+      "foreignHiring": {
+        "status": "unknown",
+        "scope": "unknown",
+        "reason": "해당 기업의 공식 도메인과 공개 채용 자료를 검색했지만, 채용 법인 단독의 외국인 채용 인원·입사 또는 재직 사례를 확인하지 못했습니다. 공개 근거 미확보이며 이력 없음이나 지원 불가로 단정하지 않습니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://www.nttd-fr.com/recruit/information/guidance_mid-career.html",
+          "https://www.nttd-fr.com/recruit/information/oc.html",
+          "https://www.nttd-fr.com/company/dei.html"
+        ],
+        "evidence": [],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "크레스코": {
       "industry": "it",
@@ -4390,25 +5403,90 @@ window.dailyScan = {
       "revenueFiscalYear": "2026년 3월기",
       "revenueUrl": "https://www.cresco.co.jp/ja/ir/library/securities/latest-securities/main/02/teaserItems4/0/linkList/0/link/37_4q_houkoku_1.pdf",
       "revenueVerifiedOn": "2026-11-20",
-      "revenueNote": "연결 매출 약646.77억 엔과 구분. 단독 약323.33억 엔이므로 이번 조건에서 제외."
+      "revenueNote": "연결 매출 약646.77억 엔과 구분. 단독 약323.33억 엔이므로 이번 조건에서 제외.",
+      "foreignHiring": {
+        "status": "policy_only",
+        "scope": "hiring_entity",
+        "reason": "공식 지배구조 안내에서 외국 국적 직원 채용을 추진한다는 방침을 확인했습니다. 실제 입사 완료·재직 인원과 신입별 내역은 별도 공개 확인되지 않았습니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://www.cresco.co.jp/ja/sustainability/governance/governance/2.html",
+          "https://www.cresco.co.jp/ja/sustainability/social/hc/diversity.html",
+          "https://www.cresco.co.jp/ja/ir/library/annual_report/main/06/teaserItems3/0/linkList/0/link/cresco_report_2023_view.pdf"
+        ],
+        "evidence": [
+          {
+            "url": "https://www.cresco.co.jp/ja/sustainability/governance/governance/2.html",
+            "label": "조사 자료"
+          }
+        ],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "CIJ": {
       "industry": "it",
       "address": "神奈川県横浜市西区高島1-2-5 横濱ゲートタワー17階",
       "business": "금융·통신·제조·관공서 정보 시스템의 개발부터 운영·유지보수까지 제공하는 SI 기업입니다.",
-      "url": "https://recruit.cij.co.jp/newgrads/about/"
+      "url": "https://recruit.cij.co.jp/newgrads/about/",
+      "foreignHiring": {
+        "status": "policy_only",
+        "scope": "current_policy",
+        "reason": "공식 통합보고서에서 성별·국적·전공 구분 없는 채용 방침을 확인했습니다. 해당 법인의 외국인 실제 입사 사례·인원은 미확인입니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://recruit.cij.co.jp/career/outline/outline.html",
+          "https://recruit.cij.co.jp/career/outline/",
+          "https://recruit.cij.co.jp/career/outline/exp/form.html"
+        ],
+        "evidence": [
+          {
+            "url": "https://www.cij.co.jp/wp-content/uploads/CIJ_report2025.pdf",
+            "label": "조사 자료"
+          }
+        ],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "라쿠텐 그룹": {
       "industry": "it",
       "address": "東京都世田谷区玉川1-14-1 楽天クリムゾンハウス",
       "business": "전자상거래, 핀테크, 디지털 콘텐츠와 통신 등 다양한 인터넷 서비스를 운영합니다.",
-      "url": "https://corp.rakuten.co.jp/about/"
+      "url": "https://corp.rakuten.co.jp/about/",
+      "foreignHiring": {
+        "status": "confirmed",
+        "scope": "hiring_entity",
+        "reason": "공식 채용 메시지에서 직원 약 4명 중 1명이 외국 국적이며 해외에서 인재를 채용한다고 설명합니다. 개별 직무·신입 실적 인원은 미확인입니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://corp.rakuten.co.jp/careers/files/doc01.html",
+          "https://corp.rakuten.co.jp/careers/overseas/",
+          "https://corp.rakuten.co.jp/careers/faq/"
+        ],
+        "evidence": [
+          {
+            "url": "https://corp.rakuten.co.jp/careers/message/",
+            "label": "조사 자료"
+          }
+        ],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "NTT 데이터 웨이브": {
       "industry": "it",
       "address": "東京都渋谷区千駄ヶ谷1-14-5 千駄ヶ谷インテス",
       "business": "기업 업무 애플리케이션과 IT 인프라의 컨설팅·설계·개발·운영을 제공합니다.",
-      "url": "https://www.nttd-wave.com/profiles/company.html"
+      "url": "https://www.nttd-wave.com/profiles/company.html",
+      "foreignHiring": {
+        "status": "unknown",
+        "scope": "unknown",
+        "reason": "해당 기업의 공식 도메인과 공개 채용 자료를 검색했지만, 채용 법인 단독의 외국인 채용 인원·입사 또는 재직 사례를 확인하지 못했습니다. 공개 근거 미확보이며 이력 없음이나 지원 불가로 단정하지 않습니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://www.nttd-wave.com/adoptions/recruit/career/post.html"
+        ],
+        "evidence": [],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "CEC": {
       "industry": "it",
@@ -4423,27 +5501,83 @@ window.dailyScan = {
       "cloudRelated": true,
       "cloudReason": "기업 공식 중기계획에서 클라우드 서비스 사업 및 시스템 기반의 클라우드 전환을 확인했습니다.",
       "cloudEvidenceUrl": "https://www.cec-ltd.co.jp/ir/aboutus/guide_pdf/vision2030-management_plan2025-27.pdf",
-      "cloudVerifiedOn": "2026-11-20"
+      "cloudVerifiedOn": "2026-11-20",
+      "foreignHiring": {
+        "status": "unknown",
+        "scope": "unknown",
+        "reason": "해당 기업의 공식 도메인과 공개 채용 자료를 검색했지만, 채용 법인 단독의 외국인 채용 인원·입사 또는 재직 사례를 확인하지 못했습니다. 공개 근거 미확보이며 이력 없음이나 지원 불가로 단정하지 않습니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://recruit.cec-ltd.co.jp/recruit/requirements.html",
+          "https://recruit.cec-ltd.co.jp/recruit/faq.html",
+          "https://www.cec-ltd.co.jp/inquiry/carrer/"
+        ],
+        "evidence": [],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "포커스시스템즈": {
       "industry": "it",
       "address": "東京都品川区東五反田2-7-8 フォーカス五反田ビル",
       "business": "관공서·금융·통신 등 다양한 산업의 시스템 개발, IT 인프라·보안과 운영·유지보수 서비스를 제공합니다.",
-      "url": "https://www.focus-s.com/recruit/graduates/about"
+      "url": "https://www.focus-s.com/recruit/graduates/about",
+      "foreignHiring": {
+        "status": "unknown",
+        "scope": "unknown",
+        "reason": "해당 기업의 공식 도메인과 공개 채용 자료를 검색했지만, 채용 법인 단독의 외국인 채용 인원·입사 또는 재직 사례를 확인하지 못했습니다. 공개 근거 미확보이며 이력 없음이나 지원 불가로 단정하지 않습니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://www.focus-s.com/recruit/career/information/faq",
+          "https://www.focus-s.com/recruit/graduates/information/requirement"
+        ],
+        "evidence": [],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "소니 네트워크 커뮤니케이션즈": {
       "industry": "it",
       "address": "東京都港区港南1-7-1 ソニー本社ビル内",
       "business": "NURO 히카리·So-net 등 인터넷 통신 서비스와 법인용 IT 솔루션을 제공합니다. 인원은 원커리어에 공개된 2026년 3월 말 법인 단독 802명을 약 800명으로 표시했습니다.",
       "url": "https://www.sonynetwork.co.jp/corporation/",
-      "sizeApproximate": true
+      "sizeApproximate": true,
+      "foreignHiring": {
+        "status": "confirmed",
+        "scope": "hiring_entity",
+        "reason": "기업 공식 채용 매체에 외국 국적 직원들의 입사 계기와 실제 업무·근무 환경 인터뷰가 공개돼 있습니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://note.sonynetwork.co.jp/n/n8796fa2eeb71?magazine_key=md334de3a8cf6",
+          "https://note.sonynetwork.co.jp/n/nc883e34953de",
+          "https://note.sonynetwork.co.jp/n/nb55ff25817a1"
+        ],
+        "evidence": [
+          {
+            "url": "https://note.sonynetwork.co.jp/n/nb55ff25817a1",
+            "label": "조사 자료"
+          }
+        ],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "히타치 사회정보서비스": {
       "industry": "it",
       "address": "東京都品川区南大井6-26-3 大森ベルポートD館17階",
       "business": "공공·통신·금융 등 시스템 통합, 시스템 운영, 패키지·솔루션 서비스를 제공합니다. 공식 채용 페이지의 2026년 3월 기준 법인 단독 약 2,820명을 사용하며 그룹 전체 3,080명과 구분합니다.",
       "url": "https://www.hitachi-sis.co.jp/company/profile/",
-      "sizeApproximate": true
+      "sizeApproximate": true,
+      "foreignHiring": {
+        "status": "unknown",
+        "scope": "unknown",
+        "reason": "해당 기업의 공식 도메인과 공개 채용 자료를 검색했지만, 채용 법인 단독의 외국인 채용 인원·입사 또는 재직 사례를 확인하지 못했습니다. 공개 근거 미확보이며 이력 없음이나 지원 불가로 단정하지 않습니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://www.hitachi-sis.co.jp/recruit/outline/",
+          "https://www.hitachi-sis.co.jp/company/privacy/index.html",
+          "https://www.hitachi-sis.co.jp/company/privacy/index.files/kakuninsyorui.pdf"
+        ],
+        "evidence": [],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "CTC 테크놀로지": {
       "industry": "it",
@@ -4454,7 +5588,25 @@ window.dailyScan = {
       "cloudRelated": true,
       "cloudReason": "공식 직무 소개에서 클라우드 기반 시스템 인프라의 설계·구축 업무를 확인했습니다.",
       "cloudEvidenceUrl": "https://www.ctct.co.jp/recruit/about/jobcategory.html",
-      "cloudVerifiedOn": "2026-11-19"
+      "cloudVerifiedOn": "2026-11-19",
+      "foreignHiring": {
+        "status": "confirmed",
+        "scope": "hiring_entity",
+        "reason": "공식 채용 FAQ에서 외국인 직원 다수를 이미 채용해 활약 중이라고 명시합니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://www.ctct.co.jp/recruit/info/faq.html",
+          "https://www.ctct.co.jp/recruit/info/newgraduate.html",
+          "https://www.ctct.co.jp/recruit/info/careers.html"
+        ],
+        "evidence": [
+          {
+            "url": "https://www.ctct.co.jp/recruit/info/faq.html",
+            "label": "조사 자료"
+          }
+        ],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "하테나": {
       "industry": "it",
@@ -4462,7 +5614,20 @@ window.dailyScan = {
       "business": "하테나 블로그·북마크 등 인터넷 서비스, 콘텐츠 플랫폼과 Mackerel 모니터링 서비스를 개발·운영합니다.",
       "url": "https://hatena.co.jp/information/outline",
       "employeeCountAsOf": "2025-07-31",
-      "employeeCountNote": "유가증권보고서 제출회사 217명. 비연결 법인 기준이며 임시 고용 인원은 제외."
+      "employeeCountNote": "유가증권보고서 제출회사 217명. 비연결 법인 기준이며 임시 고용 인원은 제외.",
+      "foreignHiring": {
+        "status": "unknown",
+        "scope": "unknown",
+        "reason": "해당 기업의 공식 도메인과 공개 채용 자료를 검색했지만, 채용 법인 단독의 외국인 채용 인원·입사 또는 재직 사례를 확인하지 못했습니다. 공개 근거 미확보이며 이력 없음이나 지원 불가로 단정하지 않습니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://hatena.co.jp/recruit",
+          "https://hatena.co.jp/recruit/intern/2026",
+          "https://hatena.co.jp/information/culture"
+        ],
+        "evidence": [],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "클래스메소드 오퍼레이션즈": {
       "industry": "it",
@@ -4470,7 +5635,25 @@ window.dailyScan = {
       "business": "AWS 등 클라우드의 기술 컨설팅·설계·구축·운용 보수, 데이터 분석 기반과 애플리케이션 개발·운영을 지원합니다.",
       "url": "https://classmethod-operations.jp/",
       "employeeCountAsOf": "2025-09-01",
-      "employeeCountNote": "공식 회사 정보에 기재된 해당 법인 193명."
+      "employeeCountNote": "공식 회사 정보에 기재된 해당 법인 193명.",
+      "foreignHiring": {
+        "status": "confirmed",
+        "scope": "hiring_entity",
+        "reason": "공식 회사 소개에서 외국 국적 멤버를 포함한 재택근무 지원을 명시합니다. 신입·경력별 채용 인원은 공개되지 않았습니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://careers.classmethod-operations.jp/faq/",
+          "https://careers.classmethod-operations.jp/selection/",
+          "https://careers.classmethod-operations.jp/requirements/"
+        ],
+        "evidence": [
+          {
+            "url": "https://classmethod-operations.jp/",
+            "label": "조사 자료"
+          }
+        ],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "미라티브": {
       "industry": "it",
@@ -4479,7 +5662,23 @@ window.dailyScan = {
       "url": "https://hrmos.co/pages/mirrativ/jobs/4007",
       "corporateUrl": "https://www.mirrativ.co.jp/company/",
       "employeeCountAsOf": "2026-01",
-      "employeeCountNote": "기업이 운영하는 공식 채용 페이지의 정사원 148명."
+      "employeeCountNote": "기업이 운영하는 공식 채용 페이지의 정사원 148명.",
+      "foreignHiring": {
+        "status": "unknown",
+        "scope": "unknown",
+        "reason": "공식 채용 소개에 해외 출신 직원 사례가 있으나 출신지·해외 대학 졸업만으로 외국 국적을 추정하지 않았습니다. 외국인 채용 실적은 미확인입니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://www.mirrativ.co.jp/recruit/"
+        ],
+        "evidence": [
+          {
+            "url": "https://www.mirrativ.co.jp/recruit/",
+            "label": "조사 자료"
+          }
+        ],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "와이・시・시(YCC)": {
       "industry": "it",
@@ -4488,7 +5687,16 @@ window.dailyScan = {
       "url": "https://job.mynavi.jp/28/pc/search/corp91281/outline.html",
       "corporateUrl": "https://www.ycc.co.jp/",
       "employeeCountAsOf": "2025-04-01",
-      "employeeCountNote": "마이나비 기업 작성 회사 정보 188명. 공식 사이트는 조회 시 시간 초과."
+      "employeeCountNote": "마이나비 기업 작성 회사 정보 188명. 공식 사이트는 조회 시 시간 초과.",
+      "foreignHiring": {
+        "status": "unknown",
+        "scope": "unknown",
+        "reason": "해당 기업의 공식 도메인과 공개 채용 자료를 검색했지만, 채용 법인 단독의 외국인 채용 인원·입사 또는 재직 사례를 확인하지 못했습니다. 공개 근거 미확보이며 이력 없음이나 지원 불가로 단정하지 않습니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [],
+        "evidence": [],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "일본 알고리즘": {
       "industry": "it",
@@ -4496,7 +5704,25 @@ window.dailyScan = {
       "business": "AI·연구개발, 기반 시스템과 애플리케이션 소프트웨어를 설계·개발하고 네트워크 구축·운영을 제공합니다.",
       "url": "https://www.nalgo.co.jp/company/",
       "employeeCountAsOf": "2026-04",
-      "employeeCountNote": "공식 회사 개요 전 종업원 201명(개발 191명, 영업·관리 10명)."
+      "employeeCountNote": "공식 회사 개요 전 종업원 201명(개발 191명, 영업·관리 10명).",
+      "foreignHiring": {
+        "status": "policy_only",
+        "scope": "current_policy",
+        "reason": "공식 신입 모집요강에서 외국 국적 지원 가능과 일본어 N2 상당 수준을 명시합니다. 실제 채용 실적은 별도 공개 확인되지 않았습니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://recruit.nalgo.co.jp/requirements/new-graduate/",
+          "https://recruit.nalgo.co.jp/",
+          "https://www.nalgo.co.jp/wp-content/uploads/%E4%BC%81%E6%A5%AD%E6%A6%82%E8%A6%81.pdf"
+        ],
+        "evidence": [
+          {
+            "url": "https://recruit.nalgo.co.jp/requirements/new-graduate/",
+            "label": "조사 자료"
+          }
+        ],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "사쿠라 정보시스템": {
       "industry": "it",
@@ -4509,7 +5735,25 @@ window.dailyScan = {
       "cloudRelated": true,
       "cloudReason": "기업 공식 소개에서 클라우드 통합 및 업무 시스템 개발·운영 사업을 확인했습니다. 개별 행사는 일반 SE 직무도 다룹니다.",
       "cloudEvidenceUrl": "https://www.sakura-is.co.jp/",
-      "cloudVerifiedOn": "2026-11-20"
+      "cloudVerifiedOn": "2026-11-20",
+      "foreignHiring": {
+        "status": "confirmed",
+        "scope": "hiring_entity",
+        "reason": "공식 다양성 소개에서 외국 국적 직원 수 명이 재직하며 입사 전 일본어 교육 등을 지원한다고 명시합니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://www.sakura-is.co.jp/recruit/info/faq/",
+          "https://www.sakura-is.co.jp/xology/xology-wf/",
+          "https://www.sakura-is.co.jp/sustainability/diversity/index.html"
+        ],
+        "evidence": [
+          {
+            "url": "https://www.sakura-is.co.jp/sustainability/diversity/index.html",
+            "label": "조사 자료"
+          }
+        ],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "기프티": {
       "industry": "it",
@@ -4517,7 +5761,20 @@ window.dailyScan = {
       "business": "개인·법인·지자체를 대상으로 e기프트 생성·발행·유통 플랫폼과 관련 업무 시스템을 개발·제공합니다.",
       "url": "https://giftee.co.jp/company/outline/",
       "employeeCountAsOf": "2026-09-30",
-      "employeeCountNote": "공식 회사 개요의 株式会社ギフティ 308명. 그룹 합산 수치와 구분."
+      "employeeCountNote": "공식 회사 개요의 株式会社ギフティ 308명. 그룹 합산 수치와 구분.",
+      "foreignHiring": {
+        "status": "unknown",
+        "scope": "unknown",
+        "reason": "해당 기업의 공식 도메인과 공개 채용 자료를 검색했지만, 채용 법인 단독의 외국인 채용 인원·입사 또는 재직 사례를 확인하지 못했습니다. 공개 근거 미확보이며 이력 없음이나 지원 불가로 단정하지 않습니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://careers.giftee.co.jp/newgrads/",
+          "https://careers.giftee.co.jp/",
+          "https://giftee.co.jp/giftee-guideline.pdf"
+        ],
+        "evidence": [],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "IIJ": {
       "industry": "it",
@@ -4534,7 +5791,24 @@ window.dailyScan = {
       "cloudRelated": true,
       "cloudReason": "자체 IIJ GIO 클라우드 기반·관리 서비스 개발과 운영 사업을 확인했습니다.",
       "cloudEvidenceUrl": "https://www.iij.ad.jp/news/pressrelease/2026/0330.html",
-      "cloudVerifiedOn": "2026-11-20"
+      "cloudVerifiedOn": "2026-11-20",
+      "foreignHiring": {
+        "status": "confirmed",
+        "scope": "hiring_entity",
+        "reason": "채용 지원 업체의 IIJ 담당자 인터뷰에서 국내 대학 외국 국적 인재 채용 경험과 인도 현지 선발·일본 채용 사례를 확인했습니다. 신입 대상 사례를 포함하며 인원은 미공개입니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://www.iij.ad.jp/recruit/newgrad/guidelines.html",
+          "https://www.iij.ad.jp/sustainability/materiality03/diversity/"
+        ],
+        "evidence": [
+          {
+            "url": "https://solution.jtp.co.jp/case/iij",
+            "label": "조사 자료"
+          }
+        ],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "DTS": {
       "industry": "it",
@@ -4551,7 +5825,23 @@ window.dailyScan = {
       "cloudRelated": true,
       "cloudReason": "AWS·Azure 기반 구축과 기존 시스템의 클라우드 전환 사업을 확인했습니다.",
       "cloudEvidenceUrl": "https://www.dts.co.jp/solution_sites/cloud/",
-      "cloudVerifiedOn": "2026-11-20"
+      "cloudVerifiedOn": "2026-11-20",
+      "foreignHiring": {
+        "status": "confirmed",
+        "scope": "hiring_entity",
+        "reason": "JAIST 공식 외국인 유학생 진로 자료의 2018~2020년도 주요 취업처에 DTS가 기재됩니다. 최근 실적·국적·인원은 별도 미확인입니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://www.jaist.ac.jp/careersupport/data/international_students2018-2020.pdf"
+        ],
+        "evidence": [
+          {
+            "url": "https://www.jaist.ac.jp/careersupport/data/international_students2018-2020.pdf",
+            "label": "조사 자료"
+          }
+        ],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     },
     "BIPROGY": {
       "industry": "it",
@@ -4568,7 +5858,25 @@ window.dailyScan = {
       "cloudRelated": true,
       "cloudReason": "Azure·AWS 환경 구축과 운영을 지원하는 CLOUDForesight 사업을 확인했습니다.",
       "cloudEvidenceUrl": "https://www.biprogy.com/solution/service/cloudforesight.html",
-      "cloudVerifiedOn": "2026-11-20"
+      "cloudVerifiedOn": "2026-11-20",
+      "foreignHiring": {
+        "status": "confirmed",
+        "scope": "hiring_entity",
+        "reason": "공식 지속가능성 자료에서 외국 국적 신입 채용을 실시하고 2024년도에 9명을 채용했다고 명시합니다.",
+        "checkedOn": "2026-11-21",
+        "reviewUrls": [
+          "https://www.biprogy.com/pdf/sustainability/sustainabilityreport2025.pdf",
+          "https://www.biprogy.com/pdf/sustainability/sustainabilityreport2024.pdf",
+          "https://www.biprogy.com/pdf/sustainability/sustainability_rpt2022_social.pdf"
+        ],
+        "evidence": [
+          {
+            "url": "https://biprogy.disclosure.site/ja/themes/107",
+            "label": "조사 자료"
+          }
+        ],
+        "searchScope": "공식 도메인·기업명과 외국인/외국 국적 채용·직원 키워드의 공개 검색"
+      }
     }
   },
   "coverage": {
@@ -8254,5 +9562,79 @@ window.dailyScan = {
       "recruitUrl": "https://recruit.cec-ltd.co.jp/recruit/requirements.html",
       "recruitStatus": "28졸 SE 모집 및 마이나비2028 엔트리 안내 확인. 기존 보드 공고에서 상세 확인 가능."
     }
-  ]
+  ],
+  "foreignHiringResearch": {
+    "checkedOn": "2026-11-21",
+    "companyCount": 87,
+    "counts": {
+      "confirmed": 27,
+      "group_only": 6,
+      "unknown": 44,
+      "policy_only": 8,
+      "none_reported": 1,
+      "not_recruiting": 1
+    },
+    "method": "등록 기업 전체의 공개 자료 1차 조사. 공식 채용·다양성·IR·직원 인터뷰와 대학·채용 사이트 자료를 확인했으며, 검색 결과만으로 이력 없음을 단정하지 않습니다.",
+    "unresolvedCompanies": [
+      "GA technologies",
+      "AR Advanced Technology",
+      "NTT 데이터 위즈",
+      "Kernel Software Engineering",
+      "액센추어 일본",
+      "Money Forward",
+      "후쿠오카은행",
+      "NTT 도코모 솔루션즈",
+      "City-Com",
+      "Supership",
+      "RAKUS",
+      "KPMG FAS",
+      "PCA",
+      "TIS 솔루션 링크",
+      "TechVan",
+      "Marble",
+      "OBC",
+      "토요타 시스템즈",
+      "토요타 정보시스템 아이치",
+      "PKSHA Technology",
+      "히타치 솔루션즈 테크놀로지",
+      "KDDI 엔지니어링",
+      "NTT 데이터 MSE",
+      "미쓰비시전기 소프트웨어",
+      "니즈웰",
+      "일본 IBM 디지털 서비스",
+      "닌텐도",
+      "TISI",
+      "마이나비",
+      "서버웍스",
+      "NX 정보시스템",
+      "Speee",
+      "도시바 유니파이드 테크놀로지즈",
+      "NTT-AT 시스템즈",
+      "호쿠와넥스",
+      "서일본고속도로 엔지니어링 간사이",
+      "료비 시스템즈",
+      "다이와보 정보시스템",
+      "JR 도카이 정보시스템",
+      "EIZO",
+      "일본시스템기술(JAST)",
+      "GMO 인터넷",
+      "SmartHR",
+      "GMO 페파보",
+      "ZOZO",
+      "Works Human Intelligence",
+      "NTT 데이터 포스",
+      "NTT 데이터 프런티어",
+      "크레스코",
+      "CIJ",
+      "NTT 데이터 웨이브",
+      "CEC",
+      "포커스시스템즈",
+      "히타치 사회정보서비스",
+      "하테나",
+      "미라티브",
+      "와이・시・시(YCC)",
+      "일본 알고리즘",
+      "기프티"
+    ]
+  }
 };
