@@ -59,3 +59,10 @@
 새로 찾는 기업은 28졸·IT 엔지니어·모든 업계·채용 법인 사원 100명 이상에 더해, 최근 확정된 연간 매출 500억~5,000억 엔(양 끝 포함)과 확인된 클라우드 사업 조건을 적용합니다. 법인 단독 매출을 우선하고 단독 매출이 공개되지 않은 경우에만 연결 매출임을 표시해 보완합니다. 단독 매출이 범위 밖이면 연결 매출로 대체해 통과시키지 않습니다. 예상 매출, 반기 매출, 부모 회사 매출을 해당 법인의 연간 실적처럼 사용하지 않습니다. 합병·법인 변경으로 비교가 어려우면 보류합니다. 기존 공고와 지원 기록은 유지합니다.
 
 보드의 매출·사업 필터에서 새 조건을 선택할 수 있으며 클라우드 탭에서는 기업 조사 결과도 펼칠 수 있습니다. 매출 미확인 기업은 이 필터 결과에 포함하지 않습니다. 회사에 revenueMillionYen(백만 엔 숫자), revenueBasis(standalone 또는 consolidated), revenueFiscalYear, revenueUrl, revenueVerifiedOn을 저장합니다. 연결 대체 시 revenueNote에 단독 미공개 확인 범위를 남깁니다. 회사의 cloudRelated·cloudReason·cloudEvidenceUrl로 실제 클라우드 사업을 입증합니다. 기업 조사 결과 companyResearch는 회사명·공식 채용 링크·실제 접수 확인 상태를 기록하며, 회사 조사 결과만으로 미확인 공고를 jobs에 추가하지 않습니다.
+
+
+### 외국인 채용 이력 조사 (2026-11-21 사용자 요청)
+
+모든 등록 기업과 새로 추가하는 기업의 외국인 채용·재직 이력을 확인합니다. 회사 정보와 전체 기업 조사 목록에 상태·이유·근거 링크·확인일을 표시합니다. 실제 입사·재직 사례가 있어야 confirmed, 기업이 유학생 실적 없음 등을 명시한 범위만 none_reported, 지원 가능·차별 금지 방침만 있으면 policy_only, 다른 그룹사·그룹 합산 사례만 있으면 group_only, 현재 외국인 채용을 하지 않는다는 안내는 not_recruiting, 공개 근거를 찾지 못하면 unknown입니다. none_reported는 외국인 전체의 영구적 미채용을 뜻하지 않으며 현재 모집 방침과 과거 이력을 구분합니다. 이름·외모·출신지·해외 대학만으로 국적을 추정하지 않습니다. 외국인 채용 정보는 표시용이며 미확인이나 이력 없음만으로 기존·신규 공고를 자동 제외하지 않습니다.
+
+companies의 foreignHiring에 status, scope, reason(한국어), checkedOn(JST), evidence([{url,label}]), reviewUrls(검색에서 확인한 자료), searchScope를 둡니다. scope는 hiring_entity, group, student_history, current_policy, unknown으로 근거의 법인·대상 범위를 구분합니다. 외국인 이력만 조사했으면 공고의 verifiedOn이나 공고 검색 checkedAt을 갱신하지 않습니다. foreignHiringResearch에는 조사일·전체 기업 수·상태별 수·후속 확인 대상 기업을 기록합니다. 미확인 항목은 이후 기업 공식 자료에서 추가 확인하고 상태를 근거와 함께 갱신합니다. 기존 근거와 더 최신의 상반된 자료가 나오면 두 자료의 시점·범위를 명시합니다.
