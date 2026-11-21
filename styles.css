@@ -229,3 +229,11 @@ footer a { margin-left: auto; white-space: nowrap; }
   .types button { padding: 7px 8px; font-size: .76rem; }
 }
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+
+.foreign-hiring { display: grid; gap: 4px; line-height: 1.6; overflow-wrap: anywhere; }
+.foreign-hiring strong { color: var(--ink); }
+.foreign-hiring-links { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px; }
+.foreign-hiring-links small { color: var(--muted); }
+#foreign-hiring-list { display: grid; gap: 0; max-height: 65vh; overflow: auto; }
+.foreign-research-row { padding: 14px 0; border-top: 1px solid var(--line); font-size: .875rem; }
+.foreign-research-row h4 { margin: 0 0 6px; font-size: 1rem; }
