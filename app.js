@@ -226,6 +226,57 @@ function renderRevenueCompanies() {
       externalLink(company.revenueUrl, "매출 근거"), " · ",
       externalLink(company.cloudEvidenceUrl, "클라우드 사업 근거"), " · ",
       externalLink(result.recruitUrl, "채용 안내"));
+    row.append(renderForeignHiring(company));
+    list.append(row);
+  }
+}
+
+
+const foreignHiringLabels = {
+  confirmed: "있음 · 채용·재직 사례 확인",
+  none_reported: "없음 · 유학생 실적(자료 기준)",
+  policy_only: "이력 미확인 · 채용 방침 확인",
+  group_only: "그룹 사례만 확인 · 법인 이력 미확인",
+  not_recruiting: "현재 외국인 채용 안 함 · 과거 이력 미확인",
+  unknown: "미확인 · 공개 근거 부족",
+};
+
+function renderForeignHiring(company) {
+  const box = element("div", "foreign-hiring");
+  const record = company?.foreignHiring;
+  box.append(element("strong", "", foreignHiringLabels[record?.status] ?? "아직 조사하지 않음"));
+  if (!record) return box;
+  box.append(element("span", "", record.reason));
+  const links = element("span", "foreign-hiring-links");
+  for (const evidence of record.evidence ?? []) {
+    if (httpUrl(evidence.url)) links.append(externalLink(evidence.url, evidence.label || "조사 자료"), " ");
+  }
+  if (!record.evidence?.length) {
+    for (const url of (record.reviewUrls ?? []).slice(0, 2)) {
+      if (httpUrl(url)) links.append(externalLink(url, "검색에서 확인한 자료"), " ");
+    }
+  }
+  links.append(element("small", "", record.checkedOn ? `확인 ${record.checkedOn}` : "확인일 미기록"));
+  box.append(links);
+  return box;
+}
+
+function renderForeignHiringResearch() {
+  const list = document.querySelector("#foreign-hiring-list");
+  if (!list) return;
+  const entries = Object.entries(dailyScan.companies ?? {});
+  document.querySelector("#foreign-hiring-summary").textContent = `외국인 채용 이력 조사 · ${entries.length}개 기업`;
+  const counts = entries.reduce((result, [, c]) => {
+    const status = c.foreignHiring?.status ?? "unknown";
+    result[status] = (result[status] ?? 0) + 1;
+    return result;
+  }, {});
+  document.querySelector("#foreign-hiring-counts").textContent =
+    `채용·재직 확인 ${counts.confirmed ?? 0} · 그룹 사례만 ${counts.group_only ?? 0} · 방침만 ${counts.policy_only ?? 0} · 유학생 실적 없음(자료 기준) ${counts.none_reported ?? 0} · 현재 채용 안 함 ${counts.not_recruiting ?? 0} · 미확인 ${counts.unknown ?? 0}`;
+  list.replaceChildren();
+  for (const [name, company] of entries.sort(([a], [b]) => a.localeCompare(b, "ko"))) {
+    const row = element("article", "foreign-research-row");
+    row.append(element("h4", "", name), renderForeignHiring(company));
     list.append(row);
   }
 }
@@ -237,6 +288,7 @@ function renderCompanyInfo(job, company = dailyScan.companies?.[job.company]) {
   const size = externalLink(job.companySizeUrl, sizeLabel, "", `${job.company} 종업원 ${sizeLabel} 근거 (새 탭)`);
   addDetail(facts, "종업원 수", size);
   if (Number.isFinite(company?.revenueMillionYen) && httpUrl(company.revenueUrl)) addDetail(facts, "매출액", externalLink(company.revenueUrl, revenueLabel(company)));
+  addDetail(facts, "외국인 채용", renderForeignHiring(company));
   addDetail(facts, "업계", industries[company?.industry ?? job.industry]);
   addDetail(facts, "본사 주소", company?.address);
   addDetail(facts, "주요 사업", company?.business);
@@ -641,5 +693,6 @@ document.addEventListener("visibilitychange", () => {
     render();
   }
 });
+renderForeignHiringResearch();
 readApplications();
 openView();
