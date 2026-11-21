@@ -6,9 +6,9 @@
   <meta name="description" content="일본 취업 공고를 찾고 지원 마감일을 관리하는 개인 보드">
   <meta name="theme-color" content="#f7f6f1">
   <title>일본 취업 마감보드</title>
-  <link rel="stylesheet" href="styles.css?v=cloud-view">
-  <script src="daily-data.js?v=cloud-view" defer></script>
-  <script src="app.js?v=20261120-revenue-cloud" defer></script>
+  <link rel="stylesheet" href="styles.css?v=20261121-foreign-hiring">
+  <script src="daily-data.js?v=20261121-foreign-hiring" defer></script>
+  <script src="app.js?v=20261121-foreign-hiring" defer></script>
 </head>
 <body>
   <svg class="symbols" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
@@ -92,6 +92,7 @@
         <a href="#applied" data-view="applied">지원한 공고</a>
         <a href="#calendar" data-view="calendar">캘린더</a>
       </nav>
+      <details id="foreign-hiring-research" class="scan-coverage"><summary id="foreign-hiring-summary">외국인 채용 이력 조사</summary><p>채용 이력과 지원 가능 안내를 구분합니다. 미확인은 채용 이력이 없다는 뜻이 아닙니다. 유학생 실적·현재 모집 방침·그룹 자료는 표시된 범위에 한정되며, 28졸 해당 직무의 지원 자격은 원문에서 확인하세요.</p><p id="foreign-hiring-counts"></p><div id="foreign-hiring-list"></div></details>
       <p class="application-status" id="application-status" role="status"></p>
       <div id="daily">
         <details id="revenue-companies" class="scan-coverage" hidden><summary>매출 500억~5,000억 엔 클라우드 기업 조사 결과</summary><p>단독 매출 우선, 미공개일 때 연결 기준으로 구분합니다. 기업 조건 확인과 공고 접수 확인은 별도이며, 일반 공고는 아래에서 확인하세요.</p><div id="revenue-company-list"></div></details>
